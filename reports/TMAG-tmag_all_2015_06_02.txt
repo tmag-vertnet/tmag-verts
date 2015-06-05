@@ -1,0 +1,106 @@
+Report for Institution Code TMAG, Resource tmag_all
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 34
+Number of records retrieved in searches: 198
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 3
+	Country: Germany ; Times: 4
+	Country: Mexico ; Times: 1
+	Country: Spain ; Times: 2
+	Country: United States ; Times: 24
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 1
+	Date: 2015-05-06 ; Times: 1
+	Date: 2015-05-10 ; Times: 3
+	Date: 2015-05-11 ; Times: 5
+	Date: 2015-05-12 ; Times: 3
+	Date: 2015-05-13 ; Times: 1
+	Date: 2015-05-14 ; Times: 1
+	Date: 2015-05-21 ; Times: 4
+	Date: 2015-05-26 ; Times: 3
+	Date: 2015-05-27 ; Times: 10
+	Date: 2015-05-29 ; Times: 1
+	Date: 2015-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Balaenoptera physalus" ; Times: 2
+	Query: "specificepithet:ferruginea genus:calidris" ; Times: 2
+	Query: ""balaenoptera"" ; Times: 1
+	Query: "Lobodon carcinophagus" ; Times: 2
+	Query: "recordedby:McGregor year >= 1898 year <= 1898" ; Times: 1
+	Query: "pseudocarcharias" ; Times: 2
+	Query: "Falco hypoleucos" ; Times: 4
+	Query: "alopias" ; Times: 1
+	Query: "Hydrurga leptonyx" ; Times: 7
+	Query: "zoothera dauma" ; Times: 3
+	Query: "squatina" ; Times: 2
+	Query: "genus:thylacinus" ; Times: 1
+	Query: "fin whale" ; Times: 1
+	Query: "thylacinus" ; Times: 1
+	Query: "cisticola exilis" ; Times: 1
+	Query: "Alopias" ; Times: 1
+	Query: "balaenoptera musculus" ; Times: 1
+	Query: "lepidoptera" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 976 download events in this period)
+Total number of records downloaded: 422 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 113
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 1
+	Date: 2015-05-08 ; Times: 2
+	Date: 2015-05-11 ; Times: 1
+	Date: 2015-05-13 ; Times: 1
+	Date: 2015-05-21 ; Times: 2
+	Date: 2015-05-26 ; Times: 1
+	Date: 2015-05-29 ; Times: 6
+	Date: 2015-05-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "elapidae" ; Times: 3
+	Query: "Balaenoptera physalus" ; Times: 1
+	Query: "tyto alba" ; Times: 1
+	Query: "Neochmia phaeton year >= 1900 year <= 1960" ; Times: 1
+	Query: "pelamis" ; Times: 1
+	Query: "Hydrophiidae mappable:1" ; Times: 1
+	Query: "elapidae mappable:1" ; Times: 1
+	Query: "agamidae" ; Times: 2
+	Query: "Falco hypoleucos" ; Times: 2
+	Query: "agamidae mappable:1" ; Times: 1
+	Query: "balaenoptera musculus" ; Times: 1
+	Query: ""Neochmia phaeton" country:"Australia"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 56
+Total number of records retrieved from searches: 475
+Number of download events that retrieved data from the resource: 35
+Total number of records downloaded: 2720
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 70
+Total number of records retrieved from searches: 773
+Number of download events that retrieved data from the resource: 35
+Total number of records downloaded: 2720
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
