@@ -1,0 +1,164 @@
+Report for Institution Code TMAG, Resource Ornithology
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 77
+Number of records retrieved in searches: 361
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Benin ; Times: 3
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Denmark ; Times: 8
+	Country: France ; Times: 14
+	Country: Germany ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: New Zealand ; Times: 3
+	Country: Thailand ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 33
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-03 ; Times: 2
+	Date: 2015-08-05 ; Times: 7
+	Date: 2015-08-07 ; Times: 6
+	Date: 2015-08-08 ; Times: 3
+	Date: 2015-08-10 ; Times: 5
+	Date: 2015-08-11 ; Times: 5
+	Date: 2015-08-13 ; Times: 1
+	Date: 2015-08-14 ; Times: 2
+	Date: 2015-08-15 ; Times: 1
+	Date: 2015-08-17 ; Times: 6
+	Date: 2015-08-18 ; Times: 1
+	Date: 2015-08-22 ; Times: 3
+	Date: 2015-08-23 ; Times: 1
+	Date: 2015-08-24 ; Times: 2
+	Date: 2015-08-25 ; Times: 3
+	Date: 2015-08-26 ; Times: 13
+	Date: 2015-08-27 ; Times: 3
+	Date: 2015-08-28 ; Times: 6
+	Date: 2015-08-29 ; Times: 3
+	Date: 2015-08-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Strigops" ; Times: 1
+	Query: "felis catus" ; Times: 1
+	Query: ""acanthiza nana"" ; Times: 1
+	Query: "Lichenostomus melanops cassidix" ; Times: 2
+	Query: "tursiops truncatus" ; Times: 1
+	Query: "Orcinus orca" ; Times: 2
+	Query: "dasyornis" ; Times: 2
+	Query: "Burramys" ; Times: 2
+	Query: "Dama" ; Times: 1
+	Query: "zoothera dauma" ; Times: 2
+	Query: "lichenostomus versicolor" ; Times: 1
+	Query: "arctocephalus forsteri" ; Times: 1
+	Query: "4380" ; Times: 1
+	Query: "cercartetus" ; Times: 2
+	Query: "dasyornis longirostris" ; Times: 5
+	Query: "arctocephalus tropicalis" ; Times: 2
+	Query: "year >= 1755 year <= 1819" ; Times: 3
+	Query: "coturnix coturnix" ; Times: 3
+	Query: "year <= 1830" ; Times: 1
+	Query: "orcinus orca" ; Times: 2
+	Query: "Globicephala" ; Times: 1
+	Query: "year >= 1755 year <= 1810" ; Times: 1
+	Query: "neophoca cinerea" ; Times: 5
+	Query: "sus scrofa" ; Times: 1
+	Query: "coracina tenuirostris" ; Times: 2
+	Query: "Psychrolutes" ; Times: 1
+	Query: "Petaurus breviceps" ; Times: 2
+	Query: "notorynchus cepedianus" ; Times: 3
+	Query: "neophoca" ; Times: 1
+	Query: "Prionace glauca" ; Times: 1
+	Query: "specificepithet:undulatus genus:melopsittacus year >= 1979" ; Times: 2
+	Query: "isurus oxyrinchus" ; Times: 3
+	Query: "haliaeetus leucogaster" ; Times: 3
+	Query: "orcinus orca type:specimen" ; Times: 1
+	Query: "genus:Strigops" ; Times: 1
+	Query: "Apteryx owenii" ; Times: 1
+	Query: "year >= 1755 year <= 1820" ; Times: 2
+	Query: "year >= 1755 year <= 1821" ; Times: 2
+	Query: "year >= 1755 year <= 1823" ; Times: 1
+	Query: "year >= 1755 year <= 1824" ; Times: 2
+	Query: "year >= 1755 year <= 1825" ; Times: 2
+	Query: "year >= 1755 year <= 1826" ; Times: 1
+	Query: "year >= 1755 year <= 1802" ; Times: 1
+	Query: "Dromaius" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 1138 download events in this period)
+Total number of records downloaded: 229 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 212
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: France ; Times: 9
+	Country: Mexico ; Times: 2
+	Country: New Zealand ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 4
+	Country: Unknown ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-04 ; Times: 1
+	Date: 2015-08-05 ; Times: 1
+	Date: 2015-08-11 ; Times: 1
+	Date: 2015-08-13 ; Times: 1
+	Date: 2015-08-15 ; Times: 1
+	Date: 2015-08-17 ; Times: 2
+	Date: 2015-08-26 ; Times: 7
+	Date: 2015-08-27 ; Times: 8
+	Date: 2015-08-28 ; Times: 3
+	Date: 2015-08-29 ; Times: 2
+	Date: 2015-08-30 ; Times: 1
+	Date: 2015-08-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "year >= 1755 year <= 1819" ; Times: 3
+	Query: "mykiss" ; Times: 1
+	Query: "lichenostomus versicolor" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "mus" ; Times: 1
+	Query: "orcinus orca type:specimen" ; Times: 1
+	Query: "year:1862" ; Times: 2
+	Query: "Aegothelidae" ; Times: 1
+	Query: "Psychrolutes" ; Times: 1
+	Query: "genus:Strigops" ; Times: 1
+	Query: "Apteryx owenii" ; Times: 1
+	Query: "year >= 1755 year <= 1820" ; Times: 2
+	Query: "year >= 1755 year <= 1821" ; Times: 1
+	Query: "Petaurus breviceps" ; Times: 1
+	Query: "year >= 1755 year <= 1826" ; Times: 1
+	Query: "Apteryx mantelli" ; Times: 1
+	Query: "paradisaeidae" ; Times: 1
+	Query: "year:1859" ; Times: 6
+	Query: "year:1858" ; Times: 1
+	Query: "Prionace glauca" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 77
+Total number of records retrieved from searches: 361
+Number of download events that retrieved data from the resource: 29
+Total number of records downloaded: 229
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 77
+Total number of records retrieved from searches: 361
+Number of download events that retrieved data from the resource: 29
+Total number of records downloaded: 229
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
