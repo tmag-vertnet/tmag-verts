@@ -1,0 +1,137 @@
+Report for Institution Code TMAG, Resource tmag_all
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 51
+Number of records retrieved in searches: 629
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 26
+	Country: Australia ; Times: 3
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: United Kingdom ; Times: 2
+	Country: Sweden ; Times: 1
+	Country: Chile ; Times: 3
+	Country: New Zealand ; Times: 1
+	Country: Hong Kong ; Times: 4
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-10 ; Times: 1
+	Date: 2015-09-24 ; Times: 4
+	Date: 2015-09-09 ; Times: 6
+	Date: 2015-09-03 ; Times: 1
+	Date: 2015-09-19 ; Times: 4
+	Date: 2015-09-12 ; Times: 3
+	Date: 2015-09-07 ; Times: 1
+	Date: 2015-09-11 ; Times: 1
+	Date: 2015-09-05 ; Times: 3
+	Date: 2015-09-04 ; Times: 1
+	Date: 2015-09-29 ; Times: 4
+	Date: 2015-09-02 ; Times: 1
+	Date: 2015-09-17 ; Times: 6
+	Date: 2015-09-25 ; Times: 1
+	Date: 2015-09-14 ; Times: 1
+	Date: 2015-09-27 ; Times: 3
+	Date: 2015-09-08 ; Times: 5
+	Date: 2015-09-21 ; Times: 2
+	Date: 2015-09-20 ; Times: 1
+	Date: 2015-09-23 ; Times: 1
+	Date: 2015-09-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "orcinus" ; Times: 1
+	Query: "Tursiops type:specimen" ; Times: 1
+	Query: "Pseudemoia pagenstecheri" ; Times: 1
+	Query: "unicorn" ; Times: 5
+	Query: "type:specimen genus:Dasyornis" ; Times: 5
+	Query: "&#34;Ornithorhynchus anatinus&#34; mappable:1" ; Times: 1
+	Query: "hexanchus griseus" ; Times: 2
+	Query: "Cyclodomorphus island" ; Times: 1
+	Query: "Dugong dugon mappable:1" ; Times: 1
+	Query: "balaenoptera acutorostrata" ; Times: 1
+	Query: "Physeter" ; Times: 1
+	Query: "Sarcophilus harrisii mappable:1" ; Times: 1
+	Query: "ptiloris victoriae year &gt;= 1880 year &lt;= 1900" ; Times: 1
+	Query: "Balaenoptera mappable:1" ; Times: 1
+	Query: "Cuniculus" ; Times: 1
+	Query: "notorynchus" ; Times: 2
+	Query: "Paradisaea rudolphi" ; Times: 2
+	Query: "common pheasant" ; Times: 4
+	Query: "Ornithorhynchus anatinus mappable:1" ; Times: 1
+	Query: "&#34;len:&#34;" ; Times: 2
+	Query: "lauderdale" ; Times: 1
+	Query: "notorynchus cepedianus" ; Times: 1
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "megaptera" ; Times: 1
+	Query: "sandfly" ; Times: 1
+	Query: "genus:Strigops" ; Times: 1
+	Query: "gallus gallus" ; Times: 1
+	Query: "B4481" ; Times: 1
+	Query: "arctocephalus gazella" ; Times: 2
+	Query: "Cyclodomorphus casuarinae" ; Times: 1
+	Query: "physeter macrocephalus" ; Times: 1
+	Query: "Ornithorhynchus anatinus" ; Times: 2
+	Query: "balaenoptera musculus" ; Times: 1
+	Query: "baxteri" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 1045 download events in this period)
+Total number of records downloaded: 1845
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 5
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 9
+	Country: China ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Hong Kong ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-16 ; Times: 3
+	Date: 2015-09-18 ; Times: 1
+	Date: 2015-09-19 ; Times: 7
+	Date: 2015-09-10 ; Times: 2
+	Date: 2015-09-06 ; Times: 1
+	Date: 2015-09-05 ; Times: 2
+	Date: 2015-09-02 ; Times: 3
+	Date: 2015-09-01 ; Times: 1
+	Date: 2015-09-17 ; Times: 2
+	Date: 2015-09-25 ; Times: 1
+	Date: 2015-09-24 ; Times: 1
+	Date: 2015-09-09 ; Times: 2
+	Date: 2015-09-30 ; Times: 1
+	Date: 2015-09-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gavia" ; Times: 1
+	Query: "penguin" ; Times: 1
+	Query: "Gavia" ; Times: 1
+	Query: "country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "class:aves year&gt;=1976 year&lt;=1986" ; Times: 2
+	Query: "type:specimen genus:Dasyornis" ; Times: 1
+	Query: "Phasianus colchicus" ; Times: 3
+	Query: "Papua" ; Times: 1
+	Query: "wombat mappable:1" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 2
+	Query: "Paradisaea rudolphi" ; Times: 2
+	Query: "Manis temminckii" ; Times: 1
+	Query: "Rhipidura" ; Times: 1
+	Query: "common pheasant" ; Times: 4
+	Query: "New Guinea" ; Times: 2
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "lepidochelys olivacea" ; Times: 1
+	Query: "phalacrocoracidae" ; Times: 1
+	Query: "year:1859" ; Times: 1
+
+
+End of report.
