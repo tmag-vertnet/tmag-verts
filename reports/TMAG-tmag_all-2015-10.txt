@@ -1,0 +1,88 @@
+Report for Institution Code TMAG, Resource tmag_all
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 39
+Number of records retrieved in searches: 70
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+	Country: United Kingdom ; Times: 1
+	Country: Russia ; Times: 12
+	Country: Canada ; Times: 1
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 2
+	Date: 2015-10-04 ; Times: 1
+	Date: 2015-10-07 ; Times: 1
+	Date: 2015-10-15 ; Times: 2
+	Date: 2015-10-01 ; Times: 3
+	Date: 2015-10-13 ; Times: 11
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-11 ; Times: 1
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-08 ; Times: 1
+	Date: 2015-10-14 ; Times: 1
+	Date: 2015-10-30 ; Times: 2
+	Date: 2015-10-06 ; Times: 1
+	Date: 2015-10-31 ; Times: 1
+	Date: 2015-10-27 ; Times: 1
+	Date: 2015-10-12 ; Times: 1
+	Date: 2015-10-25 ; Times: 1
+	Date: 2015-10-26 ; Times: 2
+	Date: 2015-10-23 ; Times: 3
+	Date: 2015-10-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:platurus genus:Pelamis mappable:1" ; Times: 2
+	Query: "blue whale" ; Times: 1
+	Query: "sus scrofa" ; Times: 1
+	Query: "dama.dama" ; Times: 1
+	Query: "legless lizard" ; Times: 2
+	Query: "arctocephalus tropicalis" ; Times: 1
+	Query: "platypus" ; Times: 1
+	Query: "type:specimen genus:Dasyornis" ; Times: 1
+	Query: "Paradisaea rudolphi type:specimen" ; Times: 1
+	Query: "pachyptila belcheri" ; Times: 1
+	Query: "sirenia" ; Times: 2
+	Query: "Paradisaea rudolphi" ; Times: 1
+	Query: "unicorn" ; Times: 14
+	Query: "Nestor meridionalis" ; Times: 9
+	Query: "baxteri" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 823 download events in this period)
+Total number of records downloaded: 330
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 2
+	Date: 2015-10-05 ; Times: 1
+	Date: 2015-10-10 ; Times: 1
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-08 ; Times: 1
+	Date: 2015-10-19 ; Times: 2
+	Date: 2015-10-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "family:spheniscidae" ; Times: 1
+	Query: "sus scrofa" ; Times: 1
+	Query: "dama.dama" ; Times: 1
+	Query: "ovis aries" ; Times: 1
+	Query: "arctocephalus tropicalis" ; Times: 1
+	Query: "kangaroo" ; Times: 1
+	Query: "gularis" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus" ; Times: 1
+	Query: "marmorata" ; Times: 1
+	Query: "class:aves stateprovince:California" ; Times: 1
+	Query: "spheniscidae type:specimen class:aves" ; Times: 1
+
+
+End of report.
