@@ -1,0 +1,81 @@
+Report for Institution Code TMAG, Resource tmag_all
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 26
+Number of records retrieved in searches: 92
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Portugal ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 7
+	Country: Denmark ; Times: 1
+	Country: Russia ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-09 ; Times: 1
+	Date: 2015-12-08 ; Times: 1
+	Date: 2015-12-03 ; Times: 1
+	Date: 2015-12-02 ; Times: 2
+	Date: 2015-12-01 ; Times: 4
+	Date: 2015-12-07 ; Times: 1
+	Date: 2015-12-05 ; Times: 1
+	Date: 2015-12-04 ; Times: 1
+	Date: 2015-12-15 ; Times: 1
+	Date: 2015-12-23 ; Times: 1
+	Date: 2015-12-17 ; Times: 1
+	Date: 2015-12-10 ; Times: 1
+	Date: 2015-12-24 ; Times: 1
+	Date: 2015-12-27 ; Times: 3
+	Date: 2015-12-26 ; Times: 1
+	Date: 2015-12-11 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "podiceps cristatus" ; Times: 1
+	Query: "Orcinus orca" ; Times: 2
+	Query: "moth" ; Times: 1
+	Query: "bracteatus" ; Times: 1
+	Query: "Pachycephala olivacea" ; Times: 1
+	Query: "unicorn" ; Times: 12
+	Query: "Ornithorhynchus anatinus" ; Times: 1
+	Query: "torpedo" ; Times: 3
+	Query: "mola ramsayi" ; Times: 2
+	Query: "recordedby:tuna" ; Times: 1
+	Query: "weddell" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 889 download events in this period)
+Total number of records downloaded: 164
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-01 ; Times: 4
+	Date: 2015-12-26 ; Times: 1
+	Date: 2015-12-07 ; Times: 1
+	Date: 2015-12-20 ; Times: 1
+	Date: 2015-12-25 ; Times: 1
+	Date: 2015-12-11 ; Times: 1
+	Date: 2015-12-12 ; Times: 1
+	Date: 2015-12-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "macropus" ; Times: 1
+	Query: "alauda" ; Times: 1
+	Query: "specificepithet:musculus genus:mus" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 2
+	Query: "threskiornis molucca" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "passer domesticus" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 3
+
+
+End of report.
