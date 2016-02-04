@@ -1,0 +1,74 @@
+Report for Institution Code TMAG, Resource tmag_all
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 52
+Number of records retrieved in searches: 156
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Denmark ; Times: 25
+	Country: Russia ; Times: 8
+	Country: Brazil ; Times: 2
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 28
+	Date: 2016-01-31 ; Times: 1
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-26 ; Times: 1
+	Date: 2016-01-01 ; Times: 1
+	Date: 2016-01-24 ; Times: 3
+	Date: 2016-01-03 ; Times: 2
+	Date: 2016-01-28 ; Times: 1
+	Date: 2016-01-25 ; Times: 2
+	Date: 2016-01-19 ; Times: 1
+	Date: 2016-01-18 ; Times: 2
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-11 ; Times: 3
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-14 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Salmo salar" ; Times: 2
+	Query: "gazella" ; Times: 1
+	Query: "Eudyptes sclateri" ; Times: 18
+	Query: "right whale" ; Times: 1
+	Query: "parapriacanthus" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 2
+	Query: "Balaenoptera physalus" ; Times: 3
+	Query: "killer whale" ; Times: 1
+	Query: "Gallus gallus" ; Times: 1
+	Query: "Eudyptes robustus" ; Times: 1
+	Query: "orcinus orca" ; Times: 4
+	Query: "unicorn" ; Times: 8
+	Query: "family:Dasyatidae" ; Times: 1
+	Query: "anas chlorotis" ; Times: 2
+	Query: "eudyptes robustus" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 507 download events in this period)
+Total number of records downloaded: 23
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 1
+	Date: 2016-01-11 ; Times: 1
+	Date: 2016-01-29 ; Times: 1
+	Date: 2016-01-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Engraulidae" ; Times: 1
+	Query: "berardius" ; Times: 1
+	Query: "Turnix" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+
+
+End of report.
