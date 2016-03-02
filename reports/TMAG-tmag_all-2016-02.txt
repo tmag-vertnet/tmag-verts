@@ -1,0 +1,89 @@
+Report for Institution Code TMAG, Resource tmag_all
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 33
+Number of records retrieved in searches: 257
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Netherlands ; Times: 2
+	Country: Czech Republic ; Times: 6
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 15
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-28 ; Times: 3
+	Date: 2016-02-06 ; Times: 2
+	Date: 2016-02-16 ; Times: 2
+	Date: 2016-02-09 ; Times: 1
+	Date: 2016-02-08 ; Times: 3
+	Date: 2016-02-19 ; Times: 2
+	Date: 2016-02-27 ; Times: 1
+	Date: 2016-02-26 ; Times: 3
+	Date: 2016-02-25 ; Times: 4
+	Date: 2016-02-03 ; Times: 5
+	Date: 2016-02-02 ; Times: 1
+	Date: 2016-02-05 ; Times: 1
+	Date: 2016-02-17 ; Times: 3
+	Date: 2016-02-07 ; Times: 1
+	Date: 2016-02-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "balaenoptera physalus" ; Times: 1
+	Query: "Istiophoridae" ; Times: 1
+	Query: "Anthornis melanura" ; Times: 1
+	Query: "felis catus" ; Times: 1
+	Query: "Rallidae (Rallidae AND tabuensis)" ; Times: 1
+	Query: "Orcinus orca" ; Times: 2
+	Query: "Thalassarche steadi" ; Times: 1
+	Query: "lepidopus" ; Times: 1
+	Query: "orcinus orca" ; Times: 2
+	Query: "parapriacanthus" ; Times: 1
+	Query: "Seriola lalandi" ; Times: 1
+	Query: "Galeorhinus galeus" ; Times: 1
+	Query: "Mola mola" ; Times: 1
+	Query: "unicorn" ; Times: 3
+	Query: "Caperea marginata" ; Times: 1
+	Query: "Istiophoridae type:specimen" ; Times: 5
+	Query: "felis catus type:specimen" ; Times: 2
+	Query: "Squalus acanthias" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 2
+	Query: "Heptranchias perlo" ; Times: 1
+	Query: "Ornithorhynchus anatinus" ; Times: 2
+	Query: "oarfish" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 512 download events in this period)
+Total number of records downloaded: 829
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: South Africa ; Times: 2
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-23 ; Times: 1
+	Date: 2016-02-18 ; Times: 2
+	Date: 2016-02-19 ; Times: 2
+	Date: 2016-02-03 ; Times: 1
+	Date: 2016-02-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Strigidae" ; Times: 1
+	Query: "Delphinidae" ; Times: 1
+	Query: "Strigops" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "aepyornis" ; Times: 1
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 1
+
+
+End of report.
