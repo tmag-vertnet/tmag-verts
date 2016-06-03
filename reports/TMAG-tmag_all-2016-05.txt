@@ -1,0 +1,67 @@
+Report for Institution Code TMAG, Resource tmag_all
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 47
+Number of records retrieved in searches: 454
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 41
+	Country: Canada ; Times: 2
+	Country: Russia ; Times: 3
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-08 ; Times: 3
+	Date: 2016-05-04 ; Times: 2
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-31 ; Times: 34
+	Date: 2016-05-23 ; Times: 5
+	Date: 2016-05-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Phyllopteryx taeniolatus" ; Times: 2
+	Query: "Chlidonias leucopterus" ; Times: 1
+	Query: "specificepithet:glauca genus:Prionace" ; Times: 2
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 1
+	Query: "specificepithet:delphis genus:Delphinus" ; Times: 4
+	Query: "specificepithet:caretta genus:Caretta" ; Times: 2
+	Query: "specificepithet:novaeangliae genus:Megaptera" ; Times: 19
+	Query: "parapriacanthus" ; Times: 3
+	Query: "Physeter macrocephalus" ; Times: 1
+	Query: "specificepithet:olivacea genus:Lepidochelys" ; Times: 5
+	Query: "unicorn" ; Times: 1
+	Query: "specificepithet:coriacea genus:Dermochelys" ; Times: 5
+	Query: "Sturnus vulgaris" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 327 download events in this period)
+Total number of records downloaded: 476
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 27
+	Country: Japan ; Times: 1
+	Country: China ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-31 ; Times: 27
+	Date: 2016-05-12 ; Times: 1
+	Date: 2016-05-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:delphis genus:Delphinus" ; Times: 4
+	Query: "specificepithet:caretta genus:Caretta" ; Times: 5
+	Query: "specificepithet:novaeangliae genus:Megaptera" ; Times: 13
+	Query: "Timaliidae" ; Times: 1
+	Query: "specificepithet:olivacea genus:Lepidochelys" ; Times: 5
+	Query: "elapidae mappable:1" ; Times: 1
+	Query: "Zosterops" ; Times: 1
+
+
+End of report.
