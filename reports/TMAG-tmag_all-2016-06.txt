@@ -1,0 +1,116 @@
+Report for Institution Code TMAG, Resource tmag_all
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 85
+Number of records retrieved in searches: 491
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 66
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 13
+	Country: United Kingdom ; Times: 3
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 49
+	Date: 2016-06-24 ; Times: 4
+	Date: 2016-06-23 ; Times: 2
+	Date: 2016-06-08 ; Times: 2
+	Date: 2016-06-19 ; Times: 2
+	Date: 2016-06-05 ; Times: 2
+	Date: 2016-06-17 ; Times: 1
+	Date: 2016-06-14 ; Times: 1
+	Date: 2016-06-15 ; Times: 2
+	Date: 2016-06-01 ; Times: 8
+	Date: 2016-06-13 ; Times: 2
+	Date: 2016-06-03 ; Times: 2
+	Date: 2016-06-02 ; Times: 2
+	Date: 2016-06-16 ; Times: 1
+	Date: 2016-06-10 ; Times: 3
+	Date: 2016-06-12 ; Times: 1
+	Date: 2016-06-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "balaenoptera physalus" ; Times: 2
+	Query: "&#34;Thalassarche chlororhynchos&#34;" ; Times: 3
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 48
+	Query: "Ovis aries" ; Times: 1
+	Query: "TURSIOPS" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "Crocodylus johnstoni" ; Times: 1
+	Query: "Lepidoptera" ; Times: 1
+	Query: "ORCINUS ORCA" ; Times: 1
+	Query: "Abbott AND ISland" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 1
+	Query: "Rattus rattus" ; Times: 1
+	Query: "Sus scrofa" ; Times: 2
+	Query: "7777" ; Times: 1
+	Query: "Reptilia 4058" ; Times: 2
+	Query: "genus:Mola" ; Times: 2
+	Query: "fregata ariel" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "Papilio" ; Times: 1
+	Query: "8555" ; Times: 1
+	Query: "Balaenoptera physalus" ; Times: 3
+	Query: "Reptilia 8223" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "specificepithet:thazard genus:Auxis" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "parapriacanthus elongatus" ; Times: 1
+	Query: "Orcinus orca" ; Times: 1
+	Query: "Ornithorhynchus anatinus" ; Times: 1
+	Query: "doherty" ; Times: 1
+	Query: "Harrison AND Haliaeetus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 1052 download events in this period)
+Total number of records downloaded: 151
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-15 ; Times: 9
+	Date: 2016-06-08 ; Times: 1
+	Date: 2016-06-16 ; Times: 1
+	Date: 2016-06-14 ; Times: 3
+	Date: 2016-06-06 ; Times: 1
+	Date: 2016-06-01 ; Times: 3
+	Date: 2016-06-13 ; Times: 2
+	Date: 2016-06-03 ; Times: 1
+	Date: 2016-06-02 ; Times: 1
+	Date: 2016-06-24 ; Times: 1
+	Date: 2016-06-10 ; Times: 1
+	Date: 2016-06-07 ; Times: 1
+	Date: 2016-06-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "balaenoptera physalus" ; Times: 1
+	Query: "ORCINUS ORCA" ; Times: 1
+	Query: "genus:lepidochelys" ; Times: 1
+	Query: "specificepithet:novaeangliae genus:Megaptera" ; Times: 3
+	Query: "Rattus norvegicus" ; Times: 2
+	Query: "Columba livia" ; Times: 1
+	Query: "Ornithorhynchus anatinus" ; Times: 1
+	Query: "lampropholis delicata" ; Times: 1
+	Query: "lagenorhynchus" ; Times: 3
+	Query: "E. pectoralis" ; Times: 1
+	Query: "moloch horridus" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 2
+	Query: "Mugil cephalus" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 3
+	Query: "columba livia" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "VULPES VULPES" ; Times: 1
+
+
+End of report.
