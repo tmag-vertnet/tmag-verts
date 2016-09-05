@@ -1,0 +1,106 @@
+Report for Institution Code TMAG, Resource tmag_all
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 76
+Number of records retrieved in searches: 585
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 66
+	Country: Unknown ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: New Zealand ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-11 ; Times: 2
+	Date: 2016-08-12 ; Times: 2
+	Date: 2016-08-29 ; Times: 1
+	Date: 2016-08-15 ; Times: 2
+	Date: 2016-08-16 ; Times: 6
+	Date: 2016-08-17 ; Times: 1
+	Date: 2016-08-25 ; Times: 2
+	Date: 2016-08-19 ; Times: 6
+	Date: 2016-08-27 ; Times: 2
+	Date: 2016-08-26 ; Times: 1
+	Date: 2016-08-21 ; Times: 2
+	Date: 2016-08-20 ; Times: 36
+	Date: 2016-08-23 ; Times: 2
+	Date: 2016-08-22 ; Times: 4
+	Date: 2016-08-30 ; Times: 3
+	Date: 2016-08-24 ; Times: 1
+	Date: 2016-08-14 ; Times: 1
+	Date: 2016-08-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:mykiss genus:Oncorhynchus" ; Times: 1
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 11
+	Query: "grampus griseus" ; Times: 4
+	Query: "specificepithet:auratus genus:Carassius" ; Times: 3
+	Query: "&#34;Orcinus orca&#34; mappable:1" ; Times: 1
+	Query: "Aepyornis" ; Times: 2
+	Query: "specificepithet:salar genus:Salmo" ; Times: 1
+	Query: "specificepithet:acanthias genus:Squalus" ; Times: 4
+	Query: "Tiliqua nigrolutea" ; Times: 1
+	Query: "mesoplodon" ; Times: 3
+	Query: "specificepithet:lagocephalus genus:Lagocephalus" ; Times: 1
+	Query: "specificepithet:superciliosus genus:Alopias" ; Times: 1
+	Query: "specificepithet:cepedianus genus:Notorynchus" ; Times: 1
+	Query: "specificepithet:lalandi genus:Seriola" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "specificepithet:cephalus genus:Mugil" ; Times: 2
+	Query: "specificepithet:indica genus:Makaira" ; Times: 1
+	Query: "Dugong" ; Times: 2
+	Query: "specificepithet:falciformis genus:Carcharhinus" ; Times: 2
+	Query: "specificepithet:galeus genus:Galeorhinus" ; Times: 1
+	Query: "genus:Bassiana locality:island" ; Times: 1
+	Query: "specificepithet:oxyrinchus genus:Isurus" ; Times: 3
+	Query: "specificepithet:olivacea genus:Lepidochelys" ; Times: 2
+	Query: "unicorn" ; Times: 6
+	Query: "specificepithet:thazard genus:Auxis" ; Times: 2
+	Query: "hydrurga" ; Times: 2
+	Query: "year &gt;= 1700 year &lt;= 1840" ; Times: 1
+	Query: "specificepithet:longimanus genus:Carcharhinus" ; Times: 1
+	Query: "Clarke Aves Australia year &gt;= 1880 year &lt;= 1935" ; Times: 1
+	Query: "platypus" ; Times: 2
+	Query: "type:specimen specificepithet:macrocephalus genus:Physeter" ; Times: 1
+	Query: "Elliott AND ISland" ; Times: 1
+	Query: "M-8974" ; Times: 1
+	Query: "tasmanian devil" ; Times: 1
+	Query: "specificepithet:higginsi genus:Pseudomys" ; Times: 2
+	Query: "specificepithet:imbricata genus:Eretmochelys" ; Times: 3
+	Query: "specificepithet:mola genus:Mola" ; Times: 1
+	Query: "Clarke Aves year &gt;= 1880 year &lt;= 1935" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 924 download events in this period)
+Total number of records downloaded: 75
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-25 ; Times: 1
+	Date: 2016-08-18 ; Times: 2
+	Date: 2016-08-31 ; Times: 1
+	Date: 2016-08-14 ; Times: 1
+	Date: 2016-08-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gavia" ; Times: 1
+	Query: "eudyptes" ; Times: 1
+	Query: "specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "Callipepla californica" ; Times: 1
+	Query: "Apodidae" ; Times: 1
+	Query: "Mitchelli" ; Times: 1
+
+
+End of report.
