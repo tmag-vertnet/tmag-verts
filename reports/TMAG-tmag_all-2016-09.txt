@@ -1,0 +1,75 @@
+Report for Institution Code TMAG, Resource tmag_all
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 30
+Number of records retrieved in searches: 228
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 22
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 2
+	Date: 2016-09-08 ; Times: 4
+	Date: 2016-09-09 ; Times: 3
+	Date: 2016-09-05 ; Times: 6
+	Date: 2016-09-06 ; Times: 2
+	Date: 2016-09-07 ; Times: 1
+	Date: 2016-09-01 ; Times: 1
+	Date: 2016-09-24 ; Times: 1
+	Date: 2016-09-03 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "9759 class:Aves" ; Times: 1
+	Query: "Cynocephalus mappable:1" ; Times: 2
+	Query: "Carassius auratus" ; Times: 2
+	Query: "specificepithet:remora genus:Remora" ; Times: 1
+	Query: "Strigops" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "Cacatua galerita 1" ; Times: 1
+	Query: "scientificname:&#34;arctocebus&#34; OR scientificname:&#34;arctocebus calabarensis&#34; OR scientificname:&#34;nyticebus&#34; OR scientificname:&#34;nyticebus coucang&#34; OR scientificname:&#34;perodicticus&#34; OR scientificname:&#34;perodicticus potto&#34; OR scientificname:&#34;lemur&#34; OR scientificname:&#34;lemur catta&#34; OR scientificname:&#34;alouatta&#34; OR scientificname:&#34;alouatta palliata&#34; OR scientificname:&#34;nycticebus&#34; OR scientificname:&#34;nycticebus coucang&#34; OR scientificname:&#34;omomyidae&#34; OR scientificname:&#34;omomyidae incertae sedis&#34; OR scientificname:&#34;avahi&#34; OR scientificname:&#34;avahi laniger&#34; OR scientificname:&#34;cheirogaleus&#34; OR scientificname:&#34;cheirogaleus major&#34; OR scientificname:&#34;cheirogaleus medius&#34; OR scientificname:&#34;cynocephalus&#34; OR scientificname:&#34;cynocephalus variegatus&#34; OR scientificname:&#34;cynocephalus volans&#34; OR scientificname:&#34;daubentonia&#34; OR scientificname:&#34;daubentonia madagascariensis&#34; OR scientificname:&#34;eulemur&#34; OR scientificname:&#34;eulemur fulvus&#34; OR scientificname:&#34;galago&#34; OR scientificname:&#34;galago senegalensis&#34; OR scientificname:&#34;microcebus&#34; OR scientificname:&#34;microcebus murinus&#34; OR scientificname:&#34;mirza&#34; OR scientificname:&#34;mirza coquereli&#34;" ; Times: 2
+	Query: "Remora remora" ; Times: 7
+	Query: "&#34;Ornithorhynchus anatinus&#34; mappable:1" ; Times: 1
+	Query: "specificepithet:griseus genus:Hexanchus" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "orcinus orca" ; Times: 3
+	Query: "circus approximans type:specimen" ; Times: 1
+	Query: "specificepithet:rondeletii genus:Hirundichthys" ; Times: 1
+	Query: "circus assimilis type:specimen" ; Times: 1
+	Query: "cynocephalus" ; Times: 2
+	Query: "locality:darling downs country:&#34;Australia&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 811 download events in this period)
+Total number of records downloaded: 139
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Canada ; Times: 3
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 4
+	Date: 2016-09-08 ; Times: 2
+	Date: 2016-09-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Cynocephalus mappable:1" ; Times: 1
+	Query: "cygnus" ; Times: 1
+	Query: "Callipepla californica" ; Times: 1
+	Query: "oriolus sagittatus type:specimen" ; Times: 1
+	Query: "circus approximans type:specimen" ; Times: 1
+	Query: "aves and Guinea type:specimen" ; Times: 1
+	Query: "circus assimilis type:specimen" ; Times: 1
+
+
+End of report.
