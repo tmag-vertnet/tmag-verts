@@ -1,0 +1,117 @@
+Report for Institution Code TMAG, Resource tmag_all
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 106
+Number of records retrieved in searches: 353
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: United States ; Times: 25
+	Country: Italy ; Times: 2
+	Country: France ; Times: 70
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-05 ; Times: 3
+	Date: 2017-12-25 ; Times: 2
+	Date: 2017-12-24 ; Times: 9
+	Date: 2017-12-23 ; Times: 2
+	Date: 2017-12-07 ; Times: 1
+	Date: 2017-12-21 ; Times: 1
+	Date: 2017-12-16 ; Times: 1
+	Date: 2017-12-14 ; Times: 5
+	Date: 2017-12-06 ; Times: 4
+	Date: 2017-12-12 ; Times: 1
+	Date: 2017-12-13 ; Times: 1
+	Date: 2017-12-11 ; Times: 72
+	Date: 2017-12-08 ; Times: 3
+	Date: 2017-12-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "balaenoptera physalus" ; Times: 2
+	Query: "Parascyllium variolatum" ; Times: 3
+	Query: "Stegostoma fasciatum" ; Times: 2
+	Query: "Centroscymnus coelolepis" ; Times: 3
+	Query: "Torpedo torpedo" ; Times: 1
+	Query: "Parascyllium ferrugineum" ; Times: 5
+	Query: "Pseudorca crassidens vntype:specimen" ; Times: 1
+	Query: "Lepidocybium flavobrunneum mappable:1" ; Times: 1
+	Query: "Mola mola mappable:1" ; Times: 1
+	Query: "Halargyreus johnsonii mappable:1" ; Times: 1
+	Query: "Sprattus sprattus mappable:1" ; Times: 1
+	Query: "Heterodontus portusjacksoni" ; Times: 2
+	Query: "Prionace glauca mappable:1" ; Times: 1
+	Query: "Acrocephalus australis" ; Times: 1
+	Query: "Upeneichthys vlamingii mappable:1" ; Times: 1
+	Query: "Squalus blainville" ; Times: 1
+	Query: "Upeneichthys lineatus mappable:1" ; Times: 2
+	Query: "Cephaloscyllium laticeps" ; Times: 2
+	Query: "specificepithet:physalus genus:Balaenoptera" ; Times: 1
+	Query: "Centrophorus moluccensis" ; Times: 2
+	Query: "Squatina australis" ; Times: 1
+	Query: "Urolophus cruciatus" ; Times: 1
+	Query: "Scomberesox saurus mappable:1" ; Times: 1
+	Query: "Zameus squamulosus" ; Times: 2
+	Query: "Cephaloscyllium fasciatum" ; Times: 2
+	Query: "Squatina squatina" ; Times: 1
+	Query: "vntype:specimen specificepithet:physalus genus:Balaenoptera" ; Times: 1
+	Query: "Oxynotus bruniensis" ; Times: 2
+	Query: "Urolophus paucimaculatus" ; Times: 1
+	Query: "Deania quadrispinosa" ; Times: 2
+	Query: "Upeneichthys lineatus" ; Times: 2
+	Query: "lepidopus caudatus" ; Times: 3
+	Query: "Macroramphosus scolopax mappable:1" ; Times: 1
+	Query: "genus:Thinornis" ; Times: 1
+	Query: "Lepidopus caudatus mappable:1" ; Times: 1
+	Query: "Orectolobus maculatus" ; Times: 2
+	Query: "Torpedo torpedo mappable:1" ; Times: 1
+	Query: "Mustelus mustelus" ; Times: 2
+	Query: "Carcharhinus tilstoni" ; Times: 2
+	Query: "unicorn" ; Times: 4
+	Query: "Galeorhinus galeus mappable:1" ; Times: 1
+	Query: "4953 Aves" ; Times: 1
+	Query: "Oxynotus centrina" ; Times: 2
+	Query: "Pseudorca crassidens" ; Times: 3
+	Query: "Upeneus tragula mappable:1" ; Times: 4
+	Query: "Asymbolus analis" ; Times: 6
+	Query: "Pristiophorus cirratus" ; Times: 2
+	Query: "Upeneus tragula" ; Times: 4
+	Query: "Upeneichthys vlamingii" ; Times: 1
+	Query: "class:reptilia basisofrecord:HumanObservation" ; Times: 2
+	Query: "Lampris guttatus mappable:1" ; Times: 1
+	Query: "platypus" ; Times: 1
+	Query: "Galeorhinus galeus" ; Times: 3
+	Query: "Zeus faber mappable:1" ; Times: 1
+	Query: "Mustelus antarcticus" ; Times: 2
+	Query: "mola mola" ; Times: 1
+	Query: "Squalus acanthias mappable:1" ; Times: 1
+	Query: "Rhynchobatus australiae" ; Times: 1
+	Query: "Narcine tasmaniensis" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 674 download events in this period)
+Total number of records downloaded: 505
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 2
+	Country: France ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-09 ; Times: 2
+	Date: 2017-12-12 ; Times: 2
+	Date: 2017-12-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Rockingham Bay vntype:specimen" ; Times: 2
+	Query: "class:Elasmobranchii" ; Times: 3
+
+
+End of report.
