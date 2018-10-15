@@ -1,0 +1,144 @@
+Report for Institution Code TMAG, Resource tmag_all
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 68
+Number of records retrieved in searches: 548
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 52
+	Country: Australia ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: New Zealand ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 1
+	Date: 2018-01-18 ; Times: 2
+	Date: 2018-01-31 ; Times: 2
+	Date: 2018-01-11 ; Times: 4
+	Date: 2018-01-10 ; Times: 2
+	Date: 2018-01-12 ; Times: 4
+	Date: 2018-01-15 ; Times: 1
+	Date: 2018-01-17 ; Times: 3
+	Date: 2018-01-16 ; Times: 4
+	Date: 2018-01-24 ; Times: 6
+	Date: 2018-01-25 ; Times: 5
+	Date: 2018-01-08 ; Times: 2
+	Date: 2018-01-09 ; Times: 3
+	Date: 2018-01-28 ; Times: 3
+	Date: 2018-01-29 ; Times: 1
+	Date: 2018-01-02 ; Times: 4
+	Date: 2018-01-03 ; Times: 4
+	Date: 2018-01-26 ; Times: 2
+	Date: 2018-01-27 ; Times: 2
+	Date: 2018-01-06 ; Times: 2
+	Date: 2018-01-21 ; Times: 4
+	Date: 2018-01-05 ; Times: 3
+	Date: 2018-01-23 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Leptonychotes weddelli " ; Times: 2
+	Query: "&#34;Megaptera novaeangliae&#34; mappable:1" ; Times: 1
+	Query: "dicrurus bracteatus" ; Times: 1
+	Query: "Parma victoriae mappable:1" ; Times: 1
+	Query: "&#34;Ornithorhynchus anatinus&#34; mappable:1" ; Times: 1
+	Query: "Halargyreus johnsonii mappable:1" ; Times: 1
+	Query: "Harbour seal" ; Times: 1
+	Query: "specificepithet:inexpectata class:aves" ; Times: 3
+	Query: "hirundapus" ; Times: 1
+	Query: "Podiceps cristatus" ; Times: 1
+	Query: "crabeater seal" ; Times: 1
+	Query: "specificepithet:musculus genus:balaenoptera" ; Times: 1
+	Query: "&#34;Orcinus&#34; &#34;orca&#34; mappable:1" ; Times: 1
+	Query: "Lepidopus caudatus" ; Times: 3
+	Query: "bottlenose dolphin mappable:1" ; Times: 1
+	Query: "Columba livia" ; Times: 1
+	Query: "lepidopus" ; Times: 1
+	Query: "crocodylus johnstoni" ; Times: 2
+	Query: "Chlamydoselachus anguineus" ; Times: 3
+	Query: "Calidris bairdii" ; Times: 1
+	Query: "Megaptera novaeangliae" ; Times: 2
+	Query: "Hyperoodon planifrons " ; Times: 2
+	Query: "&#34;Aptenodytes forsteri&#34; mappable:1" ; Times: 2
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 2
+	Query: "country:&#34;New Zealand&#34; year &gt;= 1700 year &lt;= 1845" ; Times: 1
+	Query: "lepidopus caudatus" ; Times: 2
+	Query: "Dama dama" ; Times: 1
+	Query: "munroi" ; Times: 1
+	Query: "balaenoptera Physalus" ; Times: 4
+	Query: "Pinnipedia " ; Times: 2
+	Query: "Arctocephalus tasmanicus " ; Times: 2
+	Query: "Dasyurus viverrinus" ; Times: 2
+	Query: "Sus scrofa" ; Times: 1
+	Query: "class:Aves country:&#34;New Zealand&#34; year &gt;= 1700 year &lt;= 1845" ; Times: 1
+	Query: "unicorn" ; Times: 1
+	Query: "porphyrio year &gt; 1990" ; Times: 1
+	Query: "Thylacine" ; Times: 1
+	Query: "&#34;Sarcophilus harrisii&#34; mappable:1" ; Times: 2
+	Query: "pygmy possum" ; Times: 1
+	Query: "&#34;Orcinus orca&#34; mappable:1" ; Times: 1
+	Query: "Ardea alba" ; Times: 1
+	Query: "genus:Pelamis stateprovince:&#34;Tasmania&#34; country:&#34;Australia&#34;" ; Times: 1
+	Query: "genus:Ornithorhynchus family:Ornithorhynchidae" ; Times: 1
+	Query: "carcinophagus" ; Times: 1
+	Query: "Parma victoriae" ; Times: 1
+	Query: "(&#34;caperea marginata&#34;) mappable:1" ; Times: 1
+	Query: "genus:Pelamis country:&#34;Australia&#34;" ; Times: 1
+	Query: "ziphius cavirostris" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 1398 download events in this period)
+Total number of records downloaded: 1549
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 11
+	Country: Italy ; Times: 6
+	Country: Colombia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 2
+	Date: 2018-01-18 ; Times: 1
+	Date: 2018-01-08 ; Times: 1
+	Date: 2018-01-09 ; Times: 2
+	Date: 2018-01-02 ; Times: 6
+	Date: 2018-01-25 ; Times: 1
+	Date: 2018-01-20 ; Times: 1
+	Date: 2018-01-31 ; Times: 3
+	Date: 2018-01-17 ; Times: 1
+	Date: 2018-01-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Chiroptera" ; Times: 1
+	Query: "Acrocephalus" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 1
+	Query: "Cincloramphus mathewsi" ; Times: 1
+	Query: "Dama dama" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "vombatus ursinus" ; Times: 1
+	Query: "bottlenose dolphin mappable:1" ; Times: 1
+	Query: "elanus scriptus" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "order:Diprotodontia" ; Times: 1
+	Query: "specificepithet:musculus genus:balaenoptera" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "litoria caerulea" ; Times: 1
+	Query: "Cincloramphus cruralis" ; Times: 1
+	Query: "order:Dasyuromorphia" ; Times: 1
+	Query: "Vombatus ursinus" ; Times: 1
+	Query: "Megalurus" ; Times: 2
+	Query: "Rattus rattus" ; Times: 2
+
+
+End of report.
