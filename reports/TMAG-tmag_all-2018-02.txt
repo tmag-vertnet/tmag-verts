@@ -1,0 +1,163 @@
+Report for Institution Code TMAG, Resource tmag_all
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 134
+Number of records retrieved in searches: 862
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 4
+	Country: Portugal ; Times: 68
+	Country: Mexico ; Times: 6
+	Country: Denmark ; Times: 2
+	Country: Singapore ; Times: 4
+	Country: United Kingdom ; Times: 9
+	Country: China ; Times: 2
+	Country: Japan ; Times: 1
+	Country: United States ; Times: 37
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 3
+	Date: 2018-02-15 ; Times: 2
+	Date: 2018-02-16 ; Times: 9
+	Date: 2018-02-17 ; Times: 2
+	Date: 2018-02-04 ; Times: 9
+	Date: 2018-02-11 ; Times: 1
+	Date: 2018-02-27 ; Times: 41
+	Date: 2018-02-20 ; Times: 33
+	Date: 2018-02-28 ; Times: 1
+	Date: 2018-02-26 ; Times: 4
+	Date: 2018-02-19 ; Times: 1
+	Date: 2018-02-02 ; Times: 3
+	Date: 2018-02-09 ; Times: 3
+	Date: 2018-02-08 ; Times: 5
+	Date: 2018-02-12 ; Times: 3
+	Date: 2018-02-21 ; Times: 3
+	Date: 2018-02-22 ; Times: 3
+	Date: 2018-02-01 ; Times: 5
+	Date: 2018-02-23 ; Times: 2
+	Date: 2018-02-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Coturnix chinensis mappable:1" ; Times: 3
+	Query: "Dromedary" ; Times: 1
+	Query: "Diomedea epomophora sanfordi basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "A2220" ; Times: 1
+	Query: "Melopsittacus undulatus mappable:1" ; Times: 3
+	Query: "platypus" ; Times: 1
+	Query: "Ziphius cavirostris" ; Times: 1
+	Query: "Chenonetta jubata mappable:1" ; Times: 4
+	Query: "vntype:specimen genus:Aepyornis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cereopsis novaehollandiae mappable:1" ; Times: 4
+	Query: "Diomedea epomophora" ; Times: 2
+	Query: "Berardius arnuxii " ; Times: 1
+	Query: "Bettongia" ; Times: 1
+	Query: "monotremata" ; Times: 1
+	Query: "Lathamus discolor mappable:1" ; Times: 3
+	Query: "oarfish" ; Times: 1
+	Query: "Geopelia striata mappable:1" ; Times: 4
+	Query: "Phoebetria palpebrata basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "leatherback turtle" ; Times: 1
+	Query: "tasmanian devil" ; Times: 1
+	Query: "Numenius madagascariensis" ; Times: 4
+	Query: "scientificname:&#34;cochleoceps spatula&#34;" ; Times: 1
+	Query: "Nymphicus hollandicus mappable:1" ; Times: 3
+	Query: "Diomedea epomophora epomophora basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "torpedinidae" ; Times: 1
+	Query: "persparsia kopua" ; Times: 1
+	Query: "Bar-tailed Godwit" ; Times: 1
+	Query: "Oxyura australis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "Anas chlorotis basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Barnardius zonarius mappable:1" ; Times: 2
+	Query: "Megaptera novaeangliae" ; Times: 1
+	Query: "Hyperoodon planifrons " ; Times: 1
+	Query: "Anas rhynchotis mappable:1" ; Times: 3
+	Query: "vntype:specimen specificepithet:papua genus:Pygoscelis" ; Times: 1
+	Query: "grampus" ; Times: 1
+	Query: "Anas castanea mappable:1" ; Times: 4
+	Query: "pygoscelis papua" ; Times: 1
+	Query: "specificepithet:maccormicki class:aves" ; Times: 3
+	Query: "Psephotus haematonotus mappable:1" ; Times: 3
+	Query: "Mesoplodon hectori " ; Times: 1
+	Query: "Aplonis metallica mappable:1" ; Times: 4
+	Query: "specificepithet:glauca genus:Prionace" ; Times: 1
+	Query: "Dama dama mappable:1" ; Times: 3
+	Query: "Taeniopygia guttata mappable:1" ; Times: 5
+	Query: "Prionace glauca" ; Times: 1
+	Query: "dromedary" ; Times: 1
+	Query: "Biziura lobata basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lissodelphis peronii " ; Times: 1
+	Query: "unicorn" ; Times: 2
+	Query: "genus:Aepyornis" ; Times: 1
+	Query: "Taeniopygia bichenovii mappable:1" ; Times: 4
+	Query: "Cereopsis novaehollandiae basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "grampus griseus" ; Times: 3
+	Query: "&#34;Orcinus orca&#34; mappable:1" ; Times: 1
+	Query: "Tasmacetus shepherdi " ; Times: 1
+	Query: "Larus dominicanus mappable:1" ; Times: 4
+	Query: "Cacatua galerita mappable:1" ; Times: 3
+	Query: "Dendrocygna arcuata basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Mottled Petrel" ; Times: 1
+	Query: "Trichoglossus haematodus mappable:1" ; Times: 1
+	Query: "Cygnus atratus mappable:1" ; Times: 4
+	Query: "Aythya australis basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Diomedea epomophora basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Somniosus pacificus" ; Times: 2
+	Query: "Platycercus eximius mappable:1" ; Times: 3
+	Query: "Phasianus colchicus mappable:1" ; Times: 1
+	Query: "prionace glauca" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 1892 download events in this period)
+Total number of records downloaded: 347
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Brazil ; Times: 4
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-15 ; Times: 3
+	Date: 2018-02-16 ; Times: 2
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-26 ; Times: 1
+	Date: 2018-02-28 ; Times: 1
+	Date: 2018-02-09 ; Times: 1
+	Date: 2018-02-01 ; Times: 1
+	Date: 2018-02-06 ; Times: 11
+	Date: 2018-02-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:alba genus:Tyto" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 1
+	Query: "specificepithet:atra genus:Fulica" ; Times: 1
+	Query: "specificepithet:ocellata genus:Leipoa" ; Times: 1
+	Query: "specificepithet:lateralis genus:Zosterops" ; Times: 1
+	Query: "specificepithet:roseicapilla genus:Cacatua" ; Times: 1
+	Query: "passer" ; Times: 1
+	Query: "specificepithet:plumifera genus:Geophaps" ; Times: 1
+	Query: "specificepithet:mystacalis genus:Eurostopodus" ; Times: 1
+	Query: "Eudyptula minor" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "vntype:specimen specificepithet:papua genus:Pygoscelis" ; Times: 1
+	Query: "pygoscelis papua" ; Times: 1
+	Query: "specificepithet:fuscata genus:Sterna" ; Times: 1
+	Query: "specificepithet:undulatus genus:Melopsittacus" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "Carcharhinus longimanus" ; Times: 2
+	Query: "specificepithet:cristatus genus:Aegotheles" ; Times: 1
+	Query: "Prionace glauca" ; Times: 1
+	Query: "specificepithet:gouldiae genus:Erythrura" ; Times: 1
+	Query: "class:Aves country:&#34;Sri Lanka&#34;" ; Times: 1
+	Query: "specificepithet:cyaneus genus:Malurus" ; Times: 1
+
+
+End of report.
