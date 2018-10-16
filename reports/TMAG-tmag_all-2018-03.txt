@@ -1,0 +1,144 @@
+Report for Institution Code TMAG, Resource tmag_all
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 267
+Number of records retrieved in searches: 3310
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: France ; Times: 1
+	Country: United States ; Times: 239
+	Country: Sweden ; Times: 5
+	Country: China ; Times: 4
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 22
+	Date: 2018-03-07 ; Times: 2
+	Date: 2018-03-17 ; Times: 2
+	Date: 2018-03-08 ; Times: 2
+	Date: 2018-03-15 ; Times: 8
+	Date: 2018-03-14 ; Times: 2
+	Date: 2018-03-13 ; Times: 5
+	Date: 2018-03-12 ; Times: 3
+	Date: 2018-03-11 ; Times: 2
+	Date: 2018-03-27 ; Times: 35
+	Date: 2018-03-31 ; Times: 2
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-19 ; Times: 1
+	Date: 2018-03-01 ; Times: 1
+	Date: 2018-03-02 ; Times: 17
+	Date: 2018-03-03 ; Times: 12
+	Date: 2018-03-05 ; Times: 15
+	Date: 2018-03-28 ; Times: 12
+	Date: 2018-03-29 ; Times: 5
+	Date: 2018-03-26 ; Times: 48
+	Date: 2018-03-09 ; Times: 7
+	Date: 2018-03-23 ; Times: 8
+	Date: 2018-03-20 ; Times: 16
+	Date: 2018-03-21 ; Times: 39
+
+List of queries that retrieved data from the resource: 
+	Query: "lasiorhinus" ; Times: 1
+	Query: "genus:Mola specificepithet:mola" ; Times: 5
+	Query: "felis catus" ; Times: 2
+	Query: "genus:Vanellus specificepithet:miles" ; Times: 5
+	Query: "genus:Haematopus specificepithet:ostralegus" ; Times: 2
+	Query: "Cygnus atratus" ; Times: 1
+	Query: "genus:Casuarius specificepithet:Casuarius" ; Times: 5
+	Query: "genus:Trichosurus specificepithet:vulpecula" ; Times: 2
+	Query: "genus:Diomedea specificepithet:exulans" ; Times: 5
+	Query: "genus:Neophema specificepithet:splendida" ; Times: 6
+	Query: "genus:Pteropus specificepithet:poliocephalus" ; Times: 2
+	Query: "eretmochelys imbricata" ; Times: 4
+	Query: "genus:Aspasmogaster specificepithet:tasmaniensis" ; Times: 8
+	Query: "genus:Cristiceps specificepithet:australis" ; Times: 5
+	Query: "Bar-tailed Godwit" ; Times: 1
+	Query: "genus:Columba specificepithet:livia" ; Times: 2
+	Query: "genus:Anoplogaster specificepithet:cornuta" ; Times: 5
+	Query: "recordedby:Hinds" ; Times: 1
+	Query: "genus:Oncorhynchus specificepithet:mykiss" ; Times: 3
+	Query: "genus:Megaptera specificepithet:novaeangliae" ; Times: 5
+	Query: "aepyornis maximus" ; Times: 6
+	Query: "genus:Phoebastria specificepithet:nigripes " ; Times: 3
+	Query: "genus:Lasiorhinus specificepithet:latifrons" ; Times: 5
+	Query: "genus:Melopsittacus specificepithet:undulatus" ; Times: 5
+	Query: "genus:Dacelo specificepithet:novaeguineae" ; Times: 2
+	Query: "genus:Taeniopygia specificepithet:guttata" ; Times: 5
+	Query: "genus:Limosa specificepithet:lapponica" ; Times: 6
+	Query: "genus:Ptilinopus specificepithet:superbus" ; Times: 5
+	Query: "aepyornis" ; Times: 9
+	Query: "specificepithet:bulleri family:Procellariidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Egernia specificepithet:whitii" ; Times: 2
+	Query: "genus:Trichoglossus specificepithet:haematodus" ; Times: 1
+	Query: "genus:Falco specificepithet:cenchroides" ; Times: 5
+	Query: "eurystomus orientalis" ; Times: 5
+	Query: "genus:Balaenoptera specificepithet:physalus" ; Times: 5
+	Query: "genus:Vombatus specificepithet:ursinus" ; Times: 5
+	Query: "genus:Dermochelys specificepithet:coriacea" ; Times: 6
+	Query: "genus:Lagocephalus specificepithet:lagocephalus" ; Times: 5
+	Query: "lobodon carcinophagus" ; Times: 1
+	Query: "genus:Urolophus specificepithet:cruciatus" ; Times: 5
+	Query: "genus:Oryctolagus specificepithet:cuniculus" ; Times: 7
+	Query: "genus:Aepyornis" ; Times: 3
+	Query: "Physeter macrocephalus" ; Times: 8
+	Query: "genus:Cochleoceps specificepithet:spatula" ; Times: 5
+	Query: "genus:Lepidochelys specificepithet:olivacea" ; Times: 2
+	Query: "thylacine" ; Times: 2
+	Query: "unicorn" ; Times: 5
+	Query: "genus:Omegophora specificepithet:armilla" ; Times: 5
+	Query: "genus:Felis specificepithet:catus" ; Times: 5
+	Query: "genus:Moloch specificepithet:horridus" ; Times: 6
+	Query: "procellaria westlandica" ; Times: 2
+	Query: "genus:Neophema specificepithet:elegans" ; Times: 6
+	Query: "genus:Podargus specificepithet:strigoides" ; Times: 2
+	Query: "genus:Phalacrocorax specificepithet:carbo" ; Times: 5
+	Query: "genus:Aepyornis basisofrecord:PreservedSpecimen" ; Times: 5
+	Query: "eudyptes" ; Times: 1
+	Query: "Chalinolobus morio" ; Times: 2
+	Query: "dugong" ; Times: 1
+	Query: "genus:Batrachomoeus specificepithet:dubius" ; Times: 5
+	Query: "genus:Kogia specificepithet:breviceps" ; Times: 5
+	Query: "Ornithorhynchidae" ; Times: 2
+	Query: "genus:Phasianus specificepithet:colchicus" ; Times: 2
+	Query: "class:Aves country:&#34;Spain&#34; institutioncode:TMAG" ; Times: 1
+	Query: "genus:Pelagodroma specificepithet:marina" ; Times: 5
+	Query: "genus:Orcinus specificepithet:orca" ; Times: 5
+	Query: "genus:Podiceps specificepithet:cristatus" ; Times: 5
+	Query: "genus:Dasyurus specificepithet:viverrinus" ; Times: 5
+	Query: "wood rat" ; Times: 2
+	Query: "leatherback" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1284 download events in this period)
+Total number of records downloaded: 1211
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Sweden ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-24 ; Times: 2
+	Date: 2018-03-14 ; Times: 1
+	Date: 2018-03-02 ; Times: 2
+	Date: 2018-03-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Cygnus cygnus" ; Times: 1
+	Query: "vntype:specimen family:Otariidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cygnus atratus" ; Times: 1
+	Query: "eurystomus orientalis" ; Times: 1
+	Query: "Eurystomus orientalis" ; Times: 1
+	Query: "vntype:specimen order:Cetacea basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
