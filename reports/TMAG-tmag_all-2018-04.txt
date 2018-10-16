@@ -1,0 +1,118 @@
+Report for Institution Code TMAG, Resource tmag_all
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 43
+Number of records retrieved in searches: 220
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 31
+	Country: Sweden ; Times: 3
+	Country: Argentina ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 2
+	Date: 2018-04-13 ; Times: 1
+	Date: 2018-04-03 ; Times: 5
+	Date: 2018-04-02 ; Times: 2
+	Date: 2018-04-05 ; Times: 7
+	Date: 2018-04-04 ; Times: 4
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-09 ; Times: 1
+	Date: 2018-04-08 ; Times: 2
+	Date: 2018-04-27 ; Times: 3
+	Date: 2018-04-19 ; Times: 3
+	Date: 2018-04-10 ; Times: 2
+	Date: 2018-04-11 ; Times: 1
+	Date: 2018-04-17 ; Times: 1
+	Date: 2018-04-30 ; Times: 1
+	Date: 2018-04-20 ; Times: 1
+	Date: 2018-04-28 ; Times: 1
+	Date: 2018-04-26 ; Times: 1
+	Date: 2018-04-25 ; Times: 1
+	Date: 2018-04-24 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "disaster" ; Times: 1
+	Query: "thylacinus" ; Times: 1
+	Query: "genus:squatina" ; Times: 1
+	Query: "grampus" ; Times: 1
+	Query: "salmo salar" ; Times: 3
+	Query: "genus:Oncorhynchus specificepithet:mykiss" ; Times: 1
+	Query: "Tinca tinca" ; Times: 1
+	Query: "Anas chlorotis basisofrecord:PreservedSpecimen hastissue:0" ; Times: 2
+	Query: "vntype:specimen specificepithet:falcinellus genus:Plegadis year &gt;= 1800 year &lt;= 1950" ; Times: 1
+	Query: "oncorhynchus nerka" ; Times: 1
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 4
+	Query: "genus:hirundapus" ; Times: 2
+	Query: "laetior" ; Times: 1
+	Query: "lobodon" ; Times: 1
+	Query: "Eubalaena" ; Times: 1
+	Query: "unicorn" ; Times: 1
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes country:&#34;Australia&#34; year &gt;= 2001 year &lt;= 2018" ; Times: 1
+	Query: "blue whale" ; Times: 3
+	Query: "ailuroedus melanotis" ; Times: 1
+	Query: "specificepithet:poliocephalus genus:Poliocephalus" ; Times: 4
+	Query: "Megaptera novaeangliae" ; Times: 2
+	Query: "vntype:specimen specificepithet:falcinellus genus:Plegadis year &gt;= 1800 year &lt;= 1900" ; Times: 1
+	Query: "genus:aepyornis" ; Times: 2
+	Query: "pezoporus" ; Times: 2
+	Query: "Anas castanea basisofrecord:PreservedSpecimen hastissue:0" ; Times: 1
+	Query: "specificepithet:Catus genus:Felis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1359 download events in this period)
+Total number of records downloaded: 501
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 5
+	Country: Chile ; Times: 2
+	Country: Argentina ; Times: 4
+	Country: New Zealand ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-03 ; Times: 4
+	Date: 2018-04-11 ; Times: 1
+	Date: 2018-04-05 ; Times: 3
+	Date: 2018-04-09 ; Times: 1
+	Date: 2018-04-08 ; Times: 1
+	Date: 2018-04-28 ; Times: 1
+	Date: 2018-04-27 ; Times: 1
+	Date: 2018-04-25 ; Times: 1
+	Date: 2018-04-24 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "salmo salar" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 2
+	Query: "salmo trutta" ; Times: 1
+	Query: "Tinca tinca" ; Times: 1
+	Query: "thylacinus" ; Times: 1
+	Query: "Carassius auratus" ; Times: 1
+	Query: "oncorhynchus mykiss" ; Times: 1
+	Query: "vntype:specimen specificepithet:falcinellus genus:Plegadis year &gt;= 1800 year &lt;= 1900" ; Times: 1
+	Query: "oryctolagus" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "Spheniscidae" ; Times: 2
+	Query: "oncorhynchus nerka" ; Times: 1
+	Query: "locality:armidale country:&#34;australia&#34;" ; Times: 1
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "penguin" ; Times: 1
+
+
+End of report.
