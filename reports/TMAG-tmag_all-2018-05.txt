@@ -1,0 +1,95 @@
+Report for Institution Code TMAG, Resource tmag_all
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 38
+Number of records retrieved in searches: 280
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Italy ; Times: 6
+	Country: United States ; Times: 19
+	Country: China ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Norway ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-17 ; Times: 5
+	Date: 2018-05-16 ; Times: 2
+	Date: 2018-05-11 ; Times: 4
+	Date: 2018-05-01 ; Times: 2
+	Date: 2018-05-18 ; Times: 8
+	Date: 2018-05-08 ; Times: 3
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-29 ; Times: 2
+	Date: 2018-05-05 ; Times: 1
+	Date: 2018-05-20 ; Times: 2
+	Date: 2018-05-21 ; Times: 2
+	Date: 2018-05-23 ; Times: 2
+	Date: 2018-05-24 ; Times: 2
+	Date: 2018-05-25 ; Times: 1
+	Date: 2018-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:rufogriseus genus:Macropus mappable:1" ; Times: 1
+	Query: "specificepithet:tristis genus:Acridotheres mappable:1 year&gt;=2000" ; Times: 1
+	Query: "Petrogale lateralis" ; Times: 1
+	Query: "Orcinus orca" ; Times: 1
+	Query: "mola" ; Times: 1
+	Query: "specificepithet:signifera genus:Crinia institutioncode:TMAG" ; Times: 3
+	Query: "blue shark" ; Times: 2
+	Query: "Arctocephalus pusillus" ; Times: 1
+	Query: "specificepithet:atratus genus:Cygnus mappable:1" ; Times: 1
+	Query: "aepyornis" ; Times: 4
+	Query: "specificepithet:caerulea genus:Litoria institutioncode:TMAG" ; Times: 3
+	Query: "specificepithet:bulleri family:Procellariidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 2
+	Query: "specificepithet:capensis genus:Lepus mappable:1" ; Times: 1
+	Query: "specificepithet:tristis genus:Acridotheres mappable:1" ; Times: 1
+	Query: "&#34;falco peregrinus&#34; vntype:specimen country:&#34;Australia&#34;" ; Times: 1
+	Query: "unicorn" ; Times: 5
+	Query: "specificepithet:rufogriseus genus:Macropus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 3
+	Query: "blue whale" ; Times: 2
+	Query: "class:aves recordedby:boys" ; Times: 1
+	Query: "Thylacinus cynocephalus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1178 download events in this period)
+Total number of records downloaded: 315
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Brazil ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-02 ; Times: 1
+	Date: 2018-05-18 ; Times: 5
+	Date: 2018-05-09 ; Times: 2
+	Date: 2018-05-25 ; Times: 1
+	Date: 2018-05-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Arctocephalus pusillus" ; Times: 1
+	Query: "Trichosurus vulpecula" ; Times: 1
+	Query: "Orcinus orca" ; Times: 1
+	Query: "Caretta caretta" ; Times: 1
+	Query: "puffinus creatopus" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 2
+	Query: "Macropus rufogriseus" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "macropus giganteus" ; Times: 1
+	Query: "dermochelys coriacea" ; Times: 1
+	Query: "&#34;falco peregrinus&#34; vntype:specimen country:&#34;Australia&#34;" ; Times: 1
+
+
+End of report.
