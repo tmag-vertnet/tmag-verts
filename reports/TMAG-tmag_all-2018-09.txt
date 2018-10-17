@@ -1,0 +1,122 @@
+Report for Institution Code TMAG, Resource tmag_all
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 63
+Number of records retrieved in searches: 381
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: United States ; Times: 40
+	Country: China ; Times: 4
+	Country: Germany ; Times: 4
+	Country: New Zealand ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 5
+	Date: 2018-09-14 ; Times: 13
+	Date: 2018-09-27 ; Times: 12
+	Date: 2018-09-23 ; Times: 2
+	Date: 2018-09-05 ; Times: 1
+	Date: 2018-09-24 ; Times: 3
+	Date: 2018-09-10 ; Times: 1
+	Date: 2018-09-26 ; Times: 2
+	Date: 2018-09-12 ; Times: 1
+	Date: 2018-09-06 ; Times: 1
+	Date: 2018-09-21 ; Times: 4
+	Date: 2018-09-16 ; Times: 2
+	Date: 2018-09-19 ; Times: 1
+	Date: 2018-09-18 ; Times: 1
+	Date: 2018-09-20 ; Times: 6
+	Date: 2018-09-28 ; Times: 3
+	Date: 2018-09-29 ; Times: 1
+	Date: 2018-09-02 ; Times: 1
+	Date: 2018-09-07 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "fur seal" ; Times: 1
+	Query: "Orcinus orca" ; Times: 2
+	Query: "Squatina squatina" ; Times: 1
+	Query: "genus:Ornithorhynchus" ; Times: 1
+	Query: "balaenoptera physalus" ; Times: 1
+	Query: "Lepidopus" ; Times: 1
+	Query: "kogia breviceps" ; Times: 1
+	Query: "specificepithet:papua genus:Pygoscelis locality:Macquarie" ; Times: 2
+	Query: "Idiacanthus atlanticus" ; Times: 1
+	Query: "country:&#34;Australia&#34; recordedby:Saunders" ; Times: 2
+	Query: "yellow-nosed albatross" ; Times: 1
+	Query: "lepidopus manis" ; Times: 1
+	Query: "Pygoscelis papua" ; Times: 1
+	Query: "Opostomias micripnus" ; Times: 1
+	Query: "mesoplodon densirostris" ; Times: 2
+	Query: "genus:Phoebastria specificepithet:nigripes " ; Times: 1
+	Query: "hippocampus abdominalis" ; Times: 1
+	Query: "Salmo salar" ; Times: 2
+	Query: "Polymetme illustris" ; Times: 1
+	Query: "aepyornis" ; Times: 1
+	Query: "Astronesthes kreffti" ; Times: 1
+	Query: "Paget" ; Times: 1
+	Query: "Lepidopus manis" ; Times: 10
+	Query: "orcinus orca" ; Times: 2
+	Query: "Carassius auratus" ; Times: 2
+	Query: "balaenoptera acutorostrata" ; Times: 1
+	Query: "Astronesthes psychrolutes" ; Times: 1
+	Query: "Ornithorhynchus" ; Times: 1
+	Query: "unicorn" ; Times: 4
+	Query: "specificepithet:parasiticus genus:Stercorarius country:&#34;United States&#34;" ; Times: 1
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "class:Aves recordedby:Hoare" ; Times: 1
+	Query: "Paget AVES" ; Times: 1
+	Query: "physeter macrocephalus" ; Times: 1
+	Query: "amytornis modestus" ; Times: 9
+	Query: "oarfish" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 846 download events in this period)
+Total number of records downloaded: 418
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-13 ; Times: 2
+	Date: 2018-09-11 ; Times: 1
+	Date: 2018-09-10 ; Times: 1
+	Date: 2018-09-26 ; Times: 5
+	Date: 2018-09-27 ; Times: 10
+	Date: 2018-09-20 ; Times: 1
+	Date: 2018-09-07 ; Times: 2
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "balaenoptera acutorostrata" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "specificepithet:tropicalis genus:Arctocephalus mappable:1" ; Times: 1
+	Query: "mesoplodon densirostris" ; Times: 4
+	Query: "kogia breviceps" ; Times: 1
+	Query: "balaenoptera physalus" ; Times: 2
+	Query: "specificepithet:papua genus:Pygoscelis locality:Macquarie" ; Times: 1
+	Query: "specificepithet:aries genus:Ovis mappable:1" ; Times: 1
+	Query: "Zaglossus OR Tachyglossus" ; Times: 1
+	Query: "physeter macrocephalus" ; Times: 1
+	Query: "Petaurus breviceps" ; Times: 2
+	Query: "vntype:specimen genus:vulpes year &gt;= 2000 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ornithorhynchus" ; Times: 1
+	Query: "Astronesthes kreffti" ; Times: 1
+	Query: "pseudorca crassidens" ; Times: 1
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "specificepithet:scrofa genus:Sus mappable:1" ; Times: 1
+	Query: "Melopsittacus" ; Times: 1
+
+
+End of report.
