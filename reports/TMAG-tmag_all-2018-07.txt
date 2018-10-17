@@ -1,0 +1,77 @@
+Report for Institution Code TMAG, Resource tmag_all
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 30
+Number of records retrieved in searches: 102
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 15
+	Country: China ; Times: 2
+	Country: Peru ; Times: 7
+	Country: Germany ; Times: 1
+	Country: New Zealand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-11 ; Times: 2
+	Date: 2018-07-10 ; Times: 2
+	Date: 2018-07-31 ; Times: 2
+	Date: 2018-07-23 ; Times: 1
+	Date: 2018-07-19 ; Times: 3
+	Date: 2018-07-07 ; Times: 2
+	Date: 2018-07-26 ; Times: 2
+	Date: 2018-07-27 ; Times: 1
+	Date: 2018-07-24 ; Times: 7
+	Date: 2018-07-04 ; Times: 3
+	Date: 2018-07-22 ; Times: 1
+	Date: 2018-07-06 ; Times: 1
+	Date: 2018-07-21 ; Times: 2
+	Date: 2018-07-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "B5958" ; Times: 1
+	Query: "Ardea alba mappable:1" ; Times: 1
+	Query: "escolar" ; Times: 1
+	Query: "Stercorarius parasiticus mappable:1" ; Times: 1
+	Query: "Pelagodroma marina mappable:1" ; Times: 1
+	Query: "Leopard seal vntype:specimen" ; Times: 1
+	Query: "aves 7892" ; Times: 2
+	Query: "Columba livia mappable:1" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "Dugong" ; Times: 2
+	Query: "Oceanites oceanicus mappable:1" ; Times: 1
+	Query: "Fregetta tropica mappable:1" ; Times: 1
+	Query: "unicorn" ; Times: 2
+	Query: "Orcinus" ; Times: 2
+	Query: "class:Aves recordedby:H. Holland" ; Times: 1
+	Query: "6623 psittacidae" ; Times: 1
+	Query: "eubalaena australis" ; Times: 3
+	Query: "right whale 2016" ; Times: 1
+	Query: "locality:green rock" ; Times: 1
+	Query: "E.M. Cornwall" ; Times: 2
+	Query: "Leopard seal" ; Times: 2
+	Query: "Calidris bairdii mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 977 download events in this period)
+Total number of records downloaded: 5
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-12 ; Times: 1
+	Date: 2018-07-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Dendrochirus zebra" ; Times: 1
+	Query: "specificepithet:rufifrons genus:Rhipidura" ; Times: 1
+
+
+End of report.
