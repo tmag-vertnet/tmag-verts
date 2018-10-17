@@ -1,0 +1,97 @@
+Report for Institution Code TMAG, Resource tmag_all
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 26
+Number of records retrieved in searches: 221
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 18
+	Country: China ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Puerto Rico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-06 ; Times: 4
+	Date: 2018-06-11 ; Times: 6
+	Date: 2018-06-12 ; Times: 1
+	Date: 2018-06-04 ; Times: 2
+	Date: 2018-06-03 ; Times: 1
+	Date: 2018-06-02 ; Times: 1
+	Date: 2018-06-01 ; Times: 2
+	Date: 2018-06-18 ; Times: 1
+	Date: 2018-06-19 ; Times: 1
+	Date: 2018-06-13 ; Times: 2
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-27 ; Times: 3
+	Date: 2018-06-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "B1273" ; Times: 1
+	Query: "crocodylus johnstoni" ; Times: 2
+	Query: "Diomedea exulans" ; Times: 1
+	Query: "specificepithet:novaeangliae genus:Megaptera" ; Times: 3
+	Query: "anas chlorotis" ; Times: 2
+	Query: "psychrolutes" ; Times: 1
+	Query: "seal fur" ; Times: 1
+	Query: "Acanthis cabaret" ; Times: 3
+	Query: "Seriola lalandi" ; Times: 1
+	Query: "gray whale" ; Times: 1
+	Query: "Chlamydoselachus" ; Times: 1
+	Query: "Oxynotus" ; Times: 1
+	Query: "unicorn" ; Times: 3
+	Query: "C1113" ; Times: 1
+	Query: "genus:hydrurga" ; Times: 1
+	Query: "Seal Fur" ; Times: 2
+	Query: "Petrogale lateralis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1169 download events in this period)
+Total number of records downloaded: 395
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Canada ; Times: 3
+	Country: Puerto Rico ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-06 ; Times: 1
+	Date: 2018-06-07 ; Times: 3
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-05 ; Times: 6
+	Date: 2018-06-29 ; Times: 2
+	Date: 2018-06-01 ; Times: 2
+	Date: 2018-06-18 ; Times: 4
+	Date: 2018-06-19 ; Times: 1
+	Date: 2018-06-27 ; Times: 1
+	Date: 2018-06-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "sugar glider" ; Times: 1
+	Query: "Carduelis flammea" ; Times: 3
+	Query: "hieraaetus morphnoides" ; Times: 1
+	Query: "Caretta caretta" ; Times: 1
+	Query: "spotted grass frog" ; Times: 2
+	Query: "Acanthis cabaret" ; Times: 1
+	Query: "barn owl" ; Times: 1
+	Query: "penguin" ; Times: 2
+	Query: "crocodylus johnstoni" ; Times: 1
+	Query: "Petrogale lateralis" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "Dermochelys coriacea" ; Times: 1
+	Query: "Seriola lalandi" ; Times: 1
+	Query: "rainbow trout" ; Times: 2
+	Query: "orca" ; Times: 2
+
+
+End of report.
