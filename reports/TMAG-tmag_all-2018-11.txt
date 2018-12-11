@@ -1,0 +1,127 @@
+Report for Institution Code TMAG, Resource tmag_all
+Usage stats for November 2018, generated on 2018/12/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 87
+Number of records retrieved in searches: 627
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 67
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Unknown ; Times: 14
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-19 ; Times: 1
+	Date: 2018-11-04 ; Times: 2
+	Date: 2018-11-23 ; Times: 1
+	Date: 2018-11-09 ; Times: 2
+	Date: 2018-11-07 ; Times: 1
+	Date: 2018-11-06 ; Times: 2
+	Date: 2018-11-05 ; Times: 5
+	Date: 2018-11-13 ; Times: 2
+	Date: 2018-11-14 ; Times: 1
+	Date: 2018-11-01 ; Times: 1
+	Date: 2018-11-25 ; Times: 4
+	Date: 2018-11-10 ; Times: 10
+	Date: 2018-11-27 ; Times: 4
+	Date: 2018-11-26 ; Times: 2
+	Date: 2018-11-20 ; Times: 1
+	Date: 2018-11-30 ; Times: 31
+	Date: 2018-11-22 ; Times: 1
+	Date: 2018-11-11 ; Times: 7
+	Date: 2018-11-29 ; Times: 4
+	Date: 2018-11-28 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Conger conger mappable:1" ; Times: 1
+	Query: "specificepithet:pacificus genus:regalecus mappable:1" ; Times: 1
+	Query: "specificepithet:lagocephalus genus:lagocephalus mappable:1" ; Times: 1
+	Query: "Alopias vulpinus mappable:1" ; Times: 1
+	Query: "tursiops truncatus" ; Times: 3
+	Query: "sarcophilus harrisii" ; Times: 1
+	Query: "Dentex dentex mappable:1" ; Times: 1
+	Query: "Orcinus orca" ; Times: 7
+	Query: "Centroscymnus crepidater mappable:1" ; Times: 1
+	Query: "specificepithet:oxyrinchus genus:isurus mappable:1" ; Times: 1
+	Query: "Anoplogaster cornuta mappable:1" ; Times: 1
+	Query: "specificepithet:mykiss genus:oncorhynchus mappable:1" ; Times: 2
+	Query: "specificepithet:neopilchardus genus:sardinops mappable:1" ; Times: 1
+	Query: "specificepithet:anguineus genus:chlamydoselachus mappable:1" ; Times: 1
+	Query: "specificepithet:thazard genus:auxis mappable:1" ; Times: 2
+	Query: "Beryx decadactylus mappable:1" ; Times: 1
+	Query: "genus:Phoebastria specificepithet:nigripes " ; Times: 4
+	Query: "specificepithet:mola genus:mola mappable:1" ; Times: 1
+	Query: "recordedby:Evans year &gt;= 1940 year &lt;= 1940" ; Times: 1
+	Query: "Morus serrator mappable:1" ; Times: 1
+	Query: "specificepithet:salar genus:salmo mappable:1" ; Times: 11
+	Query: "Stigmatopora argus" ; Times: 3
+	Query: "Argyropelecus gigas mappable:1" ; Times: 1
+	Query: "centrophorus" ; Times: 2
+	Query: "aptenodytes forsteri" ; Times: 1
+	Query: "specificepithet:caledonicus genus:platycercus" ; Times: 1
+	Query: "Dama dama" ; Times: 1
+	Query: "specificepithet:trutta genus:salmo mappable:1" ; Times: 2
+	Query: "specificepithet:auratus genus:carassius mappable:1" ; Times: 1
+	Query: "killer whale" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 3
+	Query: "Egernia whitii" ; Times: 1
+	Query: "Dalatias licha mappable:1" ; Times: 1
+	Query: "Hexanchus griseus" ; Times: 1
+	Query: "circus approximans genus:Circus family:Accipitridae order:Accipitriformes class:Aves country:&#34;Australia&#34;" ; Times: 1
+	Query: "specificepithet:australis genus:galeus mappable:1" ; Times: 1
+	Query: "specificepithet:glauca genus:prionace mappable:1" ; Times: 1
+	Query: "Deania calcea mappable:1" ; Times: 1
+	Query: "Epigonus denticulatus mappable:1" ; Times: 1
+	Query: "alopochen" ; Times: 6
+	Query: "platypus" ; Times: 1
+	Query: "kogia" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 3
+	Query: "specificepithet:vulpinus genus:alopias mappable:1" ; Times: 1
+	Query: "specificepithet:atun genus:thyrsites mappable:1" ; Times: 1
+	Query: "Cheilodactylus nigripes" ; Times: 1
+	Query: "Brama brama mappable:1" ; Times: 1
+	Query: "specificepithet:galeus genus:galeorhinus mappable:1" ; Times: 1
+	Query: "specificepithet:truncatus genus:Tursiops institutioncode:TMAG" ; Times: 1
+	Query: "Centrophorus squamosus mappable:1" ; Times: 1
+	Query: "specificepithet:levenensis genus:salmo mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 1719 download events in this period)
+Total number of records downloaded: 559
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: France ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-07 ; Times: 4
+	Date: 2018-11-11 ; Times: 3
+	Date: 2018-11-05 ; Times: 1
+	Date: 2018-11-14 ; Times: 1
+	Date: 2018-11-10 ; Times: 3
+	Date: 2018-11-27 ; Times: 2
+	Date: 2018-11-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Dama dama" ; Times: 1
+	Query: "tursiops truncatus" ; Times: 4
+	Query: "Sphenisciformes" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 3
+	Query: "Hexanchus griseus" ; Times: 1
+	Query: "Turdus merula" ; Times: 1
+	Query: "Stigmatopora argus" ; Times: 1
+	Query: "Carduelis chloris" ; Times: 1
+	Query: "fulmarus glacialis" ; Times: 1
+	Query: "penguin" ; Times: 1
+
+
+End of report.
