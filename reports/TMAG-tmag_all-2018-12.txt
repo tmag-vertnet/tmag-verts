@@ -1,0 +1,166 @@
+Report for Institution Code TMAG, Resource tmag_all
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 134
+Number of records retrieved in searches: 776
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 86
+	Country: France ; Times: 42
+	Country: United Kingdom ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-26 ; Times: 4
+	Date: 2018-12-13 ; Times: 1
+	Date: 2018-12-03 ; Times: 5
+	Date: 2018-12-20 ; Times: 4
+	Date: 2018-12-21 ; Times: 1
+	Date: 2018-12-19 ; Times: 3
+	Date: 2018-12-18 ; Times: 1
+	Date: 2018-12-31 ; Times: 1
+	Date: 2018-12-30 ; Times: 1
+	Date: 2018-12-06 ; Times: 6
+	Date: 2018-12-14 ; Times: 1
+	Date: 2018-12-17 ; Times: 46
+	Date: 2018-12-05 ; Times: 14
+	Date: 2018-12-11 ; Times: 7
+	Date: 2018-12-04 ; Times: 32
+	Date: 2018-12-07 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Salmo trutta mappable:1" ; Times: 1
+	Query: "Vanacampus vercoi mappable:1" ; Times: 1
+	Query: "Hirundichthys rondeletii mappable:1" ; Times: 1
+	Query: "Vanacampus phillipi" ; Times: 1
+	Query: "Notopogon lilliei mappable:1" ; Times: 2
+	Query: "Hypselognathus rostratus mappable:1" ; Times: 1
+	Query: "Trachurus trachurus mappable:1" ; Times: 2
+	Query: "specificepithet:anguineus genus:chlamydoselachus mappable:1" ; Times: 1
+	Query: "Hippocampus breviceps" ; Times: 1
+	Query: "Hoplostethus mediterraneus mappable:1" ; Times: 2
+	Query: "Urocampus carinirostris mappable:1" ; Times: 1
+	Query: "Oncorhynchus nerka mappable:1" ; Times: 1
+	Query: "specificepithet:salar genus:salmo mappable:1" ; Times: 11
+	Query: "Stigmatopora argus" ; Times: 1
+	Query: "Tursiops" ; Times: 1
+	Query: "Stigmatopora argus mappable:1" ; Times: 1
+	Query: "Neoscopelus macrolepidotus mappable:1" ; Times: 1
+	Query: "Squalus blainville mappable:1" ; Times: 1
+	Query: "Mitotichthys semistriatus" ; Times: 1
+	Query: "Hippocampus hippocampus mappable:1" ; Times: 2
+	Query: "myiagra cyanoleuca" ; Times: 2
+	Query: "Hippocampus abdominalis mappable:1" ; Times: 1
+	Query: "specificepithet:trutta genus:salmo mappable:1" ; Times: 1
+	Query: "Galeorhinus galeus mappable:1" ; Times: 1
+	Query: "Solegnathus spinosissimus" ; Times: 1
+	Query: "specificepithet:glauca genus:prionace mappable:1" ; Times: 1
+	Query: "Kaupus costatus" ; Times: 1
+	Query: "Prionace glauca mappable:1" ; Times: 3
+	Query: "specificepithet:vulpinus genus:alopias mappable:1" ; Times: 1
+	Query: "specificepithet:atun genus:thyrsites mappable:1" ; Times: 1
+	Query: "Kaupus costatus mappable:1" ; Times: 1
+	Query: "Urocampus carinirostris" ; Times: 1
+	Query: "Histiogamphelus briggsii mappable:1" ; Times: 1
+	Query: "Vanacampus vercoi" ; Times: 1
+	Query: "genus:Tyto year &gt;= 1987 year &lt;= 1987" ; Times: 1
+	Query: "Tursiops truncatus mappable:1" ; Times: 1
+	Query: "Phyllopteryx taeniolatus" ; Times: 1
+	Query: "Vanacampus poecilolaemus" ; Times: 1
+	Query: "Salmo salar mappable:1" ; Times: 1
+	Query: "Hippocampus abdominalis" ; Times: 1
+	Query: "Vanacampus poecilolaemus mappable:1" ; Times: 1
+	Query: "Harriotta raleighana mappable:1" ; Times: 1
+	Query: "specificepithet:mykiss genus:oncorhynchus mappable:1" ; Times: 2
+	Query: "specificepithet:neopilchardus genus:sardinops mappable:1" ; Times: 1
+	Query: "Histiogamphelus briggsii" ; Times: 1
+	Query: "Solegnathus robustus" ; Times: 1
+	Query: "Macroramphosus scolopax mappable:1" ; Times: 3
+	Query: "specificepithet:thazard genus:auxis mappable:1" ; Times: 2
+	Query: "paradisaea rudolphi" ; Times: 1
+	Query: "Mustelus mustelus mappable:1" ; Times: 3
+	Query: "Notopogon lilliei" ; Times: 2
+	Query: "Remora remora mappable:1" ; Times: 1
+	Query: "Naucrates ductor mappable:1" ; Times: 1
+	Query: "genus:Eubalaena" ; Times: 1
+	Query: "Centriscus scutatus mappable:1" ; Times: 1
+	Query: "Stomias boa mappable:1" ; Times: 2
+	Query: "specificepithet:galeus genus:galeorhinus mappable:1" ; Times: 1
+	Query: "specificepithet:levenensis genus:salmo mappable:1" ; Times: 1
+	Query: "Lagocephalus lagocephalus mappable:1" ; Times: 1
+	Query: "Solegnathus spinosissimus mappable:1" ; Times: 1
+	Query: "Squalus acanthias mappable:1" ; Times: 1
+	Query: "Lepidocybium flavobrunneum mappable:1" ; Times: 1
+	Query: "Mola mola mappable:1" ; Times: 3
+	Query: "Somniosus pacificus mappable:1" ; Times: 1
+	Query: "Stigmatopora nigra" ; Times: 1
+	Query: "Neophema chrysogaster" ; Times: 1
+	Query: "Pegasus lancifer" ; Times: 1
+	Query: "Macroramphosus scolopax" ; Times: 2
+	Query: "Perca fluviatilis mappable:1" ; Times: 1
+	Query: "mesoplodon" ; Times: 1
+	Query: "specificepithet:indica genus:makaira mappable:1" ; Times: 1
+	Query: "Vanacampus phillipi mappable:1" ; Times: 1
+	Query: "Centriscus scutatus" ; Times: 1
+	Query: "Halargyreus johnsonii mappable:1" ; Times: 1
+	Query: "Lepidopus caudatus mappable:1" ; Times: 1
+	Query: "specificepithet:auratus genus:carassius mappable:1" ; Times: 1
+	Query: "Hippocampus breviceps mappable:1" ; Times: 1
+	Query: "specificepithet:australis genus:galeus mappable:1" ; Times: 1
+	Query: "Hippocampus hippocampus" ; Times: 1
+	Query: "Alopochen" ; Times: 1
+	Query: "Solegnathus robustus mappable:1" ; Times: 1
+	Query: "Zeus faber mappable:1" ; Times: 4
+	Query: "specificepithet:pacificus genus:regalecus mappable:1" ; Times: 1
+	Query: "green rosella" ; Times: 2
+	Query: "Sterna paradisaea mappable:1" ; Times: 1
+	Query: "specificepithet:oxyrinchus genus:isurus mappable:1" ; Times: 1
+	Query: "Hypselognathus rostratus" ; Times: 1
+	Query: "Phyllopteryx taeniolatus mappable:1" ; Times: 1
+	Query: "specificepithet:mola genus:mola mappable:1" ; Times: 1
+	Query: "Strigops" ; Times: 1
+	Query: "Stigmatopora nigra mappable:1" ; Times: 1
+	Query: "kelp gull" ; Times: 1
+	Query: "Scomberesox saurus mappable:1" ; Times: 1
+	Query: "Torpedo torpedo mappable:1" ; Times: 1
+	Query: "Centriscops humerosus mappable:1" ; Times: 1
+	Query: "Pegasus lancifer mappable:1" ; Times: 1
+	Query: "unicorn" ; Times: 1
+	Query: "Centriscops humerosus" ; Times: 1
+	Query: "specificepithet:lagocephalus genus:lagocephalus mappable:1" ; Times: 3
+	Query: "Mitotichthys semistriatus mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 809 download events in this period)
+Total number of records downloaded: 102
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: India ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-21 ; Times: 1
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-03 ; Times: 1
+	Date: 2018-12-26 ; Times: 2
+	Date: 2018-12-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Testudines" ; Times: 1
+	Query: "strigidae" ; Times: 1
+	Query: "Strigops" ; Times: 2
+	Query: "papua new guinea" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+
+
+End of report.
