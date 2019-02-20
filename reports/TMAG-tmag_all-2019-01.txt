@@ -1,0 +1,93 @@
+Report for Institution Code TMAG, Resource tmag_all
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 91
+Number of records retrieved in searches: 878
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 3
+	Country: United Kingdom ; Times: 11
+	Country: Australia ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 30
+	Country: United States ; Times: 20
+	Country: Peru ; Times: 2
+	Country: New Zealand ; Times: 23
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-29 ; Times: 6
+	Date: 2019-01-02 ; Times: 11
+	Date: 2019-01-18 ; Times: 2
+	Date: 2019-01-14 ; Times: 26
+	Date: 2019-01-15 ; Times: 3
+	Date: 2019-01-16 ; Times: 1
+	Date: 2019-01-31 ; Times: 14
+	Date: 2019-01-25 ; Times: 1
+	Date: 2019-01-11 ; Times: 2
+	Date: 2019-01-24 ; Times: 2
+	Date: 2019-01-30 ; Times: 22
+	Date: 2019-01-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Squatina squatina mappable:1" ; Times: 1
+	Query: "&#34;Ornithorhynchus anatinus&#34;" ; Times: 4
+	Query: "Alopias vulpinus mappable:1" ; Times: 4
+	Query: "Salmo salar mappable:1" ; Times: 2
+	Query: "Hirundichthys rondeletii mappable:1" ; Times: 2
+	Query: "apteryx owenii" ; Times: 2
+	Query: "&#34;Megaptera novaeangliae&#34;" ; Times: 2
+	Query: "&#34;orcinus orca&#34;" ; Times: 1
+	Query: "right whale" ; Times: 4
+	Query: "hydrurga leptonyx" ; Times: 23
+	Query: "Eopsaltria australis" ; Times: 1
+	Query: "Centrophorus squamosus mappable:1" ; Times: 4
+	Query: "Oxynotus centrina mappable:1" ; Times: 2
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 1
+	Query: "specificepithet:gazella gazella" ; Times: 3
+	Query: "&#34;Burramys parvus&#34;" ; Times: 1
+	Query: "Pelagodroma marina" ; Times: 1
+	Query: "Dalatias licha mappable:1" ; Times: 4
+	Query: "unicorn" ; Times: 1
+	Query: "(&#34;Ornithorhynchus anatinus&#34;)" ; Times: 1
+	Query: "Fregetta tropica" ; Times: 1
+	Query: "Naucrates ductor mappable:1" ; Times: 2
+	Query: "Balaenoptera physalus" ; Times: 1
+	Query: "owenii" ; Times: 2
+	Query: "Deania calcea mappable:1" ; Times: 4
+	Query: "genus:Eubalaena" ; Times: 7
+	Query: "Chlamydoselachus anguineus mappable:1" ; Times: 4
+	Query: "(Ornithorhynchus anatinus)" ; Times: 1
+	Query: "platypus" ; Times: 1
+	Query: "ornithorhynchus" ; Times: 1
+	Query: "Ornithorhynchus anatinus" ; Times: 2
+	Query: "thylacine" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 962 download events in this period)
+Total number of records downloaded: 68
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: New Zealand ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-14 ; Times: 2
+	Date: 2019-01-28 ; Times: 1
+	Date: 2019-01-08 ; Times: 1
+	Date: 2019-01-25 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Ornithorhynchus anatinus" ; Times: 1
+	Query: "oryctolagus cuniculus" ; Times: 1
+	Query: "hydrurga leptonyx" ; Times: 2
+	Query: "genus:sula specificepithet:leucogaster" ; Times: 1
+	Query: "recordedby:Maria basisofrecord:PreservedSpecimen" ; Times: 2
+
+
+End of report.
