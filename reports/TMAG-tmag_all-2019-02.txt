@@ -1,0 +1,139 @@
+Report for Institution Code TMAG, Resource tmag_all
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 129
+Number of records retrieved in searches: 2879
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: France ; Times: 58
+	Country: United States ; Times: 43
+	Country: Germany ; Times: 8
+	Country: Thailand ; Times: 2
+	Country: New Zealand ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-05 ; Times: 1
+	Date: 2019-02-11 ; Times: 1
+	Date: 2019-02-13 ; Times: 1
+	Date: 2019-02-12 ; Times: 2
+	Date: 2019-02-15 ; Times: 2
+	Date: 2019-02-14 ; Times: 5
+	Date: 2019-02-17 ; Times: 1
+	Date: 2019-02-24 ; Times: 1
+	Date: 2019-02-03 ; Times: 2
+	Date: 2019-02-26 ; Times: 5
+	Date: 2019-02-27 ; Times: 37
+	Date: 2019-02-06 ; Times: 12
+	Date: 2019-02-21 ; Times: 5
+	Date: 2019-02-04 ; Times: 13
+	Date: 2019-02-23 ; Times: 1
+	Date: 2019-02-08 ; Times: 10
+	Date: 2019-02-09 ; Times: 2
+	Date: 2019-02-28 ; Times: 2
+	Date: 2019-02-02 ; Times: 1
+	Date: 2019-02-25 ; Times: 10
+	Date: 2019-02-01 ; Times: 8
+	Date: 2019-02-20 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "golden frog" ; Times: 1
+	Query: "Legge" ; Times: 1
+	Query: "Orcinus orca" ; Times: 1
+	Query: "Diomedea exulans" ; Times: 2
+	Query: "Legge Sri Lanka" ; Times: 1
+	Query: "Alopias vulpinus mappable:1" ; Times: 2
+	Query: "cascades frog" ; Times: 1
+	Query: "Acanthis cabaret" ; Times: 1
+	Query: "Crocodylus johnstoni" ; Times: 9
+	Query: "Diomedea epomophora" ; Times: 2
+	Query: "Eudyptes chrysocome" ; Times: 2
+	Query: "mola" ; Times: 1
+	Query: "&#34;orcinus orca&#34;" ; Times: 1
+	Query: "Thalassarche chrysostoma" ; Times: 2
+	Query: "Pterodroma leucoptera" ; Times: 1
+	Query: "recordedby:Barratt" ; Times: 1
+	Query: "Kogia breviceps mappable:1" ; Times: 2
+	Query: "Ziphius cavirostris mappable:1" ; Times: 2
+	Query: "Ardea sumatrana" ; Times: 2
+	Query: "crocodylus johnstoni" ; Times: 3
+	Query: "Centrophorus squamosus mappable:1" ; Times: 1
+	Query: "orcinus orca" ; Times: 4
+	Query: "Balaenoptera acutorostrata mappable:1" ; Times: 10
+	Query: "Auxis thazard mappable:1" ; Times: 1
+	Query: "Procellaria westlandica" ; Times: 2
+	Query: "Diomedea sanfordi" ; Times: 2
+	Query: "Thalassarche chlororhynchos" ; Times: 2
+	Query: "Lampris guttatus" ; Times: 1
+	Query: "Phoebetria fusca" ; Times: 2
+	Query: "dromaius" ; Times: 2
+	Query: "Orcinus orca mappable:1" ; Times: 9
+	Query: "Thinornis" ; Times: 5
+	Query: "killer whale" ; Times: 1
+	Query: "Papilio" ; Times: 1
+	Query: "Physeter macrocephalus" ; Times: 4
+	Query: "Dalatias licha mappable:1" ; Times: 1
+	Query: "Physeter macrocephalus mappable:1" ; Times: 6
+	Query: "Procellaria aequinoctialis" ; Times: 2
+	Query: "Grampus griseus mappable:1" ; Times: 6
+	Query: "Oarfish" ; Times: 1
+	Query: "Alopochen" ; Times: 1
+	Query: "Naucrates ductor mappable:1" ; Times: 1
+	Query: "1873 legge" ; Times: 1
+	Query: "Deania calcea mappable:1" ; Times: 1
+	Query: "Thalassarche salvini" ; Times: 2
+	Query: "Chlamydoselachus anguineus mappable:1" ; Times: 1
+	Query: "polytelis alexandrae" ; Times: 1
+	Query: "Harriotta raleighana" ; Times: 1
+	Query: "specificepithet:assimilis genus:Circus" ; Times: 1
+	Query: "physeter macrocephalus" ; Times: 1
+	Query: "Pseudorca crassidens mappable:1" ; Times: 6
+	Query: "oarfish" ; Times: 1
+	Query: "specificepithet:mola genus:Mola" ; Times: 1
+	Query: "Megaptera novaeangliae mappable:1" ; Times: 2
+	Query: "Mesoplodon densirostris mappable:1" ; Times: 6
+	Query: "Sprattus sprattus mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 1227 download events in this period)
+Total number of records downloaded: 1299
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 10
+	Country: United States ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-11 ; Times: 2
+	Date: 2019-02-13 ; Times: 6
+	Date: 2019-02-24 ; Times: 1
+	Date: 2019-02-26 ; Times: 2
+	Date: 2019-02-12 ; Times: 2
+	Date: 2019-02-14 ; Times: 4
+	Date: 2019-02-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:porphyrio genus:Porphyrio" ; Times: 2
+	Query: "vntype:specimen genus:myzomela basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:lathami genus:calyptorhynchus" ; Times: 1
+	Query: "specificepithet:sanguinea genus:cacatua" ; Times: 1
+	Query: "specificepithet:galerita genus:cacatua" ; Times: 2
+	Query: "crocodylus johnstoni" ; Times: 1
+	Query: "physeter macrocephalus" ; Times: 1
+	Query: "vntype:specimen specificepithet:flavocinctus genus:oriolus" ; Times: 1
+	Query: "orcinus orca" ; Times: 2
+	Query: "Physeter macrocephalus" ; Times: 4
+	Query: "specificepithet:philippensis genus:gallirallus" ; Times: 2
+	Query: "vntype:specimen specificepithet:sagittatus genus:oriolus" ; Times: 1
+
+
+End of report.
