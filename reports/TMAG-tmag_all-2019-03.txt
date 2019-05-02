@@ -1,0 +1,110 @@
+Report for Institution Code TMAG, Resource tmag_all
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 58
+Number of records retrieved in searches: 512
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 14
+	Country: Russia ; Times: 1
+	Country: Netherlands ; Times: 3
+	Country: Peru ; Times: 4
+	Country: Portugal ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 16
+	Country: United Kingdom ; Times: 6
+	Country: Chile ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Hong Kong ; Times: 4
+	Country: New Zealand ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-06 ; Times: 3
+	Date: 2019-03-18 ; Times: 6
+	Date: 2019-03-05 ; Times: 1
+	Date: 2019-03-08 ; Times: 1
+	Date: 2019-03-13 ; Times: 7
+	Date: 2019-03-27 ; Times: 3
+	Date: 2019-03-26 ; Times: 1
+	Date: 2019-03-02 ; Times: 1
+	Date: 2019-03-22 ; Times: 2
+	Date: 2019-03-21 ; Times: 1
+	Date: 2019-03-20 ; Times: 1
+	Date: 2019-03-16 ; Times: 3
+	Date: 2019-03-04 ; Times: 5
+	Date: 2019-03-14 ; Times: 5
+	Date: 2019-03-15 ; Times: 2
+	Date: 2019-03-01 ; Times: 6
+	Date: 2019-03-07 ; Times: 7
+	Date: 2019-03-29 ; Times: 2
+	Date: 2019-03-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "lasiorhinus" ; Times: 2
+	Query: "Austrelaps superbus" ; Times: 1
+	Query: "Lampris guttatus mappable:1" ; Times: 7
+	Query: "Lepidocybium flavobrunneum mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:musculus genus:Balaenoptera" ; Times: 1
+	Query: "Phocoena dioptrica" ; Times: 4
+	Query: "&#34;Perca fluviatilis&#34;" ; Times: 1
+	Query: "eudyptes pachyrhynchus" ; Times: 2
+	Query: "ouse" ; Times: 1
+	Query: "legless lizard" ; Times: 1
+	Query: "genus:Poliocephalus institutioncode:TMAG" ; Times: 1
+	Query: "bettongia" ; Times: 1
+	Query: "vntype:specimen specificepithet:papua genus:Pygoscelis" ; Times: 1
+	Query: "genus:Podiceps institutioncode:TMAG" ; Times: 1
+	Query: "cascades frog" ; Times: 1
+	Query: "Drysdalia coronoides" ; Times: 1
+	Query: "makaira indica" ; Times: 1
+	Query: "unicorn" ; Times: 2
+	Query: "genus:Tachybaptus institutioncode:TMAG" ; Times: 1
+	Query: "Procellaria aequinoctialis" ; Times: 1
+	Query: "Pterodroma leucoptera" ; Times: 1
+	Query: "Cercartetus lepidus" ; Times: 4
+	Query: "Naucrates ductor mappable:1" ; Times: 2
+	Query: "recordedby:Hoare" ; Times: 1
+	Query: "Sprattus sprattus" ; Times: 2
+	Query: "Litoria ewingii mappable:1" ; Times: 1
+	Query: "Isurus oxyrinchus mappable:1" ; Times: 1
+	Query: "Thalassarche salvini" ; Times: 1
+	Query: "Prionace glauca mappable:1" ; Times: 2
+	Query: "Dermochelys coriacea mappable:1" ; Times: 1
+	Query: "Cacatua galerita galerita" ; Times: 4
+	Query: "Larus dominicanus mappable:1" ; Times: 1
+	Query: "Stipiturus" ; Times: 1
+	Query: "Squalus megalops" ; Times: 1
+	Query: "Aptenodytes" ; Times: 1
+	Query: "Auxis thazard thazard mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1281 download events in this period)
+Total number of records downloaded: 330
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-26 ; Times: 1
+	Date: 2019-03-01 ; Times: 1
+	Date: 2019-03-13 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "lasiorhinus" ; Times: 1
+	Query: "macropus" ; Times: 1
+	Query: "vombatus" ; Times: 1
+	Query: "thylogale" ; Times: 1
+	Query: "vntype:specimen specificepithet:papua genus:Pygoscelis" ; Times: 1
+	Query: "vntype:specimen genus:porphyrio" ; Times: 1
+	Query: "bettongia" ; Times: 1
+	Query: "Cercartetus lepidus" ; Times: 1
+
+
+End of report.
