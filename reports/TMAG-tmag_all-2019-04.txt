@@ -1,0 +1,104 @@
+Report for Institution Code TMAG, Resource tmag_all
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 45
+Number of records retrieved in searches: 403
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 4
+	Country: United States ; Times: 15
+	Country: Sweden ; Times: 7
+	Country: Belgium ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 4
+	Date: 2019-04-19 ; Times: 1
+	Date: 2019-04-18 ; Times: 9
+	Date: 2019-04-02 ; Times: 1
+	Date: 2019-04-05 ; Times: 1
+	Date: 2019-04-12 ; Times: 1
+	Date: 2019-04-10 ; Times: 3
+	Date: 2019-04-16 ; Times: 1
+	Date: 2019-04-15 ; Times: 1
+	Date: 2019-04-22 ; Times: 1
+	Date: 2019-04-23 ; Times: 6
+	Date: 2019-04-24 ; Times: 2
+	Date: 2019-04-30 ; Times: 1
+	Date: 2019-04-29 ; Times: 11
+	Date: 2019-04-09 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "squalus acanthias" ; Times: 1
+	Query: "Eudyptes schlegeli" ; Times: 1
+	Query: "Lepidochelys olivacea mappable:1" ; Times: 1
+	Query: "Eudyptes chrysocome" ; Times: 1
+	Query: "hirundapus" ; Times: 1
+	Query: "specificepithet:mortierii genus:Gallinula" ; Times: 1
+	Query: "specificepithet:discolor genus:Lathamus" ; Times: 1
+	Query: "hydromys" ; Times: 1
+	Query: "Sus scrofa mappable:1" ; Times: 2
+	Query: "lepidoptera" ; Times: 1
+	Query: "specificepithet:nereis genus:Sterna" ; Times: 6
+	Query: "aptenodytes forsteri" ; Times: 2
+	Query: "Procellaria westlandica" ; Times: 2
+	Query: "Centriscus scutatus" ; Times: 1
+	Query: "Aptenodytes patagonicus" ; Times: 1
+	Query: "Eudyptes sclateri" ; Times: 1
+	Query: "Eretmochelys imbricata mappable:1" ; Times: 1
+	Query: "Physeter macrocephalus" ; Times: 2
+	Query: "unicorn" ; Times: 2
+	Query: "specificepithet:caledonicus genus:Nycticorax" ; Times: 2
+	Query: "blue whale" ; Times: 1
+	Query: "specificepithet:pacifica genus:Ardea" ; Times: 3
+	Query: "class:Aves catalognumber:B1620 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Zeus faber mappable:1" ; Times: 4
+	Query: "Dermochelys coriacea mappable:1" ; Times: 1
+	Query: "Orcinus" ; Times: 1
+	Query: "Eudyptes robustus" ; Times: 1
+	Query: "Kogia breviceps" ; Times: 1
+	Query: "Eudyptes pachyrhynchus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 1263 download events in this period)
+Total number of records downloaded: 241
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: United States ; Times: 3
+	Country: Mexico ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-22 ; Times: 3
+	Date: 2019-04-23 ; Times: 1
+	Date: 2019-04-29 ; Times: 9
+	Date: 2019-04-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:erythrogaster genus:pitta" ; Times: 1
+	Query: "specificepithet:musculus genus:Mus" ; Times: 1
+	Query: "specificepithet:sanguinea genus:cacatua" ; Times: 1
+	Query: "Eudyptes robustus" ; Times: 1
+	Query: "Aptenodytes patagonicus" ; Times: 1
+	Query: "Eudyptes sclateri" ; Times: 1
+	Query: "sphenisciformes" ; Times: 1
+	Query: "specificepithet:galerita genus:cacatua" ; Times: 1
+	Query: "Eudyptes schlegeli" ; Times: 1
+	Query: "Eudyptes chrysocome" ; Times: 1
+	Query: "pitta" ; Times: 1
+	Query: "aptenodytes forsteri" ; Times: 2
+	Query: "Eudyptes pachyrhynchus" ; Times: 1
+	Query: "vntype:specimen genus:Casuarius" ; Times: 2
+
+
+End of report.
