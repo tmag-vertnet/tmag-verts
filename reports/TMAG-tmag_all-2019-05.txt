@@ -1,0 +1,192 @@
+Report for Institution Code TMAG, Resource tmag_all
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 138
+Number of records retrieved in searches: 842
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 15
+	Country: Italy ; Times: 5
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: Denmark ; Times: 5
+	Country: France ; Times: 24
+	Country: United Kingdom ; Times: 16
+	Country: New Zealand ; Times: 58
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-25 ; Times: 22
+	Date: 2019-05-24 ; Times: 2
+	Date: 2019-05-27 ; Times: 3
+	Date: 2019-05-26 ; Times: 1
+	Date: 2019-05-21 ; Times: 9
+	Date: 2019-05-23 ; Times: 3
+	Date: 2019-05-22 ; Times: 4
+	Date: 2019-05-14 ; Times: 2
+	Date: 2019-05-31 ; Times: 2
+	Date: 2019-05-29 ; Times: 1
+	Date: 2019-05-28 ; Times: 4
+	Date: 2019-05-01 ; Times: 3
+	Date: 2019-05-10 ; Times: 1
+	Date: 2019-05-06 ; Times: 64
+	Date: 2019-05-13 ; Times: 1
+	Date: 2019-05-03 ; Times: 3
+	Date: 2019-05-15 ; Times: 9
+	Date: 2019-05-16 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Stegostoma fasciatum" ; Times: 1
+	Query: "Parascyllium ferrugineum" ; Times: 1
+	Query: "Urolophus cruciatus" ; Times: 1
+	Query: "Pseudorca crassidens mappable:1" ; Times: 1
+	Query: "Common pheasant year&lt;=1940" ; Times: 2
+	Query: "Ziphius cavirostris mappable:1" ; Times: 1
+	Query: "Pygoscelis papua" ; Times: 1
+	Query: "macronectes giganteus" ; Times: 3
+	Query: "Triaenodon obesus" ; Times: 1
+	Query: "Etmopterus molleri" ; Times: 1
+	Query: "eudyptes schlegeli" ; Times: 1
+	Query: "eudyptes chrysocome" ; Times: 1
+	Query: "Urolophus paucimaculatus" ; Times: 1
+	Query: "Carcharhinus longimanus" ; Times: 1
+	Query: "Carcharhinus tilstoni" ; Times: 1
+	Query: "Orectolobus maculatus" ; Times: 1
+	Query: "Cephaloscyllium laticeps" ; Times: 1
+	Query: "Lampris guttatus mappable:1" ; Times: 1
+	Query: "Prionace glauca mappable:1" ; Times: 2
+	Query: "Dermochelys coriacea mappable:1" ; Times: 1
+	Query: "Cyanoramphus" ; Times: 2
+	Query: "Isurus paucus" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "Urocampus carinirostris" ; Times: 1
+	Query: "Narcine tasmaniensis" ; Times: 1
+	Query: "Etmopterus baxteri" ; Times: 1
+	Query: "specificepithet:madagascariensis genus:Numenius" ; Times: 1
+	Query: "Common pheasant" ; Times: 6
+	Query: "Squalus blainville" ; Times: 1
+	Query: "Isurus oxyrinchus" ; Times: 1
+	Query: "Deania calcea" ; Times: 1
+	Query: "Harriotta raleighana" ; Times: 2
+	Query: "Pelecanoides urinatrix year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "dalatias licha" ; Times: 1
+	Query: "genus:egretta year &gt;= 1974 year &lt;= 1977" ; Times: 1
+	Query: "Oxynotus bruniensis" ; Times: 1
+	Query: "Mustelus mustelus" ; Times: 1
+	Query: "Hippocampus breviceps" ; Times: 1
+	Query: "Apristurus manis" ; Times: 1
+	Query: "Hydrolagus ogilbyi" ; Times: 1
+	Query: "Thylacine" ; Times: 1
+	Query: "Naucrates ductor mappable:1" ; Times: 2
+	Query: "Asymbolus analis" ; Times: 1
+	Query: "Megaptera novaeangliae mappable:1" ; Times: 1
+	Query: "Parascyllium variolatum" ; Times: 1
+	Query: "D82" ; Times: 1
+	Query: "Dermochelys coriacea" ; Times: 2
+	Query: "Salmo trutta" ; Times: 5
+	Query: "Mesoplodon densirostris mappable:1" ; Times: 1
+	Query: "Aepyornis maximus" ; Times: 1
+	Query: "Squatina squatina" ; Times: 1
+	Query: "Lepidocybium flavobrunneum mappable:1" ; Times: 1
+	Query: "Mola mola mappable:1" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 1
+	Query: "Heterodontus portusjacksoni" ; Times: 1
+	Query: "Centroscymnus crepidater" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 1
+	Query: "eudyptes pachyrhynchus" ; Times: 1
+	Query: "Dalatias licha" ; Times: 1
+	Query: "Eretmochelys imbricata  mappable:1" ; Times: 1
+	Query: "Torpedo torpedo" ; Times: 1
+	Query: "Notorynchus cepedianus" ; Times: 1
+	Query: "Deania quadrispinosa" ; Times: 1
+	Query: "Cephaloscyllium fasciatum" ; Times: 1
+	Query: "Galeorhinus galeus" ; Times: 1
+	Query: "Alopias superciliosus" ; Times: 1
+	Query: "Physeter macrocephalus mappable:1" ; Times: 1
+	Query: "Pseudocarcharias kamoharai" ; Times: 1
+	Query: "aptenodytes patagonicus" ; Times: 1
+	Query: "Alopias vulpinus" ; Times: 1
+	Query: "Isurus oxyrinchus mappable:1" ; Times: 2
+	Query: "Zeus faber mappable:1" ; Times: 1
+	Query: "Rhynchobatus australiae" ; Times: 1
+	Query: "Melopsittacus undulatus year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "Somniosus pacificus" ; Times: 1
+	Query: "Centroscymnus coelolepis" ; Times: 1
+	Query: "Pavoraja nitida" ; Times: 1
+	Query: "Squalus megalops" ; Times: 1
+	Query: "Cacatua roseicapilla year &gt; 1985 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 1
+	Query: "Kogia breviceps mappable:1" ; Times: 1
+	Query: "squalus acanthias year &gt;= 1950 year &lt;= 2019" ; Times: 1
+	Query: "Phalacrocorax carbo year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 2
+	Query: "right whale" ; Times: 3
+	Query: "Centroscymnus plunketi" ; Times: 1
+	Query: "Centrophorus moluccensis" ; Times: 1
+	Query: "Squatina australis" ; Times: 1
+	Query: "Etmopterus lucifer" ; Times: 1
+	Query: "Chlamydoselachus anguineus" ; Times: 1
+	Query: "Balaenoptera acutorostrata mappable:1" ; Times: 2
+	Query: "genus:Lasiorhinus" ; Times: 1
+	Query: "aptenodytes forsteri" ; Times: 1
+	Query: "Zameus squamulosus" ; Times: 1
+	Query: "Orcinus orca mappable:1" ; Times: 1
+	Query: "Hexanchus griseus" ; Times: 1
+	Query: "Ornithorhynchus" ; Times: 1
+	Query: "Mustelus antarcticus" ; Times: 1
+	Query: "Grampus griseus mappable:1" ; Times: 1
+	Query: "Oxynotus centrina" ; Times: 3
+	Query: "Prionace glauca" ; Times: 2
+	Query: "Squalus acanthias" ; Times: 1
+	Query: "Pristiophorus cirratus" ; Times: 1
+	Query: "Lamna nasus" ; Times: 1
+	Query: "eudyptes sclateri" ; Times: 2
+	Query: "Pristiophorus nudipinnis" ; Times: 1
+	Query: "eudyptes robustus" ; Times: 1
+	Query: "Callorhinchus milii" ; Times: 1
+	Query: "Heptranchias perlo" ; Times: 1
+	Query: "Centrophorus squamosus" ; Times: 1
+	Query: "Common Pheasant" ; Times: 1
+	Query: "Right Whale" ; Times: 2
+	Query: "Auxis thazard thazard mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 940 download events in this period)
+Total number of records downloaded: 84
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: United Kingdom ; Times: 2
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-25 ; Times: 2
+	Date: 2019-05-24 ; Times: 1
+	Date: 2019-05-28 ; Times: 2
+	Date: 2019-05-06 ; Times: 4
+	Date: 2019-05-03 ; Times: 2
+	Date: 2019-05-15 ; Times: 1
+	Date: 2019-05-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "squalus acanthias year &gt;= 1950 year &lt;= 2019" ; Times: 1
+	Query: "Pygoscelis papua" ; Times: 1
+	Query: "phalacrocorax carbo" ; Times: 1
+	Query: "Pygoscelis adeliae" ; Times: 2
+	Query: "Cyanoramphus" ; Times: 2
+	Query: "vntype:specimen genus:grus" ; Times: 1
+	Query: "vntype:specimen specificepithet:porphyrio genus:porphyrio" ; Times: 1
+	Query: "vntype:specimen specificepithet:californica genus:Callipepla" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 1
+	Query: "family:Gekkonidae" ; Times: 1
+	Query: "Oxynotus centrina" ; Times: 1
+	Query: "vntype:specimen genus:pitta" ; Times: 1
+
+
+End of report.
