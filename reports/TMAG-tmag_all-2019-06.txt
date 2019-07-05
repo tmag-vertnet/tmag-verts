@@ -1,0 +1,266 @@
+Report for Institution Code TMAG, Resource tmag_all
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 277
+Number of records retrieved in searches: 2379
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: New Zealand ; Times: 122
+	Country: France ; Times: 1
+	Country: United States ; Times: 150
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-20 ; Times: 1
+	Date: 2019-06-21 ; Times: 1
+	Date: 2019-06-22 ; Times: 1
+	Date: 2019-06-19 ; Times: 2
+	Date: 2019-06-18 ; Times: 2
+	Date: 2019-06-26 ; Times: 2
+	Date: 2019-06-27 ; Times: 57
+	Date: 2019-06-06 ; Times: 5
+	Date: 2019-06-07 ; Times: 1
+	Date: 2019-06-04 ; Times: 8
+	Date: 2019-06-05 ; Times: 3
+	Date: 2019-06-11 ; Times: 102
+	Date: 2019-06-03 ; Times: 1
+	Date: 2019-06-30 ; Times: 58
+	Date: 2019-06-10 ; Times: 25
+	Date: 2019-06-28 ; Times: 1
+	Date: 2019-06-14 ; Times: 2
+	Date: 2019-06-29 ; Times: 1
+	Date: 2019-06-25 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Chalinolobus specificepithet:gouldii" ; Times: 1
+	Query: "Stegostoma fasciatum" ; Times: 2
+	Query: "Parascyllium ferrugineum" ; Times: 2
+	Query: "genus:Isoodon specificepithet:obesulus" ; Times: 1
+	Query: "Urolophus cruciatus" ; Times: 2
+	Query: "genus:Mola specificepithet:mola" ; Times: 1
+	Query: "genus:Casuarius specificepithet:Casuarius" ; Times: 2
+	Query: "genus:Dromaius specificepithet:novaehollandiae" ; Times: 1
+	Query: "genus:Batrachomoeus specificepithet:dubius" ; Times: 1
+	Query: "genus:Oceanites specificepithet:oceanicus" ; Times: 1
+	Query: "genus:Cristiceps specificepithet:australis" ; Times: 1
+	Query: "Hippocampus breviceps" ; Times: 3
+	Query: "genus:Halargyreus" ; Times: 1
+	Query: "genus:Lasiorhinus specificepithet:latifrons" ; Times: 1
+	Query: "genus:Melopsittacus specificepithet:undulatus" ; Times: 1
+	Query: "genus:Taeniopygia specificepithet:guttata" ; Times: 1
+	Query: "genus:Megaptera specificepithet:novaeangliae" ; Times: 2
+	Query: "Etmopterus molleri" ; Times: 2
+	Query: "Cephaloscyllium fasciatum" ; Times: 2
+	Query: "Amytornis textilis" ; Times: 1
+	Query: "Urolophus paucimaculatus" ; Times: 2
+	Query: "genus:Dasyurus specificepithet:viverrinus" ; Times: 1
+	Query: "genus:Ardea specificepithet:alba" ; Times: 1
+	Query: "genus:Dermochelys specificepithet:coriacea" ; Times: 1
+	Query: "Harriotta raleighana" ; Times: 2
+	Query: "genus:Hydromys specificepithet:chrysogaster" ; Times: 1
+	Query: "genus:Cyclodomorphus specificepithet:casuarinae" ; Times: 1
+	Query: "genus:Dasyurus specificepithet:maculatus" ; Times: 1
+	Query: "genus:Trichoglossus" ; Times: 1
+	Query: "Carcharhinus longimanus" ; Times: 2
+	Query: "Emmelichthys" ; Times: 2
+	Query: "genus:Balaenoptera specificepithet:acutorostrata" ; Times: 1
+	Query: "Carcharhinus tilstoni" ; Times: 2
+	Query: "emperor penguin" ; Times: 3
+	Query: "genus:Lepidochelys specificepithet:olivacea" ; Times: 1
+	Query: "recordedby:Hoese year &gt;= 1959 year &lt;= 1963" ; Times: 1
+	Query: "Orectolobus maculatus" ; Times: 2
+	Query: "genus:Psephotus specificepithet:varius" ; Times: 1
+	Query: "Cephaloscyllium laticeps" ; Times: 2
+	Query: "recordedby:Hoese year &gt;= 1959 year &lt;= 1968" ; Times: 1
+	Query: "genus:Gadopsis specificepithet:marmoratus" ; Times: 1
+	Query: "genus:Barnardius specificepithet:zonarius" ; Times: 1
+	Query: "genus:Ornithorhynchus specificepithet:anatinus" ; Times: 1
+	Query: "genus:Pelagodroma specificepithet:marina" ; Times: 1
+	Query: "genus:Pomatostomus specificepithet:superciliosus" ; Times: 1
+	Query: "genus:Anoplogaster specificepithet:cornuta" ; Times: 1
+	Query: "Isurus paucus" ; Times: 2
+	Query: "genus:Allomycterus specificepithet:pilatus" ; Times: 1
+	Query: "Squalus megalops" ; Times: 2
+	Query: "genus:Glossopsitta specificepithet:porphyrocephala" ; Times: 1
+	Query: "genus:Enoplosus specificepithet:armatus" ; Times: 1
+	Query: "vntype:specimen leopard seal" ; Times: 2
+	Query: "Narcine tasmaniensis" ; Times: 2
+	Query: "genus:Glossopsitta specificepithet:pusilla" ; Times: 1
+	Query: "Etmopterus baxteri" ; Times: 2
+	Query: "genus:Haematopus specificepithet:ostralegus" ; Times: 1
+	Query: "genus:Podargus specificepithet:strigoides" ; Times: 1
+	Query: "genus:Pteropus specificepithet:poliocephalus" ; Times: 1
+	Query: "genus:Stomias specificepithet:boa" ; Times: 1
+	Query: "genus:Lagocephalus specificepithet:lagocephalus" ; Times: 1
+	Query: "leopard seal" ; Times: 1
+	Query: "genus:Psephotus specificepithet:haematonotus" ; Times: 1
+	Query: "Squalus blainville" ; Times: 2
+	Query: "Muscicapidae 1894" ; Times: 1
+	Query: "genus:Pardalotus specificepithet:striatus" ; Times: 1
+	Query: "Scorpis aequipinnis" ; Times: 1
+	Query: "copperhead snake" ; Times: 4
+	Query: "genus:Petauroides specificepithet:volans" ; Times: 1
+	Query: "Deania calcea" ; Times: 2
+	Query: "genus:Contusus specificepithet:richei" ; Times: 1
+	Query: "genus:Macroramphosus specificepithet:scolopax" ; Times: 1
+	Query: "Galeus" ; Times: 1
+	Query: "genus:Prosthemadera specificepithet:novaeseelandiae" ; Times: 1
+	Query: "Isurus oxyrinchus" ; Times: 2
+	Query: "genus:Macropus specificepithet:giganteus" ; Times: 1
+	Query: "genus:Pygopus specificepithet:lepidopodus" ; Times: 1
+	Query: "Oxynotus bruniensis" ; Times: 2
+	Query: "genus:Cochleoceps specificepithet:spatula" ; Times: 2
+	Query: "Mustelus mustelus" ; Times: 1
+	Query: "genus:Dicotylichthys specificepithet:punctulatus" ; Times: 1
+	Query: "Apristurus manis" ; Times: 2
+	Query: "genus:Aptenodytes specificepithet:forsteri" ; Times: 1
+	Query: "Geotria australis" ; Times: 4
+	Query: "Hydrolagus ogilbyi" ; Times: 2
+	Query: "genus:Desmodema specificepithet:polystictum" ; Times: 1
+	Query: "genus:Neophema specificepithet:elegans" ; Times: 1
+	Query: "Asymbolus analis" ; Times: 2
+	Query: "genus:Bassiana specificepithet:duperreyi" ; Times: 1
+	Query: "genus:Diodon specificepithet:nicthemerus" ; Times: 1
+	Query: "genus:Pseudomys specificepithet:higginsi" ; Times: 1
+	Query: "Parascyllium variolatum" ; Times: 2
+	Query: "genus:Geocrinia specificepithet:laevis" ; Times: 1
+	Query: "genus:Limosa specificepithet:lapponica" ; Times: 1
+	Query: "genus:Rattus specificepithet:lutreolus" ; Times: 1
+	Query: "Callorhinchus milii" ; Times: 2
+	Query: "genus:Omegophora specificepithet:armilla" ; Times: 1
+	Query: "genus:Echiostoma specificepithet:barbatum" ; Times: 1
+	Query: "genus:Notothenia specificepithet:coriiceps" ; Times: 1
+	Query: "genus:Platycercus specificepithet:adscitus" ; Times: 1
+	Query: "Anthornis melanura" ; Times: 1
+	Query: "genus:Vanellus specificepithet:miles" ; Times: 1
+	Query: "Squatina squatina" ; Times: 2
+	Query: "genus:Polytelis specificepithet:alexandrae" ; Times: 1
+	Query: "genus:Neosebastes specificepithet:pandus" ; Times: 1
+	Query: "genus:Remora specificepithet:remora" ; Times: 1
+	Query: "genus:Diomedea specificepithet:exulans" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 2
+	Query: "genus:Neophema specificepithet:splendida" ; Times: 1
+	Query: "genus:Naucrates specificepithet:ductor" ; Times: 1
+	Query: "Centroscymnus crepidater" ; Times: 2
+	Query: "Dalatias licha" ; Times: 2
+	Query: "genus:Dacelo specificepithet:novaeguineae" ; Times: 1
+	Query: "genus:Hirundichthys specificepithet:rondeletii" ; Times: 1
+	Query: "genus:Phoebastria specificepithet:nigripes " ; Times: 2
+	Query: "Torpedo torpedo" ; Times: 2
+	Query: "genus:Moloch specificepithet:horridus" ; Times: 1
+	Query: "Geocrinia laevis" ; Times: 1
+	Query: "genus:Tinca specificepithet:tinca" ; Times: 1
+	Query: "Notorynchus cepedianus" ; Times: 2
+	Query: "Deania quadrispinosa" ; Times: 2
+	Query: "genus:Brachionichthys specificepithet:hirsutus" ; Times: 1
+	Query: "genus:Petaurus specificepithet:breviceps" ; Times: 1
+	Query: "Galeorhinus galeus" ; Times: 2
+	Query: "genus:Eretmochelys specificepithet:imbricata" ; Times: 1
+	Query: "Alopias superciliosus" ; Times: 2
+	Query: "genus:Neoodax specificepithet:balteatus" ; Times: 1
+	Query: "Pseudocarcharias kamoharai" ; Times: 2
+	Query: "genus:Felis specificepithet:catus" ; Times: 1
+	Query: "genus:Ptilinopus specificepithet:superbus" ; Times: 1
+	Query: "genus:Orcinus specificepithet:orca" ; Times: 2
+	Query: "genus:Neoscopelus specificepithet:macrolepidotus" ; Times: 1
+	Query: "specificepithet:physalus" ; Times: 2
+	Query: "genus:Phalacrocorax specificepithet:carbo" ; Times: 1
+	Query: "Alopias vulpinus" ; Times: 2
+	Query: "unicorn" ; Times: 1
+	Query: "genus:Amphibolurus specificepithet:muricatus" ; Times: 1
+	Query: "genus:Poecilodryas specificepithet:albispecularis" ; Times: 1
+	Query: "genus:Kogia specificepithet:breviceps" ; Times: 2
+	Query: "genus:Psitteuteles specificepithet:versicolor" ; Times: 1
+	Query: "genus:Brachiopsilus specificepithet:ziebelli" ; Times: 1
+	Query: "genus:Kuiterichthys specificepithet:furcipilis" ; Times: 1
+	Query: "Rhynchobatus australiae" ; Times: 2
+	Query: "genus:Podiceps specificepithet:cristatus" ; Times: 1
+	Query: "genus:Balaenoptera specificepithet:physalus" ; Times: 1
+	Query: "Somniosus pacificus" ; Times: 2
+	Query: "genus:Oncorhynchus specificepithet:nerka" ; Times: 1
+	Query: "Centroscymnus coelolepis" ; Times: 2
+	Query: "Pavoraja nitida" ; Times: 2
+	Query: "Right whale" ; Times: 1
+	Query: "genus:Notechis specificepithet:scutatus" ; Times: 1
+	Query: "genus:Trichosurus specificepithet:vulpecula" ; Times: 1
+	Query: "genus:Galaxias specificepithet:truttaceus" ; Times: 1
+	Query: "genus:Thylacinus specificepithet:cynocephalus" ; Times: 1
+	Query: "salmo salar" ; Times: 2
+	Query: "genus:Callogobius" ; Times: 1
+	Query: "genus:Saurida specificepithet:tumbil" ; Times: 1
+	Query: "genus:Pluvialis specificepithet:dominica" ; Times: 1
+	Query: "Centroscymnus plunketi" ; Times: 2
+	Query: "Centrophorus moluccensis" ; Times: 2
+	Query: "Squatina australis" ; Times: 2
+	Query: "Etmopterus lucifer" ; Times: 2
+	Query: "Chlamydoselachus anguineus" ; Times: 2
+	Query: "genus:Cygnus specificepithet:atratus" ; Times: 1
+	Query: "genus:Egernia specificepithet:whitii" ; Times: 1
+	Query: "zameus" ; Times: 3
+	Query: "genus:Falco specificepithet:cenchroides" ; Times: 2
+	Query: "genus:Alectura specificepithet:lathami" ; Times: 1
+	Query: "genus:Perca specificepithet:fluviatilis" ; Times: 1
+	Query: "Triaenodon obesus" ; Times: 2
+	Query: "genus:Vombatus specificepithet:ursinus" ; Times: 1
+	Query: "genus:Aspasmogaster specificepithet:tasmaniensis" ; Times: 2
+	Query: "genus:Glossopsitta specificepithet:concinna" ; Times: 1
+	Query: "genus:Nyctophilus specificepithet:geoffroyi" ; Times: 1
+	Query: "genus:Pezoporus specificepithet:wallicus" ; Times: 1
+	Query: "genus:Tachyglossus specificepithet:aculeatus" ; Times: 1
+	Query: "Hexanchus griseus" ; Times: 2
+	Query: "genus:Platycercus specificepithet:icterotis" ; Times: 1
+	Query: "genus:Urolophus specificepithet:cruciatus" ; Times: 1
+	Query: "Mustelus antarcticus" ; Times: 2
+	Query: "genus:Echidna specificepithet:nebulosa" ; Times: 1
+	Query: "Oxynotus centrina" ; Times: 2
+	Query: "Prionace glauca" ; Times: 2
+	Query: "Squalus acanthias" ; Times: 2
+	Query: "Heterodontus portusjacksoni" ; Times: 2
+	Query: "genus:Brama specificepithet:brama" ; Times: 1
+	Query: "Pristiophorus cirratus" ; Times: 2
+	Query: "Lamna nasus" ; Times: 2
+	Query: "genus:Austrelaps specificepithet:superbus" ; Times: 1
+	Query: "Pristiophorus nudipinnis" ; Times: 2
+	Query: "Zameus squamulosus" ; Times: 2
+	Query: "Heptranchias perlo" ; Times: 2
+	Query: "Centrophorus squamosus" ; Times: 2
+	Query: "genus:Mastacomys specificepithet:fuscus" ; Times: 1
+	Query: "Mola" ; Times: 1
+	Query: "genus:Oryctolagus specificepithet:cuniculus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1182 download events in this period)
+Total number of records downloaded: 165
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: New Zealand ; Times: 1
+	Country: Panama ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-06 ; Times: 2
+	Date: 2019-06-04 ; Times: 2
+	Date: 2019-06-05 ; Times: 1
+	Date: 2019-06-03 ; Times: 1
+	Date: 2019-06-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "emperor penguin" ; Times: 1
+	Query: "class:elasmobranchii" ; Times: 1
+	Query: "barn owl" ; Times: 1
+	Query: "Barn Owl" ; Times: 1
+	Query: "Opossum" ; Times: 1
+	Query: "genus:Dermochelys" ; Times: 1
+	Query: "rainbow trout" ; Times: 1
+	Query: "vntype:specimen leopard seal" ; Times: 1
+
+
+End of report.
