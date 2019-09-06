@@ -1,0 +1,189 @@
+Report for Institution Code TMAG, Resource tmag_all
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 179
+Number of records retrieved in searches: 2321
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 47
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 1
+	Country: Guatemala ; Times: 1
+	Country: United Kingdom ; Times: 43
+	Country: Sweden ; Times: 2
+	Country: Peru ; Times: 56
+	Country: Denmark ; Times: 12
+	Country: Venezuela ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-27 ; Times: 4
+	Date: 2019-08-06 ; Times: 20
+	Date: 2019-08-08 ; Times: 11
+	Date: 2019-08-01 ; Times: 1
+	Date: 2019-08-03 ; Times: 1
+	Date: 2019-08-04 ; Times: 2
+	Date: 2019-08-05 ; Times: 8
+	Date: 2019-08-28 ; Times: 2
+	Date: 2019-08-29 ; Times: 12
+	Date: 2019-08-26 ; Times: 5
+	Date: 2019-08-09 ; Times: 3
+	Date: 2019-08-25 ; Times: 5
+	Date: 2019-08-22 ; Times: 2
+	Date: 2019-08-23 ; Times: 1
+	Date: 2019-08-20 ; Times: 9
+	Date: 2019-08-16 ; Times: 6
+	Date: 2019-08-15 ; Times: 14
+	Date: 2019-08-14 ; Times: 57
+	Date: 2019-08-13 ; Times: 8
+	Date: 2019-08-12 ; Times: 3
+	Date: 2019-08-11 ; Times: 1
+	Date: 2019-08-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Anthus novaeseelandiae" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "acutorostrata" ; Times: 2
+	Query: "genus:Phylidonyris specificepithet:melanops" ; Times: 1
+	Query: "Calidris canutus" ; Times: 2
+	Query: "Eudyptes chrysocome" ; Times: 1
+	Query: "Pelecanoides urinatrix macquarie" ; Times: 2
+	Query: "daption capense antarctica" ; Times: 1
+	Query: "Pygoscelis papua" ; Times: 1
+	Query: "Pycnoptilus floccosus" ; Times: 2
+	Query: "Procellaria cinerea" ; Times: 1
+	Query: "Strigops habroptilus" ; Times: 1
+	Query: "lepidoptera" ; Times: 1
+	Query: "Eudyptula minor" ; Times: 1
+	Query: "Procellaria westlandica" ; Times: 1
+	Query: "Ornithorhynchus anatinus mappable:1" ; Times: 3
+	Query: "Dama dama" ; Times: 1
+	Query: "genus:Morus " ; Times: 1
+	Query: "Procellaria aequinoctialis" ; Times: 1
+	Query: "Pterodroma leucoptera" ; Times: 1
+	Query: "specificepithet:chrysogaster genus:Neophema" ; Times: 2
+	Query: "Pagodroma nivea" ; Times: 1
+	Query: "specificepithet:quadragintus genus:Pardalotus" ; Times: 2
+	Query: "epomophora sanfordi" ; Times: 6
+	Query: "Thalassarche salvini" ; Times: 1
+	Query: "Larus dominicanus" ; Times: 1
+	Query: "Stercorarius maccormicki" ; Times: 1
+	Query: "Pelecanoides urinatrix" ; Times: 1
+	Query: "specificepithet:meridionalis genus:Nestor" ; Times: 2
+	Query: "Pachyptila desolata" ; Times: 1
+	Query: "Tachybaptus novaehollandiae" ; Times: 1
+	Query: "Chlidonias leucopterus" ; Times: 1
+	Query: "cavirostris" ; Times: 1
+	Query: "Sterna vittata" ; Times: 1
+	Query: "specificepithet:madagascariensis genus:Numenius" ; Times: 2
+	Query: "thylacinus cynocephalus" ; Times: 1
+	Query: "Plegadis falcinellus" ; Times: 1
+	Query: "Thalassarche chrysostoma" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 1
+	Query: "Pterodroma macroptera gouldi" ; Times: 1
+	Query: "fregetta" ; Times: 1
+	Query: "palpebrata year &gt;= 1990 year &lt;= 2019" ; Times: 2
+	Query: "Oceanites oceanicus" ; Times: 1
+	Query: "Ardea alba" ; Times: 1
+	Query: "genus:Lichenostomus specificepithet:melanops" ; Times: 1
+	Query: "Macronectes halli" ; Times: 1
+	Query: "Aptenodytes patagonicus" ; Times: 1
+	Query: "Anguilla australis" ; Times: 1
+	Query: "Eudyptes robustus" ; Times: 1
+	Query: "diomedea TMAG" ; Times: 1
+	Query: "palpebrata" ; Times: 1
+	Query: "Garrodia nereis" ; Times: 6
+	Query: "specificepithet:torquatus genus:Pedionomus" ; Times: 2
+	Query: "Pterodroma inexpectata" ; Times: 1
+	Query: "Leucosarcia melanoleuca" ; Times: 1
+	Query: "Balaenoptera acutorostrata" ; Times: 4
+	Query: "Anthornis melanura" ; Times: 1
+	Query: "Aepyornis maximus" ; Times: 1
+	Query: "Diomedea exulans" ; Times: 2
+	Query: "Daption capense" ; Times: 1
+	Query: "kogia breviceps" ; Times: 2
+	Query: "Limosa lapponica" ; Times: 1
+	Query: "Thalassarche cauta" ; Times: 1
+	Query: "Pelecanoides urinatrix campbell" ; Times: 1
+	Query: "Calidris acuminata" ; Times: 1
+	Query: "Dalatias licha" ; Times: 1
+	Query: "Pterodroma macroptera" ; Times: 1
+	Query: "Calidris ferruginea" ; Times: 1
+	Query: "Thalassarche bulleri" ; Times: 1
+	Query: "diomedea epomophora" ; Times: 2
+	Query: "Apteryx mantelli" ; Times: 1
+	Query: "Tringa nebularia" ; Times: 1
+	Query: "Phoebetria palpebrata" ; Times: 5
+	Query: "Prionace glauca" ; Times: 1
+	Query: "Megaptera novaeangliae" ; Times: 1
+	Query: "common starling" ; Times: 1
+	Query: "Pelagodroma marina" ; Times: 1
+	Query: "Pachyptila vittata" ; Times: 1
+	Query: "killer whale" ; Times: 2
+	Query: "Alopias superciliosus" ; Times: 1
+	Query: "Halobaena caerulea" ; Times: 1
+	Query: "Pseudocarcharias kamoharai" ; Times: 1
+	Query: "bulleri" ; Times: 1
+	Query: "diomedea sanfordi" ; Times: 10
+	Query: "Geotria" ; Times: 2
+	Query: "Balaenoptera physalus" ; Times: 1
+	Query: "Fulmarus glacialoides" ; Times: 1
+	Query: "Thalassarche melanophris" ; Times: 1
+	Query: "Pterodroma lessonii" ; Times: 1
+	Query: "Pezoporus wallicus" ; Times: 4
+	Query: "Thylacinus cynocephalus" ; Times: 2
+	Query: "Pelecanoides georgicus georgicus" ; Times: 2
+	Query: "pagodroma nivea" ; Times: 1
+	Query: "Macronectes giganteus" ; Times: 1
+	Query: "Stercorarius skua" ; Times: 1
+	Query: "Pelecanoides georgicus" ; Times: 2
+	Query: "Pachyptila belcheri" ; Times: 1
+	Query: "Diomedea epomophora" ; Times: 1
+	Query: "porzana tabuensis" ; Times: 1
+	Query: "Columba livia" ; Times: 1
+	Query: "Fregata ariel" ; Times: 1
+	Query: "Trichodere cockerelli" ; Times: 1
+	Query: "Physeter macrocephalus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cladorhynchus leucocephalus" ; Times: 6
+	Query: "epomophora" ; Times: 2
+	Query: "Thalassarche chlororhynchos" ; Times: 1
+	Query: "white-faced storm petrel" ; Times: 1
+	Query: "Phoebetria fusca" ; Times: 1
+	Query: "Eudyptes sclateri" ; Times: 1
+	Query: "genus:Elseyornis" ; Times: 2
+	Query: "Morus serrator" ; Times: 1
+	Query: "Centrophorus uyato" ; Times: 1
+	Query: "unicorn" ; Times: 1
+	Query: "Anous minutus" ; Times: 1
+	Query: "Fregetta tropica" ; Times: 1
+	Query: "Mustelus antarcticus mappable:1" ; Times: 1
+	Query: "Phaethon rubricauda" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 1
+	Query: "Pachyptila turtur" ; Times: 1
+	Query: "Thalassoica antarctica" ; Times: 1
+	Query: "Centrophorus squamosus" ; Times: 1
+	Query: "specificepithet:chrysostoma genus:Thalassarche" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1034 download events in this period)
+Total number of records downloaded: 9
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-15 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Balaenoptera musculus" ; Times: 1
+	Query: "Balaenoptera physalus" ; Times: 1
+	Query: "Megaptera novaeangliae" ; Times: 1
+	Query: "Balaenoptera acutorostrata" ; Times: 1
+
+
+End of report.
