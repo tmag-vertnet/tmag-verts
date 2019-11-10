@@ -1,0 +1,106 @@
+Report for Institution Code TMAG, Resource tmag_all
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 51
+Number of records retrieved in searches: 520
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 10
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Denmark ; Times: 6
+	Country: France ; Times: 3
+	Country: United States ; Times: 15
+	Country: Austria ; Times: 1
+	Country: Germany ; Times: 1
+	Country: New Zealand ; Times: 10
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-20 ; Times: 1
+	Date: 2019-09-16 ; Times: 4
+	Date: 2019-09-17 ; Times: 3
+	Date: 2019-09-10 ; Times: 3
+	Date: 2019-09-11 ; Times: 2
+	Date: 2019-09-12 ; Times: 4
+	Date: 2019-09-26 ; Times: 2
+	Date: 2019-09-28 ; Times: 5
+	Date: 2019-09-23 ; Times: 3
+	Date: 2019-09-06 ; Times: 7
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-08 ; Times: 1
+	Date: 2019-09-02 ; Times: 1
+	Date: 2019-09-27 ; Times: 1
+	Date: 2019-09-04 ; Times: 1
+	Date: 2019-09-25 ; Times: 2
+	Date: 2019-09-05 ; Times: 6
+	Date: 2019-09-22 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Mordacia" ; Times: 1
+	Query: "Calidris canutus" ; Times: 5
+	Query: "Lepidoptera" ; Times: 2
+	Query: "Orcinus orca" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 2
+	Query: "&#34;Allocyttus verrucosus&#34;" ; Times: 1
+	Query: "weka" ; Times: 1
+	Query: "specificepithet:discolor genus:Lathamus" ; Times: 5
+	Query: "family:Geotriidae mappable:1" ; Times: 1
+	Query: "Apteryx" ; Times: 3
+	Query: "Mordacia mordax" ; Times: 4
+	Query: "olive ridley" ; Times: 2
+	Query: "Scomberesox saurus saurus mappable:1" ; Times: 1
+	Query: "pterodroma macroptera" ; Times: 1
+	Query: "Seriola lalandi" ; Times: 1
+	Query: "gray whale" ; Times: 1
+	Query: "Mola mola" ; Times: 1
+	Query: "Geotria australis" ; Times: 2
+	Query: "Pristiophorus" ; Times: 1
+	Query: "Crested Shrike Tit" ; Times: 1
+	Query: "diomedea sanfordi" ; Times: 2
+	Query: "Lissodelphis peronii" ; Times: 2
+	Query: "pelecanoides gough" ; Times: 3
+	Query: "B1362" ; Times: 1
+	Query: "pelecanoides kerguelen" ; Times: 2
+	Query: "specificepithet:meridionalis genus:Nestor" ; Times: 1
+	Query: "Aptenodytes" ; Times: 1
+	Query: "baxteri" ; Times: 1
+	Query: "Auxis thazard thazard mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1073 download events in this period)
+Total number of records downloaded: 353
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-10 ; Times: 1
+	Date: 2019-09-11 ; Times: 1
+	Date: 2019-09-26 ; Times: 5
+	Date: 2019-09-19 ; Times: 2
+	Date: 2019-09-25 ; Times: 1
+	Date: 2019-09-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:(Geotriidae OR Mordaciidae OR Hexanchidae OR Chlamydoselachidae) mappable:1" ; Times: 1
+	Query: "Lissodelphis peronii" ; Times: 1
+	Query: "pelecanoides" ; Times: 1
+	Query: "class:aves stateprovince:&#34;scotland&#34; year &gt;= 1905 year &lt;= 1915" ; Times: 1
+	Query: "pachyptila" ; Times: 1
+	Query: "Pterodroma vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Geotriidae mappable:1" ; Times: 1
+	Query: "family:Geotriidae" ; Times: 1
+	Query: "family:(Geotriidae OR Hexanchidae OR Chlamydoselachidae) mappable:1" ; Times: 2
+	Query: "pitta" ; Times: 1
+
+
+End of report.
