@@ -1,0 +1,187 @@
+Report for Institution Code TMAG, Resource tmag_all
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 211
+Number of records retrieved in searches: 1024
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 56
+	Country: Australia ; Times: 4
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 22
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Denmark ; Times: 3
+	Country: Belgium ; Times: 10
+	Country: New Zealand ; Times: 104
+	Country: Benin ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 2
+	Date: 2019-10-08 ; Times: 1
+	Date: 2019-10-21 ; Times: 22
+	Date: 2019-10-02 ; Times: 4
+	Date: 2019-10-24 ; Times: 50
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-05 ; Times: 5
+	Date: 2019-10-03 ; Times: 3
+	Date: 2019-10-11 ; Times: 1
+	Date: 2019-10-16 ; Times: 1
+	Date: 2019-10-17 ; Times: 5
+	Date: 2019-10-07 ; Times: 10
+	Date: 2019-10-04 ; Times: 9
+	Date: 2019-10-23 ; Times: 58
+	Date: 2019-10-18 ; Times: 3
+	Date: 2019-10-15 ; Times: 1
+	Date: 2019-10-28 ; Times: 11
+	Date: 2019-10-10 ; Times: 3
+	Date: 2019-10-29 ; Times: 21
+
+List of queries that retrieved data from the resource: 
+	Query: "Eubalichthys mosaicus mappable:1" ; Times: 2
+	Query: "Stegostoma fasciatum" ; Times: 2
+	Query: "Parascyllium ferrugineum" ; Times: 2
+	Query: "Urolophus cruciatus" ; Times: 2
+	Query: "specificepithet:chrysogaster genus:Neophema" ; Times: 2
+	Query: "Meuschenia freycineti mappable:1" ; Times: 2
+	Query: "poephila cincta" ; Times: 2
+	Query: "Etmopterus molleri" ; Times: 1
+	Query: "Cephaloscyllium fasciatum" ; Times: 1
+	Query: "ziphius" ; Times: 1
+	Query: "Urolophus paucimaculatus" ; Times: 2
+	Query: "Harriotta raleighana" ; Times: 1
+	Query: "Carcharhinus longimanus" ; Times: 2
+	Query: "Carcharhinus tilstoni" ; Times: 2
+	Query: "Mola mola" ; Times: 1
+	Query: "Orectolobus maculatus" ; Times: 2
+	Query: "Cephaloscyllium laticeps" ; Times: 2
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "Pristiophorus nudipinnis" ; Times: 2
+	Query: "specificepithet:meridionalis genus:Nestor" ; Times: 1
+	Query: "Isurus paucus" ; Times: 1
+	Query: "Squalus megalops" ; Times: 2
+	Query: "Narcine tasmaniensis" ; Times: 2
+	Query: "Thamnaconus degeni mappable:1" ; Times: 2
+	Query: "Heterodontus portusjacksoni" ; Times: 2
+	Query: "Brachaluteres jacksonianus mappable:1" ; Times: 2
+	Query: "Etmopterus baxteri" ; Times: 2
+	Query: "Mus musculus 1982" ; Times: 2
+	Query: "Mus musculus 1986" ; Times: 2
+	Query: "Squalus blainville" ; Times: 2
+	Query: "Deania calcea" ; Times: 2
+	Query: "genus:Thylacinus" ; Times: 1
+	Query: "Mus musculus 2002" ; Times: 2
+	Query: "Isurus oxyrinchus" ; Times: 2
+	Query: "Oxynotus bruniensis" ; Times: 2
+	Query: "Mustelus mustelus" ; Times: 2
+	Query: "Mus musculus 1997" ; Times: 2
+	Query: "Apristurus manis" ; Times: 1
+	Query: "Hexanchus griseus" ; Times: 2
+	Query: "Hydrolagus ogilbyi" ; Times: 2
+	Query: "Meuschenia trachylepis mappable:1" ; Times: 2
+	Query: "specificepithet:nigripes" ; Times: 2
+	Query: "Thylacine" ; Times: 1
+	Query: "Asymbolus analis" ; Times: 2
+	Query: "Dalatias licha" ; Times: 2
+	Query: "Eubalichthys gunnii mappable:1" ; Times: 2
+	Query: "Parascyllium variolatum" ; Times: 1
+	Query: "Callorhinchus milii" ; Times: 2
+	Query: "Triaenodon obesus" ; Times: 2
+	Query: "Squatina squatina" ; Times: 2
+	Query: "Mustelus antarcticus" ; Times: 2
+	Query: "Mola mola mappable:1" ; Times: 10
+	Query: "Carcharhinus falciformis" ; Times: 2
+	Query: "kogia breviceps" ; Times: 21
+	Query: "Neophema chrysogaster" ; Times: 2
+	Query: "Centroscymnus crepidater" ; Times: 1
+	Query: "Acanthaluteres spilomelanurus mappable:1" ; Times: 2
+	Query: "specificepithet:discolor genus:Lathamus" ; Times: 2
+	Query: "Torpedo torpedo" ; Times: 2
+	Query: "Mesoplodon grayi" ; Times: 1
+	Query: "genus:Ardeotis australis" ; Times: 1
+	Query: "Notorynchus cepedianus" ; Times: 2
+	Query: "Deania quadrispinosa" ; Times: 1
+	Query: "catalognumber:D1671" ; Times: 1
+	Query: "Galeorhinus galeus" ; Times: 2
+	Query: "Alopias superciliosus" ; Times: 2
+	Query: "recordedby:Armitage" ; Times: 1
+	Query: "Pseudocarcharias kamoharai" ; Times: 1
+	Query: "Alopias vulpinus" ; Times: 2
+	Query: "Cyanoramphus" ; Times: 2
+	Query: "Thylacinus cynocephalus" ; Times: 3
+	Query: "specificepithet:phrygia genus:Xanthomyza" ; Times: 2
+	Query: "Rhynchobatus australiae" ; Times: 2
+	Query: "Chelidonichthys kumu" ; Times: 1
+	Query: "procellaria aequinoctialis" ; Times: 1
+	Query: "Somniosus pacificus" ; Times: 2
+	Query: "papua Pygoscelis" ; Times: 1
+	Query: "Centroscymnus coelolepis" ; Times: 2
+	Query: "Meuschenia scaber mappable:1" ; Times: 2
+	Query: "Pavoraja nitida" ; Times: 1
+	Query: "Acanthaluteres vittiger mappable:1" ; Times: 2
+	Query: "Orcinus orca" ; Times: 1
+	Query: "Rattus norvegicus 1985" ; Times: 1
+	Query: "Centroscymnus plunketi" ; Times: 1
+	Query: "Centrophorus moluccensis" ; Times: 2
+	Query: "Squatina australis" ; Times: 2
+	Query: "Etmopterus lucifer" ; Times: 2
+	Query: "Chlamydoselachus anguineus" ; Times: 2
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "Centrophorus squamosus" ; Times: 2
+	Query: "Kogia" ; Times: 1
+	Query: "Alopias" ; Times: 1
+	Query: "unicorn" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 3
+	Query: "Oxynotus centrina" ; Times: 2
+	Query: "Prionace glauca" ; Times: 2
+	Query: "Squalus acanthias" ; Times: 2
+	Query: "Pristiophorus cirratus" ; Times: 2
+	Query: "Lamna nasus" ; Times: 2
+	Query: "Rattus norvegicus 1995" ; Times: 1
+	Query: "Rattus norvegicus 1994" ; Times: 1
+	Query: "platypus" ; Times: 6
+	Query: "Mus musculus 1978" ; Times: 2
+	Query: "Zameus squamulosus" ; Times: 1
+	Query: "Heptranchias perlo" ; Times: 2
+	Query: "vntype:observation order:Anura basisofrecord:HumanObservation" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1308 download events in this period)
+Total number of records downloaded: 131
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 1
+	Date: 2019-10-23 ; Times: 1
+	Date: 2019-10-18 ; Times: 1
+	Date: 2019-10-02 ; Times: 2
+	Date: 2019-10-28 ; Times: 2
+	Date: 2019-10-30 ; Times: 1
+	Date: 2019-10-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stercorariidae" ; Times: 1
+	Query: "vntype:specimen (gonorynchiformes)" ; Times: 1
+	Query: "poephila cincta" ; Times: 1
+	Query: "platypus" ; Times: 2
+	Query: "Strigops habroptilus" ; Times: 1
+	Query: "Neophema chrysogaster" ; Times: 1
+	Query: "vntype:observation order:Anura basisofrecord:HumanObservation" ; Times: 1
+	Query: "eretmochelys imbricata" ; Times: 1
+
+
+End of report.
