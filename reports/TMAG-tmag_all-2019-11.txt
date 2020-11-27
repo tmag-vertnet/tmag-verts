@@ -1,0 +1,114 @@
+Report for Institution Code TMAG, Resource tmag_all
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 71
+Number of records retrieved in searches: 957
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United Kingdom ; Times: 7
+	Country: Australia ; Times: 5
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Denmark ; Times: 16
+	Country: India ; Times: 5
+	Country: France ; Times: 2
+	Country: United States ; Times: 22
+	Country: Sweden ; Times: 5
+	Country: Germany ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 5
+	Date: 2019-11-21 ; Times: 1
+	Date: 2019-11-22 ; Times: 3
+	Date: 2019-11-24 ; Times: 6
+	Date: 2019-11-25 ; Times: 1
+	Date: 2019-11-08 ; Times: 1
+	Date: 2019-11-30 ; Times: 3
+	Date: 2019-11-06 ; Times: 4
+	Date: 2019-11-07 ; Times: 9
+	Date: 2019-11-04 ; Times: 10
+	Date: 2019-11-05 ; Times: 3
+	Date: 2019-11-03 ; Times: 9
+	Date: 2019-11-01 ; Times: 6
+	Date: 2019-11-15 ; Times: 4
+	Date: 2019-11-28 ; Times: 1
+	Date: 2019-11-29 ; Times: 1
+	Date: 2019-11-10 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Salmo salar" ; Times: 4
+	Query: "Ovis aries" ; Times: 1
+	Query: "Lepidóptera" ; Times: 1
+	Query: "Vombatus ursinus" ; Times: 2
+	Query: "haematopus unicolor" ; Times: 4
+	Query: "Salmo salar mappable:1" ; Times: 2
+	Query: "Pseudocheirus peregrinus" ; Times: 1
+	Query: "Orcinus orca" ; Times: 1
+	Query: "Alopias vulpinus vntype:specimen" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 2
+	Query: "salmo salar" ; Times: 1
+	Query: "etmopterus baxteri" ; Times: 1
+	Query: "genus:Pseudocarcharias" ; Times: 1
+	Query: "etmopterus" ; Times: 8
+	Query: "sandfly" ; Times: 5
+	Query: "neophema chrysogaster" ; Times: 1
+	Query: "Petauroides volans" ; Times: 2
+	Query: "bottlenose dolphin" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 1
+	Query: "specificepithet:cenchroides genus:Falco" ; Times: 4
+	Query: "Dama dama" ; Times: 1
+	Query: "catalognumber:B5987" ; Times: 4
+	Query: "genus:Zameus" ; Times: 1
+	Query: "Mirounga leonina" ; Times: 1
+	Query: "Physeter macrocephalus" ; Times: 4
+	Query: "unicorn" ; Times: 1
+	Query: "Oxynotus centrina vntype:specimen" ; Times: 1
+	Query: "sharp-tailed snake" ; Times: 1
+	Query: "Caranx bucculentus" ; Times: 1
+	Query: "blue whale" ; Times: 1
+	Query: "pachyptila turtur year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "atlantic salmon" ; Times: 1
+	Query: "platypus" ; Times: 1
+	Query: "etmopterus molleri" ; Times: 1
+	Query: "tasmanian devil" ; Times: 4
+	Query: "B5891" ; Times: 1
+	Query: "arum" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1367 download events in this period)
+Total number of records downloaded: 479
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Australia ; Times: 1
+	Country: India ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-24 ; Times: 1
+	Date: 2019-11-25 ; Times: 1
+	Date: 2019-11-06 ; Times: 5
+	Date: 2019-11-05 ; Times: 2
+	Date: 2019-11-10 ; Times: 1
+	Date: 2019-11-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Anseriformes" ; Times: 1
+	Query: "order:Charadriiformes" ; Times: 1
+	Query: "Lepidóptera" ; Times: 1
+	Query: "order:Columbiformes" ; Times: 2
+	Query: "Gekkonidae" ; Times: 1
+	Query: "etmopterus" ; Times: 1
+	Query: "neophema chrysogaster" ; Times: 1
+	Query: "arum" ; Times: 1
+	Query: "sandfly" ; Times: 2
+
+
+End of report.
