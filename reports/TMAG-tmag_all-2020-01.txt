@@ -1,0 +1,125 @@
+Report for Institution Code TMAG, Resource tmag_all
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 104
+Number of records retrieved in searches: 891
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 33
+	Country: Australia ; Times: 5
+	Country: South Africa ; Times: 2
+	Country: Singapore ; Times: 1
+	Country: India ; Times: 3
+	Country: France ; Times: 49
+	Country: United Kingdom ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-02 ; Times: 10
+	Date: 2020-01-01 ; Times: 13
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-05 ; Times: 15
+	Date: 2020-01-28 ; Times: 1
+	Date: 2020-01-14 ; Times: 2
+	Date: 2020-01-20 ; Times: 5
+	Date: 2020-01-16 ; Times: 5
+	Date: 2020-01-22 ; Times: 6
+	Date: 2020-01-25 ; Times: 8
+	Date: 2020-01-11 ; Times: 1
+	Date: 2020-01-12 ; Times: 3
+	Date: 2020-01-13 ; Times: 4
+	Date: 2020-01-21 ; Times: 1
+	Date: 2020-01-31 ; Times: 7
+	Date: 2020-01-10 ; Times: 5
+	Date: 2020-01-26 ; Times: 1
+	Date: 2020-01-23 ; Times: 13
+	Date: 2020-01-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:leucoptera genus:pterodroma" ; Times: 1
+	Query: "&#34;Ornithorhynchus anatinus&#34;" ; Times: 1
+	Query: "Lepidocybium flavobrunneum mappable:1" ; Times: 2
+	Query: "Hirundichthys rondeletii mappable:1" ; Times: 2
+	Query: "Mola mola mappable:1" ; Times: 3
+	Query: "Electrona antarctica" ; Times: 1
+	Query: "australis Gallirallus" ; Times: 1
+	Query: "Pseudorca crassidens mappable:1" ; Times: 1
+	Query: "&#34;orcinus orca&#34;" ; Times: 1
+	Query: "Anoplogaster cornuta mappable:1" ; Times: 4
+	Query: "specificepithet:nimbus genus:Crinia" ; Times: 1
+	Query: "Kogia breviceps mappable:1" ; Times: 1
+	Query: "Ziphius cavirostris mappable:1" ; Times: 1
+	Query: "Hoplostethus mediterraneus mappable:1" ; Times: 5
+	Query: "Eretmochelys imbricata  mappable:1" ; Times: 1
+	Query: "grus rubicunda" ; Times: 5
+	Query: "molidae" ; Times: 1
+	Query: "Dermochelys coriacea mappable:1" ; Times: 1
+	Query: "recordedby:hunt year &gt;= 1980 year &lt;= 2010" ; Times: 1
+	Query: "Diaphus ostenfeldi" ; Times: 1
+	Query: "Dasyornis broadbenti" ; Times: 1
+	Query: "Idiacanthus fasciola mappable:1" ; Times: 2
+	Query: "lepidoptera" ; Times: 2
+	Query: "orcinus orca" ; Times: 1
+	Query: "Balaenoptera acutorostrata mappable:1" ; Times: 1
+	Query: "Neoscopelus macrolepidotus mappable:1" ; Times: 4
+	Query: "Naucrates ductor mappable:1" ; Times: 2
+	Query: "Common blackbird" ; Times: 1
+	Query: "mykiss Oncorhynchus" ; Times: 1
+	Query: "specificepithet:dumerilii genus:Limnodynastes" ; Times: 10
+	Query: "Orcinus orca mappable:1" ; Times: 1
+	Query: "australis Nannoperca" ; Times: 1
+	Query: "specificepithet:squamulosus genus:Zameus" ; Times: 3
+	Query: "Garganey" ; Times: 2
+	Query: "dasyornis broadbenti" ; Times: 1
+	Query: "Physeter macrocephalus mappable:1" ; Times: 1
+	Query: "Grampus griseus mappable:1" ; Times: 1
+	Query: "Remora remora mappable:1" ; Times: 2
+	Query: "Prionace glauca" ; Times: 1
+	Query: "Sarcophilus harrisii" ; Times: 1
+	Query: "Lepus capensis mappable:1" ; Times: 3
+	Query: "Isurus oxyrinchus mappable:1" ; Times: 3
+	Query: "family:molidae" ; Times: 7
+	Query: "Megaptera novaeangliae mappable:1" ; Times: 1
+	Query: "specificepithet:raniformis genus:Litoria" ; Times: 1
+	Query: "specificepithet:ewingii genus:Litoria" ; Times: 1
+	Query: "Prionace glauca mappable:1" ; Times: 3
+	Query: "Balaenoptera musculus" ; Times: 1
+	Query: "diomedea sanfordi" ; Times: 2
+	Query: "Lampris guttatus mappable:1" ; Times: 4
+	Query: "procellariiformes institutioncode:TMAG" ; Times: 1
+	Query: "Rhynchobatus australiae" ; Times: 1
+	Query: "Auxis thazard thazard mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1584 download events in this period)
+Total number of records downloaded: 1663
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: United Kingdom ; Times: 1
+	Country: South Africa ; Times: 2
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-26 ; Times: 1
+	Date: 2020-01-30 ; Times: 2
+	Date: 2020-01-22 ; Times: 2
+	Date: 2020-01-23 ; Times: 1
+	Date: 2020-01-11 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Sarcophilus harrisii" ; Times: 1
+	Query: "Diaphus ostenfeldi" ; Times: 1
+	Query: "pterodroma vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sturnus" ; Times: 1
+	Query: "Electrona antarctica" ; Times: 1
+	Query: "procellariiformes institutioncode:TMAG" ; Times: 1
+	Query: "Dasyurus maculatus" ; Times: 2
+
+
+End of report.
