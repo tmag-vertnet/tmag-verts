@@ -1,0 +1,110 @@
+Report for Institution Code TMAG, Resource tmag_all
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 65
+Number of records retrieved in searches: 892
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 33
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 25
+	Country: Japan ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 2
+	Date: 2020-02-10 ; Times: 3
+	Date: 2020-02-26 ; Times: 3
+	Date: 2020-02-24 ; Times: 5
+	Date: 2020-02-03 ; Times: 3
+	Date: 2020-02-13 ; Times: 1
+	Date: 2020-02-20 ; Times: 1
+	Date: 2020-02-14 ; Times: 2
+	Date: 2020-02-17 ; Times: 2
+	Date: 2020-02-05 ; Times: 10
+	Date: 2020-02-19 ; Times: 2
+	Date: 2020-02-06 ; Times: 4
+	Date: 2020-02-08 ; Times: 1
+	Date: 2020-02-29 ; Times: 1
+	Date: 2020-02-18 ; Times: 20
+	Date: 2020-02-21 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "stegostoma" ; Times: 1
+	Query: "Mesoplodon" ; Times: 1
+	Query: "genus:eubalaena" ; Times: 1
+	Query: "unicorn" ; Times: 1
+	Query: "pachyptila turtur" ; Times: 4
+	Query: "oceanites oceanicus australia" ; Times: 1
+	Query: "&#34;orcinus orca&#34;" ; Times: 1
+	Query: "Brachionichthys" ; Times: 1
+	Query: "Upeneichthys vlamingii mappable:1" ; Times: 2
+	Query: "Metelectrona ventralis" ; Times: 1
+	Query: "scientificname:Upeneichthys vlamingii mappable:1" ; Times: 2
+	Query: "Podiceps cristatus" ; Times: 2
+	Query: "vntype:specimen specificepithet:Domesticus genus:Passer year &gt;= 1951 year &lt;= 2020 institutioncode:TMAG" ; Times: 1
+	Query: "pachyptila belcheri" ; Times: 1
+	Query: "Antechinus swainsonii" ; Times: 1
+	Query: "molidae" ; Times: 1
+	Query: "&#34;Tachyglossus aculeatus&#34;" ; Times: 2
+	Query: "Upeneichthys lineatus mappable:1" ; Times: 1
+	Query: "vntype:specimen class:aves recordedby:A. Walker year &gt;= 1890 year &lt;= 1911" ; Times: 1
+	Query: "scientificname:Upeneichthys lineatus mappable:1" ; Times: 1
+	Query: "Upeneus tragula mappable:1" ; Times: 2
+	Query: "Polymetme illustris" ; Times: 1
+	Query: "accipiter novaehollandiae year &gt;= 1950 year &lt;= 2020" ; Times: 1
+	Query: "TMAG procellariiformes" ; Times: 3
+	Query: "scientificname:Upeneus tragula mappable:1" ; Times: 2
+	Query: "TMAG sanfordi" ; Times: 2
+	Query: "diomedea sanfordi" ; Times: 13
+	Query: "accipiter novaehollandiae country:&#34;australia&#34; year &gt;= 1950 year &lt;= 2020" ; Times: 2
+	Query: "vntype:specimen specificepithet:domesticus genus:passer institutioncode:TMAG" ; Times: 2
+	Query: "physeter" ; Times: 2
+	Query: "Northern Territory genus:Moloch" ; Times: 1
+	Query: "platypus" ; Times: 2
+	Query: "Australia genus:Moloch" ; Times: 1
+	Query: "papilio" ; Times: 1
+	Query: "Thymichthys" ; Times: 1
+	Query: "physeter macrocephalus" ; Times: 1
+	Query: "Brachiopsilus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1023 download events in this period)
+Total number of records downloaded: 333
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: United Kingdom ; Times: 1
+	Country: South Africa ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 2
+	Date: 2020-02-03 ; Times: 1
+	Date: 2020-02-25 ; Times: 1
+	Date: 2020-02-20 ; Times: 1
+	Date: 2020-02-14 ; Times: 1
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-05 ; Times: 1
+	Date: 2020-02-29 ; Times: 1
+	Date: 2020-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Podiceps cristatus" ; Times: 1
+	Query: "Tyto alba" ; Times: 1
+	Query: "genus:eubalaena" ; Times: 1
+	Query: "Burhinus grallarius" ; Times: 1
+	Query: "Casuarius vntype:specimen" ; Times: 1
+	Query: "platypus" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "Antechinus swainsonii" ; Times: 1
+	Query: "physeter macrocephalus" ; Times: 1
+	Query: "Metelectrona ventralis" ; Times: 1
+
+
+End of report.
