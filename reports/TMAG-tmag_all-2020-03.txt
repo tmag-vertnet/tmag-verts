@@ -1,0 +1,104 @@
+Report for Institution Code TMAG, Resource tmag_all
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 59
+Number of records retrieved in searches: 359
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United Kingdom ; Times: 28
+	Country: Australia ; Times: 4
+	Country: South Africa ; Times: 3
+	Country: Mexico ; Times: 8
+	Country: United States ; Times: 12
+	Country: Taiwan ; Times: 1
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-27 ; Times: 2
+	Date: 2020-03-10 ; Times: 2
+	Date: 2020-03-26 ; Times: 3
+	Date: 2020-03-30 ; Times: 2
+	Date: 2020-03-31 ; Times: 5
+	Date: 2020-03-24 ; Times: 1
+	Date: 2020-03-09 ; Times: 4
+	Date: 2020-03-22 ; Times: 1
+	Date: 2020-03-18 ; Times: 4
+	Date: 2020-03-19 ; Times: 3
+	Date: 2020-03-23 ; Times: 6
+	Date: 2020-03-14 ; Times: 2
+	Date: 2020-03-06 ; Times: 3
+	Date: 2020-03-12 ; Times: 2
+	Date: 2020-03-13 ; Times: 1
+	Date: 2020-03-03 ; Times: 2
+	Date: 2020-03-11 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "Pteropus poliocephalus" ; Times: 1
+	Query: "Kestratherina esox mappable:1" ; Times: 1
+	Query: "diomedea exulans chionoptera" ; Times: 1
+	Query: "zoothera dauma" ; Times: 1
+	Query: "wandering albatross" ; Times: 2
+	Query: "Electrona antarctica" ; Times: 2
+	Query: "turtur new zealand" ; Times: 1
+	Query: "Hippocampus breviceps" ; Times: 3
+	Query: "Atherinosoma microstoma mappable:1" ; Times: 1
+	Query: "Vespadelus darlingtoni" ; Times: 1
+	Query: "mola mola" ; Times: 1
+	Query: "genus:Thylacinus" ; Times: 1
+	Query: "Urocampus" ; Times: 1
+	Query: "diomedea sanfordi" ; Times: 11
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "specificepithet:antarctica genus:Electrona" ; Times: 1
+	Query: "Diomedea epomophora sanfordi" ; Times: 1
+	Query: "turtur campbell" ; Times: 1
+	Query: "Vespadelus regulus" ; Times: 1
+	Query: "Grampus griseus" ; Times: 2
+	Query: "pterodroma macroptera" ; Times: 1
+	Query: "Cascades Frog" ; Times: 1
+	Query: "sanfordi" ; Times: 2
+	Query: "genus:Caperea" ; Times: 1
+	Query: "Centrophorus uyato" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 2
+	Query: "Caranx bucculentus" ; Times: 1
+	Query: "Pseudorca crassidens" ; Times: 1
+	Query: "Falsistrellus tasmaniensis" ; Times: 1
+	Query: "blue whale" ; Times: 1
+	Query: "genus:mesoplodon densirostris" ; Times: 1
+	Query: "TMAG Ornithology B5445" ; Times: 1
+	Query: "Vespadelus vulturnus" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "Glareola maldivarum" ; Times: 1
+	Query: "Chalinolobus morio" ; Times: 1
+	Query: "Todiramphus macleayii Queensland" ; Times: 1
+	Query: "macronectes halli year &gt;= 1995 year &lt;= 2020" ; Times: 1
+	Query: "Atherinason hepsetoides mappable:1" ; Times: 1
+	Query: "Leptatherina presbyteroides mappable:1" ; Times: 1
+	Query: "Centrophorus squamosus" ; Times: 1
+	Query: "baxteri" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 853 download events in this period)
+Total number of records downloaded: 10
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: South Africa ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-14 ; Times: 2
+	Date: 2020-03-09 ; Times: 1
+	Date: 2020-03-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Electrona antarctica" ; Times: 2
+	Query: "Cascades Frog" ; Times: 1
+	Query: "specificepithet:antarctica genus:Electrona" ; Times: 1
+
+
+End of report.
