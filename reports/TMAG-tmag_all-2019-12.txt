@@ -1,0 +1,87 @@
+Report for Institution Code TMAG, Resource tmag_all
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 86
+Number of records retrieved in searches: 692
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Netherlands ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Ireland ; Times: 2
+	Country: France ; Times: 67
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 11
+	Date: 2019-12-26 ; Times: 22
+	Date: 2019-12-21 ; Times: 21
+	Date: 2019-12-20 ; Times: 2
+	Date: 2019-12-31 ; Times: 1
+	Date: 2019-12-22 ; Times: 13
+	Date: 2019-12-29 ; Times: 2
+	Date: 2019-12-06 ; Times: 1
+	Date: 2019-12-11 ; Times: 1
+	Date: 2019-12-05 ; Times: 1
+	Date: 2019-12-02 ; Times: 10
+	Date: 2019-12-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lepidocybium flavobrunneum mappable:1" ; Times: 7
+	Query: "Hirundichthys rondeletii mappable:1" ; Times: 2
+	Query: "Mola mola mappable:1" ; Times: 2
+	Query: "Ashbyia lovensis" ; Times: 5
+	Query: "Thorny devil" ; Times: 2
+	Query: "Pseudorca crassidens mappable:1" ; Times: 2
+	Query: "Anoplogaster cornuta mappable:1" ; Times: 4
+	Query: "Kogia breviceps mappable:1" ; Times: 2
+	Query: "Ziphius cavirostris mappable:1" ; Times: 2
+	Query: "Hoplostethus mediterraneus mappable:1" ; Times: 2
+	Query: "Eretmochelys imbricata  mappable:1" ; Times: 2
+	Query: "Right Whale" ; Times: 2
+	Query: "hirundapus" ; Times: 1
+	Query: "Idiacanthus fasciola mappable:1" ; Times: 4
+	Query: "lepidoptera" ; Times: 1
+	Query: "Apteryx mantelli" ; Times: 1
+	Query: "Balaenoptera acutorostrata mappable:1" ; Times: 4
+	Query: "Neoscopelus macrolepidotus mappable:1" ; Times: 5
+	Query: "narcinidae" ; Times: 1
+	Query: "Orcinus orca mappable:1" ; Times: 2
+	Query: "Balaenoptera musculus mappable:1" ; Times: 1
+	Query: "pagodroma" ; Times: 1
+	Query: "Physeter macrocephalus mappable:1" ; Times: 2
+	Query: "Grampus griseus mappable:1" ; Times: 2
+	Query: "Remora remora mappable:1" ; Times: 2
+	Query: "Naucrates ductor mappable:1" ; Times: 3
+	Query: "right whale" ; Times: 1
+	Query: "genus:Eubalaena" ; Times: 1
+	Query: "Isurus oxyrinchus mappable:1" ; Times: 2
+	Query: "Megaptera novaeangliae mappable:1" ; Times: 2
+	Query: "Lampris guttatus mappable:1" ; Times: 7
+	Query: "Prionace glauca mappable:1" ; Times: 2
+	Query: "Dermochelys coriacea mappable:1" ; Times: 2
+	Query: "Tachybaptus novaehollandiae" ; Times: 2
+	Query: "genus:hirundapus class:aves year &gt;= 1980" ; Times: 1
+	Query: "Auxis thazard thazard mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 596 download events in this period)
+Total number of records downloaded: 4
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-12 ; Times: 1
+	Date: 2019-12-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:garzetta genus:Egretta" ; Times: 1
+	Query: "genus:Eubalaena" ; Times: 1
+
+
+End of report.
