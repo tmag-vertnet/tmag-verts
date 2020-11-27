@@ -1,0 +1,156 @@
+Report for Institution Code TMAG, Resource tmag_all
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 356
+Number of records retrieved in searches: 3549
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 335
+	Country: Australia ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 6
+	Country: India ; Times: 2
+	Country: United States ; Times: 6
+	Country: Germany ; Times: 1
+	Country: Ireland ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-07 ; Times: 104
+	Date: 2020-04-05 ; Times: 1
+	Date: 2020-04-17 ; Times: 6
+	Date: 2020-04-16 ; Times: 3
+	Date: 2020-04-14 ; Times: 16
+	Date: 2020-04-23 ; Times: 7
+	Date: 2020-04-20 ; Times: 2
+	Date: 2020-04-21 ; Times: 72
+	Date: 2020-04-26 ; Times: 1
+	Date: 2020-04-02 ; Times: 4
+	Date: 2020-04-03 ; Times: 44
+	Date: 2020-04-28 ; Times: 2
+	Date: 2020-04-29 ; Times: 1
+	Date: 2020-04-08 ; Times: 87
+	Date: 2020-04-30 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Apus pacificus" ; Times: 4
+	Query: "Cormobates leucophaeus" ; Times: 4
+	Query: "Salmo salar" ; Times: 5
+	Query: "Ovis aries" ; Times: 10
+	Query: "Larus dominicanus" ; Times: 6
+	Query: "Stercorarius skua" ; Times: 2
+	Query: "Cheilopogon heterurus" ; Times: 5
+	Query: "Felis catus year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "Phalacrocorax varius" ; Times: 4
+	Query: "Rhipidura fuliginosa" ; Times: 4
+	Query: "B2116" ; Times: 1
+	Query: "Phalacrocorax sulcirostris" ; Times: 4
+	Query: "Alopochen aegyptiacus" ; Times: 5
+	Query: "Oncorhynchus mykiss" ; Times: 8
+	Query: "Orcinus orca" ; Times: 6
+	Query: "Phalacrocorax carbo" ; Times: 4
+	Query: "Oncorhynchus nerka" ; Times: 8
+	Query: "Hirundapus caudacutus" ; Times: 3
+	Query: "Columba livia" ; Times: 3
+	Query: "pterodroma lessonii year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "salmo salar" ; Times: 4
+	Query: "Sus scrofa" ; Times: 6
+	Query: "Leucocarbo atriceps" ; Times: 4
+	Query: "Hirundichthys rondeletii" ; Times: 5
+	Query: "Tinca tinca" ; Times: 7
+	Query: "mesoplodon densirostris" ; Times: 2
+	Query: "pterodroma leucoptera year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "coturnix chinensis" ; Times: 1
+	Query: "Syma torotoro" ; Times: 2
+	Query: "Phaps chalcoptera" ; Times: 6
+	Query: "pelecanoides georgicus" ; Times: 3
+	Query: "Turdus merula" ; Times: 14
+	Query: "Fulica atra" ; Times: 3
+	Query: "Aptenodytes forsteri" ; Times: 4
+	Query: "Cladorhynchus leucocephalus" ; Times: 2
+	Query: "Anous tenuirostris" ; Times: 6
+	Query: "Eudyptula minor" ; Times: 7
+	Query: "Perca fluviatilis" ; Times: 12
+	Query: "Pluvialis dominica" ; Times: 2
+	Query: "Climacteris picumnus" ; Times: 4
+	Query: "Aptenodytes patagonicus" ; Times: 4
+	Query: "Cygnus cygnus" ; Times: 9
+	Query: "garrodia nereis" ; Times: 1
+	Query: "Dama dama" ; Times: 3
+	Query: "Anguilla australis" ; Times: 6
+	Query: "Pelagodroma marina" ; Times: 4
+	Query: "Carassius auratus" ; Times: 14
+	Query: "Gallus gallus" ; Times: 2
+	Query: "Papilio" ; Times: 1
+	Query: "B5659" ; Times: 1
+	Query: "cercartetus nanus" ; Times: 1
+	Query: "unicorn" ; Times: 2
+	Query: "Tachybaptus novaehollandiae" ; Times: 9
+	Query: "phoebetria palpebrata" ; Times: 1
+	Query: "Ixobrychus minutus" ; Times: 1
+	Query: "Procellaria cinerea" ; Times: 9
+	Query: "Manis javanica" ; Times: 3
+	Query: "Balaenoptera physalus" ; Times: 1
+	Query: "Carassius carassius" ; Times: 12
+	Query: "Sprattus sprattus" ; Times: 5
+	Query: "Felis catus" ; Times: 4
+	Query: "Pelecanus conspicillatus" ; Times: 4
+	Query: "Thalassarche melanophris" ; Times: 3
+	Query: "Thylacinus" ; Times: 1
+	Query: "Cygnus atratus" ; Times: 5
+	Query: "Stercorarius maccormicki" ; Times: 2
+	Query: "Atherinosoma microstoma" ; Times: 2
+	Query: "Phasianus colchicus" ; Times: 3
+	Query: "Ardea alba" ; Times: 9
+	Query: "Trachurus trachurus" ; Times: 5
+	Query: "Oryctolagus cuniculus" ; Times: 7
+	Query: "Phalacrocorax fuscescens" ; Times: 4
+	Query: "squatina squatina" ; Times: 1
+	Query: "Lampanyctus australis" ; Times: 1
+	Query: "Taeniopygia guttata" ; Times: 8
+	Query: "ziphius cavirostris" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 13
+	Query: "Salmo trutta" ; Times: 7
+	Query: "Haematopus ostralegus" ; Times: 2
+	Query: "Haematopus unicolor" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1171 download events in this period)
+Total number of records downloaded: 236
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: United Kingdom ; Times: 1
+	Country: South Africa ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-17 ; Times: 2
+	Date: 2020-04-16 ; Times: 1
+	Date: 2020-04-15 ; Times: 1
+	Date: 2020-04-05 ; Times: 2
+	Date: 2020-04-07 ; Times: 1
+	Date: 2020-04-27 ; Times: 1
+	Date: 2020-04-28 ; Times: 3
+	Date: 2020-04-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Gallinago hardwickii" ; Times: 1
+	Query: "vntype:specimen family:Phocidae" ; Times: 1
+	Query: "vntype:specimen family:Otariidae" ; Times: 1
+	Query: "lepidochelys olivacea" ; Times: 1
+	Query: "squatina squatina" ; Times: 1
+	Query: "eretmochelys" ; Times: 1
+	Query: "Tyto novaehollandiae" ; Times: 1
+	Query: "Lampanyctus intricarius" ; Times: 1
+	Query: "Lampanyctus australis" ; Times: 1
+	Query: "Scolopax" ; Times: 1
+	Query: "dermochelys coriacea" ; Times: 1
+	Query: "Gallinago gallinago" ; Times: 1
+	Query: "Esacus magnirostris" ; Times: 1
+
+
+End of report.
