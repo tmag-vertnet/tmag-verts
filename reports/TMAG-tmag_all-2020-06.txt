@@ -1,0 +1,85 @@
+Report for Institution Code TMAG, Resource tmag_all
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 106
+Number of records retrieved in searches: 561
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 87
+	Country: United States ; Times: 17
+	Country: Chile ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-08 ; Times: 2
+	Date: 2020-06-09 ; Times: 3
+	Date: 2020-06-15 ; Times: 9
+	Date: 2020-06-07 ; Times: 1
+	Date: 2020-06-04 ; Times: 2
+	Date: 2020-06-05 ; Times: 5
+	Date: 2020-06-02 ; Times: 4
+	Date: 2020-06-03 ; Times: 3
+	Date: 2020-06-10 ; Times: 31
+	Date: 2020-06-11 ; Times: 33
+	Date: 2020-06-01 ; Times: 1
+	Date: 2020-06-17 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "Salmo salar" ; Times: 9
+	Query: "orcinus" ; Times: 1
+	Query: "Crocodylus johnstoni" ; Times: 2
+	Query: "Alopochen aegyptiacus" ; Times: 6
+	Query: "Tiliqua nigrolutea" ; Times: 4
+	Query: "Hirundapus caudacutus" ; Times: 1
+	Query: "oarfish" ; Times: 1
+	Query: "Scomber australasicus" ; Times: 9
+	Query: "macruronus novaezelandiae" ; Times: 1
+	Query: "Sus scrofa" ; Times: 6
+	Query: "Hirundichthys rondeletii" ; Times: 6
+	Query: "neocyttus rhomboidalis" ; Times: 1
+	Query: "persparsia kopua" ; Times: 1
+	Query: "thinornis rubricollis" ; Times: 2
+	Query: "Perca fluviatilis" ; Times: 6
+	Query: "Tadorna tadorna" ; Times: 5
+	Query: "Pacific Black Duck" ; Times: 1
+	Query: "Carassius auratus" ; Times: 6
+	Query: "meuschenia trachylepis" ; Times: 1
+	Query: "lesueurina platycephala" ; Times: 1
+	Query: "Carassius carassius" ; Times: 6
+	Query: "lepidorhynchus denticulatus" ; Times: 1
+	Query: "platypus" ; Times: 1
+	Query: "Cheilopogon heterurus" ; Times: 6
+	Query: "Oryctolagus cuniculus" ; Times: 5
+	Query: "rhombosolea tapirina" ; Times: 2
+	Query: "Salmo trutta" ; Times: 9
+	Query: "Scomber colias" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 474 download events in this period)
+Total number of records downloaded: 22
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-04 ; Times: 1
+	Date: 2020-06-05 ; Times: 1
+	Date: 2020-06-02 ; Times: 1
+	Date: 2020-06-10 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "locality:kentucky" ; Times: 1
+	Query: "Arenaria interpres" ; Times: 1
+	Query: "Pandion haliaetus" ; Times: 1
+	Query: "Lepidochelys olivacea" ; Times: 1
+	Query: "Tiliqua nigrolutea" ; Times: 1
+	Query: "specificepithet:interpres genus:Arenaria" ; Times: 1
+
+
+End of report.
