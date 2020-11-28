@@ -1,0 +1,100 @@
+Report for Institution Code TMAG, Resource tmag_all
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 41
+Number of records retrieved in searches: 355
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Mexico ; Times: 5
+	Country: Sweden ; Times: 2
+	Country: France ; Times: 23
+	Country: United Kingdom ; Times: 2
+	Country: Austria ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-23 ; Times: 5
+	Date: 2020-07-27 ; Times: 2
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-16 ; Times: 2
+	Date: 2020-07-29 ; Times: 4
+	Date: 2020-07-30 ; Times: 1
+	Date: 2020-07-07 ; Times: 24
+	Date: 2020-07-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Istiophoridae" ; Times: 1
+	Query: "Pseudorca crassidens mappable:1" ; Times: 1
+	Query: "ziphius cavirostris" ; Times: 1
+	Query: "Hirundichthys rondeletii mappable:1" ; Times: 1
+	Query: "Mola mola mappable:1" ; Times: 1
+	Query: "Ziphius" ; Times: 1
+	Query: "Anoplogaster cornuta mappable:1" ; Times: 1
+	Query: "Kogia breviceps mappable:1" ; Times: 1
+	Query: "Ziphius cavirostris mappable:1" ; Times: 1
+	Query: "Hoplostethus mediterraneus mappable:1" ; Times: 1
+	Query: "Idiacanthus fasciola mappable:1" ; Times: 1
+	Query: "Balaenoptera acutorostrata mappable:1" ; Times: 1
+	Query: "Neoscopelus macrolepidotus mappable:1" ; Times: 1
+	Query: "Megaptera novaeangliae" ; Times: 1
+	Query: "Dama dama" ; Times: 2
+	Query: "Lepidocybium flavobrunneum mappable:1" ; Times: 1
+	Query: "Orcinus orca mappable:1" ; Times: 1
+	Query: "Eretmochelys imbricata mappable:1" ; Times: 1
+	Query: "Alopias" ; Times: 2
+	Query: "Physeter macrocephalus mappable:1" ; Times: 1
+	Query: "Grampus griseus mappable:1" ; Times: 1
+	Query: "Remora remora mappable:1" ; Times: 1
+	Query: "Naucrates ductor mappable:1" ; Times: 1
+	Query: "Epigonus" ; Times: 1
+	Query: "common myna" ; Times: 1
+	Query: "Isurus oxyrinchus mappable:1" ; Times: 1
+	Query: "Megaptera novaeangliae mappable:1" ; Times: 1
+	Query: "Lampris guttatus mappable:1" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "Prionace glauca mappable:1" ; Times: 1
+	Query: "Dermochelys coriacea mappable:1" ; Times: 1
+	Query: "Haematopus unicolor" ; Times: 4
+	Query: "Alopias superciliosus" ; Times: 3
+	Query: "Auxis thazard thazard mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 940 download events in this period)
+Total number of records downloaded: 1221
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Colombia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-21 ; Times: 1
+	Date: 2020-07-27 ; Times: 1
+	Date: 2020-07-30 ; Times: 1
+	Date: 2020-07-16 ; Times: 2
+	Date: 2020-07-15 ; Times: 1
+	Date: 2020-07-13 ; Times: 1
+	Date: 2020-07-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Epigonus" ; Times: 1
+	Query: "elapidae" ; Times: 1
+	Query: "family:felidae" ; Times: 1
+	Query: "alauda arvensis" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "cetacea" ; Times: 1
+	Query: "Megaptera novaeangliae" ; Times: 1
+
+
+End of report.
