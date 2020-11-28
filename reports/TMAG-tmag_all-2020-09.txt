@@ -1,0 +1,100 @@
+Report for Institution Code TMAG, Resource tmag_all
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 49
+Number of records retrieved in searches: 306
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: United Arab Emirates ; Times: 2
+	Country: France ; Times: 34
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-21 ; Times: 1
+	Date: 2020-09-16 ; Times: 15
+	Date: 2020-09-17 ; Times: 15
+	Date: 2020-09-25 ; Times: 1
+	Date: 2020-09-11 ; Times: 3
+	Date: 2020-09-29 ; Times: 2
+	Date: 2020-09-18 ; Times: 8
+	Date: 2020-09-09 ; Times: 1
+	Date: 2020-09-08 ; Times: 1
+	Date: 2020-09-02 ; Times: 1
+	Date: 2020-09-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Centroscymnus coelolepis" ; Times: 1
+	Query: "Torpedo torpedo" ; Times: 1
+	Query: "Squatina squatina" ; Times: 1
+	Query: "thylacinus" ; Times: 1
+	Query: "B5400" ; Times: 1
+	Query: "Cheilopogon heterurus" ; Times: 1
+	Query: "specificepithet:inexpectata genus:pterodroma basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Naucrates ductor" ; Times: 1
+	Query: "Pseudocaranx dentex" ; Times: 1
+	Query: "Squalus blainville" ; Times: 1
+	Query: "Centrolophus niger" ; Times: 4
+	Query: "Dalatias licha" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 1
+	Query: "family:Sulidae year &gt;= 1987 year &lt;= 1991" ; Times: 1
+	Query: "Sprattus sprattus" ; Times: 2
+	Query: "vntype:specimen specificepithet:cynocephalus genus:Thylacinus" ; Times: 2
+	Query: "Epigonus denticulatus" ; Times: 1
+	Query: "Lagocephalus lagocephalus" ; Times: 1
+	Query: "bottlenose dolphin" ; Times: 2
+	Query: "hirundapus caudacutus" ; Times: 1
+	Query: "pygoscelis papua" ; Times: 1
+	Query: "Isurus oxyrinchus" ; Times: 1
+	Query: "Microstoma microstoma" ; Times: 1
+	Query: "Lepidochelys olivacea" ; Times: 2
+	Query: "Carassius auratus" ; Times: 1
+	Query: "Remora remora" ; Times: 1
+	Query: "Hexanchus griseus" ; Times: 1
+	Query: "Mustelus mustelus" ; Times: 1
+	Query: "Mola mola" ; Times: 1
+	Query: "Centrophorus uyato" ; Times: 1
+	Query: "Hippocampus hippocampus" ; Times: 1
+	Query: "Oxynotus centrina" ; Times: 1
+	Query: "Prionace glauca" ; Times: 1
+	Query: "blue whale" ; Times: 1
+	Query: "Alopias vulpinus" ; Times: 1
+	Query: "Dentex dentex" ; Times: 1
+	Query: "Plotosus lineatus" ; Times: 1
+	Query: "Hoplostethus mediterraneus" ; Times: 1
+	Query: "Lampris guttatus" ; Times: 1
+	Query: "Heptranchias perlo" ; Times: 1
+	Query: "Lepidion lepidion" ; Times: 1
+	Query: "genus:thylacinus basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 976 download events in this period)
+Total number of records downloaded: 104
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-25 ; Times: 3
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-18 ; Times: 1
+	Date: 2020-09-09 ; Times: 1
+	Date: 2020-09-02 ; Times: 1
+	Date: 2020-09-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "APUS pacificus" ; Times: 1
+	Query: "blue whale" ; Times: 1
+	Query: "order:Galliformes" ; Times: 1
+	Query: "APUS apus" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 1
+	Query: "Passer domesticus" ; Times: 1
+	Query: "hirundapus caudacutus" ; Times: 1
+	Query: "sturnus vulgaris" ; Times: 1
+
+
+End of report.
