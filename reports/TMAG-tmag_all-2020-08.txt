@@ -1,0 +1,122 @@
+Report for Institution Code TMAG, Resource tmag_all
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 66
+Number of records retrieved in searches: 423
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Colombia ; Times: 4
+	Country: Portugal ; Times: 19
+	Country: Philippines ; Times: 7
+	Country: France ; Times: 5
+	Country: United Kingdom ; Times: 18
+	Country: Sweden ; Times: 1
+	Country: Ireland ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-28 ; Times: 1
+	Date: 2020-08-29 ; Times: 2
+	Date: 2020-08-10 ; Times: 20
+	Date: 2020-08-17 ; Times: 1
+	Date: 2020-08-14 ; Times: 1
+	Date: 2020-08-13 ; Times: 1
+	Date: 2020-08-19 ; Times: 3
+	Date: 2020-08-06 ; Times: 5
+	Date: 2020-08-07 ; Times: 1
+	Date: 2020-08-08 ; Times: 1
+	Date: 2020-08-24 ; Times: 3
+	Date: 2020-08-25 ; Times: 5
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-30 ; Times: 2
+	Date: 2020-08-11 ; Times: 1
+	Date: 2020-08-21 ; Times: 18
+
+List of queries that retrieved data from the resource: 
+	Query: "Cormobates leucophaeus" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "genus:pagodroma" ; Times: 1
+	Query: "Phalacrocorax varius" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 1
+	Query: "mappable:1 scientificname:Barnardius zonarius" ; Times: 1
+	Query: "mappable:1 scientificname:Anas castanea" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "Trachurus trachurus" ; Times: 1
+	Query: "mappable:1 scientificname:Taeniopygia guttata" ; Times: 1
+	Query: "mappable:1 scientificname:Aplonis metallica" ; Times: 1
+	Query: "mappable:1 scientificname:Taeniopygia bichenovii" ; Times: 1
+	Query: "genus:pagodroma basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "mappable:1 scientificname:Dama dama" ; Times: 1
+	Query: "Tinca tinca" ; Times: 1
+	Query: "mappable:1 scientificname:Psephotus haematonotus" ; Times: 1
+	Query: "Phaps chalcoptera" ; Times: 1
+	Query: "Fulica atra" ; Times: 1
+	Query: "B4027" ; Times: 1
+	Query: "Sprattus sprattus" ; Times: 4
+	Query: "Paradisaea rudolphi" ; Times: 1
+	Query: "mappable:1 scientificname:Cereopsis novaehollandiae" ; Times: 1
+	Query: "mappable:1 scientificname:Lathamus discolor" ; Times: 1
+	Query: "Anous tenuirostris" ; Times: 1
+	Query: "mappable:1 scientificname:Cacatua galerita" ; Times: 1
+	Query: "Phalacrocorax fuscescens" ; Times: 1
+	Query: "genus:Centrophorus" ; Times: 2
+	Query: "mappable:1 scientificname:Larus dominicanus" ; Times: 1
+	Query: "Anguilla australis" ; Times: 1
+	Query: "mappable:1 scientificname:Geopelia striata" ; Times: 1
+	Query: "mappable:1 scientificname:Anas rhynchotis" ; Times: 1
+	Query: "Mirounga leonina" ; Times: 1
+	Query: "mappable:1 scientificname:Chenonetta jubata" ; Times: 1
+	Query: "Phalacrocorax sulcirostris" ; Times: 1
+	Query: "mappable:1 scientificname:Cygnus atratus" ; Times: 1
+	Query: "genus:Hyperoodon" ; Times: 1
+	Query: "mappable:1 scientificname:Coturnix chinensis" ; Times: 1
+	Query: "Lepus capensis" ; Times: 1
+	Query: "mappable:1 scientificname:Platycercus eximius" ; Times: 1
+	Query: "unicorn" ; Times: 2
+	Query: "Megaptera novaeangliae" ; Times: 3
+	Query: "Larus dominicanus" ; Times: 1
+	Query: "Leucocarbo atriceps" ; Times: 1
+	Query: "Phasianus colchicus" ; Times: 1
+	Query: "mappable:1 scientificname:Nymphicus hollandicus" ; Times: 1
+	Query: "mappable:1 scientificname:Melopsittacus undulatus" ; Times: 1
+	Query: "Phalacrocorax carbo" ; Times: 1
+	Query: "Hirundo neoxena" ; Times: 1
+	Query: "A2672" ; Times: 1
+	Query: "genus:ziphius" ; Times: 1
+	Query: "esacus magnirostris" ; Times: 7
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 756 download events in this period)
+Total number of records downloaded: 2928
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-17 ; Times: 1
+	Date: 2020-08-08 ; Times: 1
+	Date: 2020-08-13 ; Times: 1
+	Date: 2020-08-05 ; Times: 1
+	Date: 2020-08-06 ; Times: 3
+	Date: 2020-08-26 ; Times: 2
+	Date: 2020-08-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Testudines" ; Times: 2
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "alauda" ; Times: 1
+	Query: "genus:pagodroma basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "actinopterygii" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 1
+	Query: "Mirounga leonina" ; Times: 1
+	Query: "genus:ziphius" ; Times: 1
+
+
+End of report.
