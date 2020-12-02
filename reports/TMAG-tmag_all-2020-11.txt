@@ -1,0 +1,162 @@
+Report for Institution Code TMAG, Resource tmag_all
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 136
+Number of records retrieved in searches: 2641
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United Kingdom ; Times: 68
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 4
+	Country: United States ; Times: 59
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-22 ; Times: 1
+	Date: 2020-11-05 ; Times: 1
+	Date: 2020-11-19 ; Times: 1
+	Date: 2020-11-25 ; Times: 1
+	Date: 2020-11-08 ; Times: 3
+	Date: 2020-11-09 ; Times: 1
+	Date: 2020-11-06 ; Times: 1
+	Date: 2020-11-02 ; Times: 53
+	Date: 2020-11-04 ; Times: 1
+	Date: 2020-11-16 ; Times: 3
+	Date: 2020-11-11 ; Times: 2
+	Date: 2020-11-10 ; Times: 30
+	Date: 2020-11-01 ; Times: 1
+	Date: 2020-11-27 ; Times: 13
+	Date: 2020-11-28 ; Times: 1
+	Date: 2020-11-26 ; Times: 13
+	Date: 2020-11-30 ; Times: 3
+	Date: 2020-11-29 ; Times: 3
+	Date: 2020-11-24 ; Times: 1
+	Date: 2020-11-15 ; Times: 2
+	Date: 2020-11-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Apus pacificus" ; Times: 1
+	Query: "Cormobates leucophaeus" ; Times: 1
+	Query: "Salmo salar" ; Times: 5
+	Query: "c. Tachyglossidae" ; Times: 1
+	Query: "Centroscymnus coelolepis" ; Times: 1
+	Query: "Ovis aries" ; Times: 3
+	Query: "genus:megaptera year &gt;= 2005 year &lt;= 2008" ; Times: 1
+	Query: "Kyphosus sydneyanus" ; Times: 1
+	Query: "Tachyglossidae" ; Times: 2
+	Query: "scientificname:Felis catus" ; Times: 2
+	Query: "cascades frog" ; Times: 1
+	Query: "Cheilopogon heterurus" ; Times: 1
+	Query: "scientificname:Orcinus orca" ; Times: 2
+	Query: "Orcinus orca" ; Times: 1
+	Query: "Oncorhynchus nerka" ; Times: 1
+	Query: "Gonorynchus greyi" ; Times: 2
+	Query: "Columba livia" ; Times: 2
+	Query: "Epigonus denticulatus" ; Times: 1
+	Query: "scientificname:Kogia breviceps" ; Times: 2
+	Query: "scientificname:Delphinus delphis" ; Times: 2
+	Query: "salmo salar" ; Times: 1
+	Query: "Sus scrofa" ; Times: 6
+	Query: "Hirundichthys rondeletii" ; Times: 1
+	Query: "Arenigobius frenatus" ; Times: 2
+	Query: "Tinca tinca" ; Times: 1
+	Query: "Apistus carinatus" ; Times: 1
+	Query: "scientificname:Balaenoptera physalus" ; Times: 2
+	Query: "scientificname:Sus scrofa" ; Times: 1
+	Query: "Oncorhynchus mykiss" ; Times: 1
+	Query: "Turdus merula" ; Times: 1
+	Query: "scientificname:Balaenoptera musculus" ; Times: 2
+	Query: "specificepithet:gazella genus:Arctocephalus" ; Times: 2
+	Query: "scientificname:Phocoena phocoena" ; Times: 2
+	Query: "Megaptera novaeangliae" ; Times: 17
+	Query: "scientificname:Globicephala melas" ; Times: 2
+	Query: "Rhynchobatus australiae" ; Times: 2
+	Query: "leopard seal" ; Times: 1
+	Query: "Anguilla australis" ; Times: 1
+	Query: "Carassius auratus" ; Times: 1
+	Query: "Gallus gallus" ; Times: 2
+	Query: "Anguilla dieffenbachi" ; Times: 1
+	Query: "Remora remora" ; Times: 1
+	Query: "gray whale" ; Times: 1
+	Query: "scientificname:Megaptera novaeangliae" ; Times: 2
+	Query: "Alopias superciliosus" ; Times: 1
+	Query: "unicorn" ; Times: 1
+	Query: "scientificname:Ziphius cavirostris" ; Times: 1
+	Query: "hydrurga" ; Times: 1
+	Query: "Stomias boa" ; Times: 2
+	Query: "scientificname:Physeter macrocephalus" ; Times: 2
+	Query: "Aldrichetta forsteri" ; Times: 1
+	Query: "Caranx bucculentus" ; Times: 1
+	Query: "scientificname:Balaenoptera acutorostrata" ; Times: 3
+	Query: "Alopias vulpinus" ; Times: 1
+	Query: "Spratelloides robustus" ; Times: 2
+	Query: "Felis catus" ; Times: 1
+	Query: "genus:Leucocarbo" ; Times: 1
+	Query: "Lamna nasus" ; Times: 1
+	Query: "Perca fluviatilis" ; Times: 3
+	Query: "DAMA DAMA" ; Times: 2
+	Query: "genus:megaptera year &gt;= 2000 year &lt;= 2010" ; Times: 1
+	Query: "Anguilla reinhardtii" ; Times: 2
+	Query: "scientificname:Rattus norvegicus" ; Times: 2
+	Query: "scientificname:Grampus griseus" ; Times: 2
+	Query: "Dendrocygna arcuata" ; Times: 2
+	Query: "scientificname:Tursiops truncatus" ; Times: 1
+	Query: "Trachurus trachurus" ; Times: 1
+	Query: "Upeneus tragula" ; Times: 3
+	Query: "Petroica multicolor" ; Times: 1
+	Query: "Chelidonichthys kumu" ; Times: 1
+	Query: "Globicephala melas" ; Times: 1
+	Query: "balaenoptera musculus" ; Times: 2
+	Query: "Dentex dentex" ; Times: 1
+	Query: "Salmo trutta" ; Times: 2
+	Query: "A2458" ; Times: 1
+	Query: "Dalatias licha" ; Times: 1
+	Query: "Carassius carassius" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 842 download events in this period)
+Total number of records downloaded: 442
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Australia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-24 ; Times: 1
+	Date: 2020-11-08 ; Times: 3
+	Date: 2020-11-27 ; Times: 1
+	Date: 2020-11-06 ; Times: 1
+	Date: 2020-11-29 ; Times: 2
+	Date: 2020-11-04 ; Times: 2
+	Date: 2020-11-16 ; Times: 3
+	Date: 2020-11-02 ; Times: 1
+	Date: 2020-11-13 ; Times: 1
+	Date: 2020-11-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "macropus" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "genus:Leucocarbo" ; Times: 1
+	Query: "genus:megaptera year &gt;= 2005 year &lt;= 2008" ; Times: 1
+	Query: "Tachyglossus aculeatus" ; Times: 1
+	Query: "Polytelis alexandrae" ; Times: 1
+	Query: "Mus musculus" ; Times: 2
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "Rattus rattus" ; Times: 1
+	Query: "Thalassoica antarctica" ; Times: 1
+	Query: "specificepithet:gazella genus:Arctocephalus" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:Passer year &gt;= 1980 year &lt;= 2021" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:Passer year &gt;= 1980 year &lt;= 1999" ; Times: 1
+	Query: "genus:megaptera year &gt;= 2000 year &lt;= 2010" ; Times: 1
+	Query: "Megaptera novaeangliae" ; Times: 1
+	Query: "auratus genus:Carassius year &gt;= 1960" ; Times: 1
+	Query: "vulpes vulpes" ; Times: 1
+
+
+End of report.
