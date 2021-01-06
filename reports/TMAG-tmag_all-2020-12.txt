@@ -1,0 +1,169 @@
+Report for Institution Code TMAG, Resource tmag_all
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 119
+Number of records retrieved in searches: 668
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 12
+	Country: Australia ; Times: 1
+	Country: Iran ; Times: 2
+	Country: Unknown ; Times: 11
+	Country: France ; Times: 64
+	Country: United Kingdom ; Times: 24
+	Country: Mozambique ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-24 ; Times: 3
+	Date: 2020-12-20 ; Times: 1
+	Date: 2020-12-23 ; Times: 1
+	Date: 2020-12-22 ; Times: 7
+	Date: 2020-12-03 ; Times: 6
+	Date: 2020-12-31 ; Times: 2
+	Date: 2020-12-06 ; Times: 1
+	Date: 2020-12-07 ; Times: 1
+	Date: 2020-12-18 ; Times: 1
+	Date: 2020-12-19 ; Times: 1
+	Date: 2020-12-02 ; Times: 3
+	Date: 2020-12-09 ; Times: 5
+	Date: 2020-12-08 ; Times: 17
+	Date: 2020-12-10 ; Times: 1
+	Date: 2020-12-11 ; Times: 5
+	Date: 2020-12-30 ; Times: 14
+	Date: 2020-12-04 ; Times: 18
+	Date: 2020-12-14 ; Times: 13
+	Date: 2020-12-12 ; Times: 1
+	Date: 2020-12-01 ; Times: 16
+	Date: 2020-12-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Apus pacificus" ; Times: 2
+	Query: "Anthus novaeseelandiae" ; Times: 1
+	Query: "hydromys" ; Times: 1
+	Query: "scientificname:Galeorhinus galeus" ; Times: 2
+	Query: "scientificname:Centrolophus niger" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "scientificname:Plotosus lineatus" ; Times: 1
+	Query: "scientificname:Squalus blainville" ; Times: 1
+	Query: "Cygnus cygnus" ; Times: 1
+	Query: "thylacinus" ; Times: 1
+	Query: "scientificname:Trachurus trachurus" ; Times: 4
+	Query: "scientificname:Hoplostethus mediterraneus" ; Times: 2
+	Query: "scientificname:Sprattus sprattus" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "scientificname:Squalus acanthias" ; Times: 2
+	Query: "scientificname:Vinciguerria attenuata" ; Times: 1
+	Query: "scientificname:Zeus faber" ; Times: 2
+	Query: "scientificname:Auxis thazard" ; Times: 1
+	Query: "scientificname:Mustelus mustelus" ; Times: 2
+	Query: "Oncorhynchus nerka" ; Times: 1
+	Query: "scientificname:Hippocampus hippocampus" ; Times: 4
+	Query: "mappable:1 scientificname:Dermochelys coriacea" ; Times: 2
+	Query: "Cormobates leucophaeus" ; Times: 1
+	Query: "scientificname:Macroramphosus scolopax" ; Times: 2
+	Query: "scientificname:Dalatias licha" ; Times: 1
+	Query: "Moloch horridus" ; Times: 1
+	Query: "scientificname:Epigonus denticulatus" ; Times: 1
+	Query: "sterna vittata" ; Times: 1
+	Query: "scientificname:Brama brama" ; Times: 3
+	Query: "scientificname:Mola mola" ; Times: 1
+	Query: "scientificname:Pseudocaranx dentex" ; Times: 1
+	Query: "scientificname:Oxynotus centrina" ; Times: 1
+	Query: "scientificname:Lepidopus caudatus" ; Times: 2
+	Query: "scientificname:Lagocephalus lagocephalus" ; Times: 1
+	Query: "genus:megaptera year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "mappable:1 scientificname:Arenaria interpres" ; Times: 1
+	Query: "mclennan vntype:specimen class:aves year &gt;= 1909 year &lt;= 1911 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "Torpedo torpedo" ; Times: 1
+	Query: "scientificname:Torpedo torpedo" ; Times: 2
+	Query: "Tadorna tadorna" ; Times: 2
+	Query: "scientificname:Alopias vulpinus" ; Times: 1
+	Query: "scientificname:Hexanchus griseus" ; Times: 2
+	Query: "scientificname:Squatina squatina" ; Times: 1
+	Query: "scientificname:Lampris guttatus" ; Times: 1
+	Query: "Dama dama" ; Times: 7
+	Query: "scientificname:Dentex dentex" ; Times: 2
+	Query: "Carassius auratus" ; Times: 2
+	Query: "scientificname:Stomias boa" ; Times: 2
+	Query: "Aepyornithiformes" ; Times: 1
+	Query: "Platypus" ; Times: 3
+	Query: "Gallus gallus" ; Times: 1
+	Query: "Auxis thazard" ; Times: 1
+	Query: "Carassius carassius" ; Times: 2
+	Query: "scientificname:Naucrates ductor" ; Times: 1
+	Query: "Ornithorhynchus" ; Times: 1
+	Query: "unicorn" ; Times: 2
+	Query: "scientificname:Heptranchias perlo" ; Times: 2
+	Query: "Procellaria cinerea" ; Times: 2
+	Query: "scientificname:Scomberesox saurus" ; Times: 1
+	Query: "D. novaeguineae" ; Times: 1
+	Query: "scientificname:Remora remora" ; Times: 2
+	Query: "scientificname:Centrophorus uyato" ; Times: 1
+	Query: "scientificname:Prionace glauca" ; Times: 1
+	Query: "specificepithet:imbricata genus:Eretmochelys year &lt;= 1961" ; Times: 1
+	Query: "scientificname:Cheilopogon heterurus" ; Times: 1
+	Query: "Vespadelus regulus" ; Times: 1
+	Query: "mappable:1 scientificname:Larus dominicanus" ; Times: 1
+	Query: "mappable:1 scientificname:Nycticorax nycticorax" ; Times: 1
+	Query: "scientificname:Isurus oxyrinchus" ; Times: 1
+	Query: "Cygnus atratus" ; Times: 1
+	Query: "scientificname:Centroscymnus coelolepis" ; Times: 1
+	Query: "mappable:1 scientificname:Eretmochelys imbricata" ; Times: 2
+	Query: "scientificname:Lepidion lepidion" ; Times: 1
+	Query: "mappable:1 scientificname:Ardea alba" ; Times: 1
+	Query: "Lepus capensis" ; Times: 2
+	Query: "scientificname:Microstoma microstoma" ; Times: 2
+	Query: "Tachybaptus novaehollandiae" ; Times: 2
+	Query: "scientificname:Carcharhinus falciformis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 705 download events in this period)
+Total number of records downloaded: 370
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 7
+	Country: United States ; Times: 5
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-26 ; Times: 1
+	Date: 2020-12-23 ; Times: 6
+	Date: 2020-12-31 ; Times: 1
+	Date: 2020-12-09 ; Times: 2
+	Date: 2020-12-06 ; Times: 1
+	Date: 2020-12-12 ; Times: 3
+	Date: 2020-12-15 ; Times: 1
+	Date: 2020-12-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "basisofrecord:HumanObservation" ; Times: 1
+	Query: "specificepithet:imbricata genus:Eretmochelys year &lt;= 1961" ; Times: 1
+	Query: "Moloch horridus" ; Times: 1
+	Query: "family:Felidae year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "genus:Anas" ; Times: 1
+	Query: "mallard" ; Times: 1
+	Query: "anas platyrhynchos" ; Times: 1
+	Query: "family:anatidae" ; Times: 1
+	Query: "vntype:specimen class:Aves year &gt;= 1750 year &lt;= 1820 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:megaptera year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "Christinus marmoratus" ; Times: 1
+	Query: "Lepus capensis" ; Times: 1
+	Query: "Oedura marmorata" ; Times: 1
+	Query: "Amphibolurus muricatus" ; Times: 1
+	Query: "genus:Lepus" ; Times: 1
+	Query: "Pseudemoia entrecasteauxii" ; Times: 1
+	Query: "Lerista bougainvillii" ; Times: 1
+
+
+End of report.
